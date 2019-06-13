@@ -1,0 +1,17 @@
+
+title: Project Blog
+description: A place to talk about my projects
+url: https://josepheoff.github.io
+theme: minimal
+show_excerpts: true
+markdown: kramdown
+timezone: Europe/Berlin
+permalink: /posts/:slug
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache
+  - CNAME
+  - LICENSE
