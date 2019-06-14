@@ -2,7 +2,7 @@
 title: Project Blog
 description: A place to talk about my projects
 url: https://josepheoff.github.io
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
 show_excerpts: true
 markdown: kramdown
 timezone: Europe/Berlin
