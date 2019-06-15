@@ -38,7 +38,7 @@ The end result is this:
 
 I'm not quite done, but it is functional.  I have it connected to my old scope, but the software doesn't care what scope it is attached to.
 
-Have you got an analog oscilloscope?  Well then, teach that old dog a new trick!
+Have you got an analog oscilloscope?  [Well then, teach that old dog a new trick!](https://github.com/JosephEoff/D43)
 
 Time, frequency, and voltage measurements are made using the on screen cursors, and it makes nice, neat pictures of just the display:
 
