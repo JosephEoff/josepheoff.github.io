@@ -36,7 +36,9 @@ The end result is this:
 
 ![Screenshot of the D43 Camera](/assets/screenshot-D43Camera1.png)
 
-I'm not quite done, but it is functional.
+I'm not quite done, but it is functional.  I have it connected to my old scope, but the software doesn't care what scope it is attached to.
+
+Have you got an analog oscilloscope?  Well then, teach that old dog a new trick!
 
 Time, frequency, and voltage measurements are made using the on screen cursors, and it makes nice, neat pictures of just the display:
 
