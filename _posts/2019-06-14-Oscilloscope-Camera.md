@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A camera for analog oscilloscopes"
+title: "A digital camera for analog oscilloscopes"
 categories: [blog]
 --- 
 
