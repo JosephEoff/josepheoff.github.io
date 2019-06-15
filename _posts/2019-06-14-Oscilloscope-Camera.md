@@ -6,7 +6,7 @@ categories: [blog]
 
 New tricks for old dogs.
 
-A couple of weeks ago, I needed to make a few pictures of some measurements on my old [Telequipmet D43 oscilloscope.](http://w140.com/tekwiki/wiki/Telequipment_D43)
+A couple of weeks ago, I needed to make a few pictures of some measurements on my old [Telequipment D43 oscilloscope.](http://w140.com/tekwiki/wiki/Telequipment_D43)
 
 ![D43-Photo](/assets/D43.jpg)
 
