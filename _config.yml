@@ -7,7 +7,7 @@ show_excerpts: true
 markdown: kramdown
 timezone: Europe/Berlin
 permalink: /posts/:slug
-gems: - jekyll-seo-tag
+gems: jekyll-seo-tag
 exclude:
   - README.md
   - .gitignore
