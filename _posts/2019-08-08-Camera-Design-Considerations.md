@@ -56,7 +56,7 @@ A final word on the length, and then I'll summarize all of this.
 
 The resolution of the camera is fixed.  Its focal distance is fixed.  To get the highest resolution image of the trace, you want the camera as close to the screen as possible.  To get the sharpest image of the trace, the camera has to be at least as far from the screen as its focal distance.
 
-Before making the tube for the next adapter, I'll measure the focal distance of the new camera (which I also did for the first one) and make sure the tube is long enough (I flubbed that the last time around - I cut one end of the tube crooked, and by the time I got the tube ends parallel again I'd lost over an inch of length on the it.)
+Before making the tube for the next adapter, I'll measure the focal distance of the new camera (which I also did for the first one) and make sure the tube is long enough (I flubbed that the last time around - I cut one end of the tube crooked, and by the time I got the tube ends parallel again I'd lost over an inch of length on it.)
 
 **Summary of the requirements:**
 1.  Light tight (loads of black felt)
