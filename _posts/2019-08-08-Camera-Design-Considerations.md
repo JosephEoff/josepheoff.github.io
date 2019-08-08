@@ -38,7 +38,7 @@ In that first adapter, I have a couple of rings of plastic inside the barrel.  T
 
 That ring system works fairly well - it is easy to attach and remove, and I can rotate the camera to get the trace parallel to the horizontal lines of the camera pixels.
 
-It has one big disadvantage, though.  The innermost ring blocks some of the screen of the scope, cutting of small areas at the four corners of the grid.
+It has one big disadvantage, though.  The innermost ring blocks some of the screen of the scope, cutting off small areas at the four corners of the grid.
 
 The cut off corners look like this:
 
