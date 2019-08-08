@@ -32,7 +32,7 @@ My [Digital D43 program](https://github.com/JosephEoff/D43) generates the grid i
 
 That's a couple of requirements for the mount already:  proper length for focus, and light tight.
 
-Another thing that has to be considered is the adapter is to be held onto the scope.
+Another thing that has to be considered is how the adapter is to be held onto the scope.
 
 In that first adapter, I have a couple of rings of plastic inside the barrel.  The flange of the oscilloscope hood fits between the rings, and there's layers of felt in between to cushion things and block the light.  The adapter is actually held in place by the friction between the oscilloscope hood and the felt lining.
 
