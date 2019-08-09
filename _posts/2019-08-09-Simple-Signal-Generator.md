@@ -34,7 +34,7 @@ In less time than I've spent telling you about it, I had a simple program to gen
 
 Once the software was done and working, I checked the frequency accuracy on my D43.  Pretty sad, to tell the truth.  Voltage and frequency are off by about 4% on all ranges.  And, all the ranges are off a little bit different - well, of course they are.  The timing is set by a bunch of discrete capacitors in the timebase circuit.  They are all 10% parts (at best) and have most certainly drifted in the 50 years since the D43 was built.
 
-No, how do I keep this thing from getting lost in among all the other Nanos?
+Now, how do I keep this thing from getting lost in among all the other Nanos?
 
 Put it in a snazzy housing.  Hmmpf.  I finished it on a Sunday, and I live in Germany.  Damn few stores open, and none that sell electronics stuff.
 
