@@ -32,7 +32,7 @@ The correct way to do the job is to use a timer.  I rooted around the internet a
 
 In less time than I've spent telling you about it, I had a simple program to generate 1kHz square waves.  A half an hour after that, I'd added a simple serial protocol so that I could change frequencies without recompiling.  32Hz to 1MHz, serial control.  Easy peasy.
 
-Once the software was done and working, I checked the frequency accuracy on my D43.  Pretty sad, to tell the truth.  Voltage and frequency are off by about 4% on all ranges.  And, all the ranges are off a little bit different - well, of course they are.  The timing is set by a bunch of discrete capacitors in the timebase circuit.  They are all 10% parts (at best) and have most certainly drifted in the 50 years since the D43 was built.
+[Once the software was done and working,](https://github.com/JosephEoff/SimpleSignalGenerator) I checked the frequency accuracy on my D43.  Pretty sad, to tell the truth.  Voltage and frequency are off by about 4% on all ranges.  And, all the ranges are off a little bit different - well, of course they are.  The timing is set by a bunch of discrete capacitors in the timebase circuit.  They are all 10% parts (at best) and have most certainly drifted in the 50 years since the D43 was built.
 
 Now, how do I keep this thing from getting lost in among all the other Nanos?
 
