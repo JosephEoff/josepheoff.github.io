@@ -20,7 +20,7 @@ Here's the circuit I've been using:n
 
 If you look at it closely, you'll realize that there's a row of capacitors across the top and bottom connected in series.
 
-Lets remove the diodes.  I'm just going to brutally paint them over:
+Let's remove the diodes.  I'm just going to brutally paint them over:
 
 |Three stage non-multiplier|
 |-------------------------------------|
@@ -58,7 +58,7 @@ If I do just that, the voltage for the three stage multiplier looks like this:
 
 I'll show you.
 
-Lets look at the voltage on the capacitors feeding each stage.
+Let's look at the voltage on the capacitors feeding each stage.
 
 |Capacitor|DC Voltage|
 |---------|----------|
@@ -71,7 +71,7 @@ Capacitors 2 and 4 both have the highest voltage across them.  As you add stages
 
 If you are building high voltage output multipliers, the required voltage rating on your stage feed capacitors can get really high.
 
-Now lets compare that to a standard Cockcroft-Walton multiplier.
+Now let's compare that to a standard Cockcroft-Walton multiplier.
 
 |Capacitor|DC Voltage|
 |---------|----------|
