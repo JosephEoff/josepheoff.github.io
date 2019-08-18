@@ -46,3 +46,5 @@ On the plus side, the peaks are clearly twice as high as the (15V) peaks of the 
 The Villard output is just the AC offset by a DC voltage so that the AC peaks move up above the zero volt line.  It still **looks** like AC, but there's no negative half of the wave cycle.
 
 The Villard output is better than nothing, but can be improved upon.  The next better voltage doubler is the Greinacher circuit.  I'll look at it in the next post.
+
+[**Next**](diode-capacitors-volts-pt2)

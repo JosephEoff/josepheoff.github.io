@@ -70,3 +70,5 @@ The next post will get into the circuitry.
 
 (PS:  If you live in the Mainz, Germany area and intended to buy 1N4001 diodes or 100nF capacitors from Conrad Electronics in the next couple of days, I'm sorry.  They are all out.  I have all of them in my work room.)
 
+[**Next**](diode-capacitors-volts-pt1)
+

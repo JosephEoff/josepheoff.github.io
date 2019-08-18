@@ -41,3 +41,5 @@ Now, what do you do if you need even **more** voltage?
 You turn to a [Cockcroft-Walton](https://en.wikipedia.org/wiki/Cockcroft%E2%80%93Walton_generator) multiplier.
 
 I'll describe that the next time around.
+
+[**Next**](diode-capacitors-volts-pt3)

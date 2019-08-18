@@ -115,3 +115,5 @@ In summary:
 6.  You have to consider the load when designing a Cockcroft-Walton multiplier.
 
 The next post will go into why the Cockcroft-Walton has the structure is has.  There **is** a very specific advantage to the structure - even though the structure is also the responsible for the load problem.
+
+[**Next**](diode-capacitors-volts-pt4)
