@@ -51,7 +51,7 @@ Look closely at the rectifier drawing and the Cockcroft-Walton stage.  They are 
 
 A single stage of a Cockcroft-Walton multiplier doesn't actually multiply.  It only puts out the same DC voltage that a rectifier would.  This is different from the Villard or Greinacher circuits.  Each of those gives a DC voltage of approximately twice that of a simple rectifier.
 
-To get higher voltage out of a Cockcroft-Walton multiplier, you **must** use multiple stages.  Each stage is connected in parallel to the AC source, but the outputs are put in series.  Lets see what that looks like:
+To get higher voltage out of a Cockcroft-Walton multiplier, you **must** use multiple stages.  Each stage is connected in parallel to the AC source, but the outputs are put in series.  Let's see what that looks like:
 
 |Not really a multiplier|
 |-----------------------|
@@ -65,7 +65,7 @@ That won't work.  We have a DC short circuit (through the diodes) across the tra
 
 That's **really** far from being a multiplier.
 
-What we need is to have the AC inputs to the rectifiers in parallel, but with out allowing a DC short circuit.  Capacitors don't pass DC, so lets use capacitors to break path of the DC short circuit:
+What we need is to have the AC inputs to the rectifiers in parallel, but with out allowing a DC short circuit.  Capacitors don't pass DC, so let's use capacitors to break path of the DC short circuit:
 
 |Two stage Cockcroft-Walton multiplier|
 |-------------------------------------|
@@ -81,7 +81,7 @@ That's 25.6 VDC on the output.  Not quite twice the voltage of a single stage, b
 
 The capacitors ate it.  Capacitors block DC, but they also have AC impedance.  I'll go into that in a later post.
 
-For now, lets see what adding another stage does:
+For now, let's see what adding another stage does:
 
 |Three stage Cockcroft-Walton multiplier|
 |-------------------------------------|
@@ -97,7 +97,7 @@ What's going on here?
 
 Remember I said the capacitors ate it?  Well, they ate more this time around.  I'll go in to the causes and explanations later.  For now, I'll just say that how much the capacitors eat depends on the load, and my old oscilloscope is more of a load than my voltmeter.
 
-Lets check the voltages with the meter instead of the scope.
+Let's check the voltages with the meter instead of the scope.
 
 |Stage 1|Stage 2|Stage 3|
 |-------|-------|-------|
