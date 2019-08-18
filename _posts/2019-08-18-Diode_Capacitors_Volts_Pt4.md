@@ -89,7 +89,7 @@ If you build high voltage Cockcroft-Walton multipliers, all of your parts must b
 
 If you were to feed the stages in parallel to reduce the impedance, then you would need capacitors rated for a very large part of the final output voltage.
 
-If you are playing with piddly stuff like I am, then it doesn't matter.  It would take a five stage multiplier to exceed the voltage ratings on the capacitors I'm using.  The output voltage would be about 70V to 75V, and the capacitors for the final stage would be exposed to 60V.  In may case, I bebop over to Conrad (or order parts from a better supplier) and get capacitors rated for 150V, and all is good.  If I were trying to generate [a few million volts for a particle accelerator](https://en.wikipedia.org/wiki/Cockcroft%E2%80%93Walton_generator) then things would be a good bit more difficult.
+If you are playing with piddly stuff like I am, then it doesn't matter.  It would take a five stage multiplier to exceed the voltage ratings on the capacitors I'm using.  The output voltage would be about 70V to 75V, and the capacitors for the final stage would be exposed to 60V.  In my case, I bebop over to Conrad (or order parts from a better supplier) and get capacitors rated for 150V, and all is good.  If I were trying to generate [a few million volts for a particle accelerator](https://en.wikipedia.org/wiki/Cockcroft%E2%80%93Walton_generator) then it would be much more difficult to get higher rated parts.
 
 Summary:
 

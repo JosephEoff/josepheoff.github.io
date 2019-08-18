@@ -16,7 +16,7 @@ This is what a Greinacher doubler looks like:
 |--------------------------|
 |![Greinacher voltage doubler.](/assets/voltage_multiplier/greinacherdoubler.png)|
 
-If you refer back to the schematic diagrams in [part 1 of this series, ](diode-capacitors-volts-pt1) you can see how a Villard doubler is combined with a simple rectifier to produce the Villard design.  Really, the Greinacher is just a Villard followed by a simple rectifier.
+If you refer back to the schematic diagrams in [part 1 of this series, ](diode-capacitors-volts-pt1) you can see how a Villard doubler is combined with a simple rectifier to produce the Greinacher design.  Really, the Greinacher is just a Villard followed by a simple rectifier.
 
 Here are the waveforms and voltages for a Greinacher doubler:
 
