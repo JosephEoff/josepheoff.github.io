@@ -4,7 +4,7 @@ title: "Voltage multipliers - Part 1"
 categories: [blog]
 --- 
 
-Back to the basics.
+Start with the simple things.
 
 I'm going to start this part by comparing a simple half wave rectifier circuit with a simple [Villard voltage doubler.](https://en.wikipedia.org/wiki/Voltage_doubler#Villard_circuit)
 
