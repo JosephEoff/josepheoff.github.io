@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multipliers - Part 3"
+title: "Voltage multipliers - Part 3 The Cockcroft-Walton voltage multiplier"
 categories: [blog]
 --- 
 
