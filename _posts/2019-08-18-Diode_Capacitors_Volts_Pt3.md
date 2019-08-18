@@ -31,7 +31,7 @@ First, a full wave bridge rectifier:
 
 The full-wave rectifier is the basis of the Cockroft-Walton full-wave multiplier.
 
-The DC output voltage of a full wave rectifier is about half the peak to peak voltage of the AC input, but is is cleaner than the half wave rectifier.
+The DC output voltage of a full wave rectifier is about half the peak to peak voltage of the AC input, but it is cleaner than the half wave rectifier.
 
 It looks like this:
 
