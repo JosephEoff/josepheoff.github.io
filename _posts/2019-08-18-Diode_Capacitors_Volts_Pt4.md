@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multipliers - Part 4"
+title: "Voltage multipliers - Part 4 More on the Cockcroft-Walton voltage multiplier"
 categories: [blog]
 --- 
  
@@ -12,7 +12,7 @@ Though it isn't as simple as the doublers, it is extendable and easily predictab
 
 It also turns out to have a small problem - the output voltage drops if the load is too heavy.  I implied that the very design of the Cockcroft-Walton multiplier was responsible for that drop.  I'm going to explain why that is, and why you would build it the way it is even though you have to accept the voltage drop under load.
 
-Here's the circuit I've been using:
+Here's the circuit I've been using:n 
 
 |Three stage Cockcroft-Walton multiplier|
 |-------------------------------------|
