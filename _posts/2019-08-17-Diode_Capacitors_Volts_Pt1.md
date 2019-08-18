@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multipliers - Part 1"
+title: "Voltage multipliers - Part 1 The Villard voltage doubler"
 categories: [blog]
 --- 
 
