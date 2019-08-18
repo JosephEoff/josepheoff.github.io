@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multipliers - Part 2"
+title: "Voltage multipliers - Part 2 The Greinacher voltage doubler"
 categories: [blog]
 --- 
 
