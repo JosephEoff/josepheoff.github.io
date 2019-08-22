@@ -99,7 +99,7 @@ Summary:
 Now that I've had a look at all the various types of voltage doubler and voltage multipliers, I'm going to round them all up in the next installment and show you that they are all the same - and while I'm at it, you'll see why I started the discussion of Cockcroft-Walton voltage multipliers with the full-wave version.
 
 
-
+[**Next**](diode-capacitors-volts-pt5)
 
 
 
