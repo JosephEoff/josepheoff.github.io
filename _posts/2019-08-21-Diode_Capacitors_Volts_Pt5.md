@@ -35,7 +35,7 @@ That's a single stage of the halfwave Cockcroft-Walton, and it's already **doubl
 
 There's 26V DC, or 24VRMS, already there at the first stage.  The full wave Cockcroft-Walton multiplier required **two** stages to do that.
 
-I'm going to have to look into that, but not tonight.
+That's because the full wave Cockcroft-Walton stage is a full wave regulator.  The diodes can't play with the capacitors to make a clamp.
 
 Back to the circuits.
 
@@ -67,7 +67,5 @@ Here's a half wave Cockcroft-Walton multiplier drawn in KiCAD:
 
 Having gone through the development of the various multipliers and doublers, I can now see the Greinacher and the Villard in there.  
 
-Given that the Cockcroft-Walton is composed of voltage doublers, I'd actually expect higher voltage out of the full wave version.  I don't know yet why it isn't.
-
-Next time around, I'm going to find out why the full wave and half wave Cockcroft-Walton multipliers have such different stage voltages.  I'd have expected them to be the same.
+Next time around, I'm going to have a look at why the voltage drops so horribly on the higher stages.
 
