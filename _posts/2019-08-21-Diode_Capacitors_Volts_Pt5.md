@@ -8,7 +8,7 @@ Haven't we met before?
 
 After going through a couple of simple voltage doublers and then the more complicated full wave Cockcroft-Walton multiplier, I'm going to back down to the simpler half wave Cockcroft-Walton multiplier.  From there, I'll go into how they are all related.
 
-I introduced the Cockcroft-Walton multiplier because it makes the mose sense to me.  It is based on an easily recognized circuit, and it is fairly obvious what it does.  Now I'm going to go to the simpler (but for me less obvious) half wave Cockcroft-Walton multiplier.
+I introduced the Cockcroft-Walton multiplier because it makes the most sense to me.  It is based on an easily recognized circuit, and it is fairly obvious what it does.  Now I'm going to go to the simpler (but for me less obvious) half wave Cockcroft-Walton multiplier.
 
 I'll just modify the drawing I've been using.
 
@@ -53,8 +53,6 @@ Squint a little and maybe cock your head, and I'm sure you'll see it.
 
 A half wave Cockcroft-Walton voltage multiplier is nothing but a bunch of Greinacher doublers strung together.
 
-Given that, I'd actually expect higher voltage out of the full wave version.  I don't know yet why it isn't.
-
 That whole realization is the reason I've been drawing the full wave version in the diamond form.  That's the thing that made clear to me how they are all related.
 
 If I draw the Cockcroft-Walton the way you have to do it in KiCad (and other schematic capture programs that don't allow 45 degree angles) then that relationship is obscured.
@@ -68,6 +66,8 @@ Here's a half wave Cockcroft-Walton multiplier drawn in KiCAD:
 |![Full wave Cockcroft-Walton multiplier](/assets/voltage_multiplier/cockcroftwalton3_kicad.png)|
 
 Having gone through the development of the various multipliers and doublers, I can now see the Greinacher and the Villard in there.  
+
+Given that the Cockcroft-Walton is composed of voltage doublers, I'd actually expect higher voltage out of the full wave version.  I don't know yet why it isn't.
 
 Next time around, I'm going to find out why the full wave and half wave Cockcroft-Walton multipliers have such different stage voltages.  I'd have expected them to be the same.
 
