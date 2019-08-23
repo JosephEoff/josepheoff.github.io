@@ -35,7 +35,7 @@ That's a single stage of the halfwave Cockcroft-Walton, and it's already **doubl
 
 There's 26V DC, or 24VRMS, already there at the first stage.  The full wave Cockcroft-Walton multiplier required **two** stages to do that.
 
-That's because the full wave Cockcroft-Walton stage is a full wave regulator.  The diodes can't play with the capacitors to make a clamp.
+That's because the full wave Cockcroft-Walton stage is a full wave rectifier.  The diodes can't play with the capacitors to make a clamp.
 
 Back to the circuits.
 
