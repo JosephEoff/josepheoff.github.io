@@ -8,9 +8,9 @@ Where did my voltage go?
 
 Back in [part 3 of this series,](diode-capacitors-volts-pt3) I mentioned that the impedance of the capacitors influences the output current of a voltage multiplier.  To be specific, the impedance of the capacitors is **the** limit on how much current you can draw through a voltage multiplier.  This came up while looking at the full wave Cockcroft-Walton multiplier, but it applies to the half wave Crockcroft-Walton as well.  It applies to single stage as well as multi-stage multipliers.
 
-Most of the multipliers and doublers I've looked at were built using 100nF capacitors.  A 100nF capacitor has an impedance of around 31k ohms at 50 herz.
+Most of the multipliers and doublers I've looked at were built using 100nF capacitors.  A 100nF capacitor has an impedance of around 31k ohms at 50 hertz.
 
-For comparison, I'm going to build a [Greinacher doubler](diode-capacitors-volts-pt2) using 10nF capacitors.  They have an impedance of around 310k ohms at 50 herz.
+For comparison, I'm going to build a [Greinacher doubler](diode-capacitors-volts-pt2) using 10nF capacitors.  They have an impedance of around 310k ohms at 50 hertz.
 
 That kind of thing goes pretty quick.  The voltmeter says the output is 31.3V DC.  A quick check against the Greinacher with 100 nF capacitors (yes, I have them all laying here on my workbench) shows the output at 38.6 VDC.  Even with just the voltmeter as a load, the 10nF Greinacher has a lower output voltage.
 
