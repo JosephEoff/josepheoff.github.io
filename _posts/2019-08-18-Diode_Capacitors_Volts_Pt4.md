@@ -36,7 +36,7 @@ I'm in Germany, so we have a power line frequency of 50 Hz.
 
 I'm using 100nF capacitors. 
 
-[The impedance Z of a capacitor](https://en.wikipedia.org/wiki/Electrical_impedance#Capacitor) is found by the formula Z = 1 / (2 * Pi * f * C) where Pi is the well known constant, f is the frequency in Hertz, and C is the capacitance in Farads.
+[The impedance Z of a capacitor](https://en.wikipedia.org/wiki/Electrical_impedance#Capacitor) is found by the formula Z = 1 / (2 * Pi * f * C) where Pi is the well known constant, f is the frequency in Hertz, and C is the capacitance in farads.
 
 For my parts and line frequency, that comes out to 31.8k Ohms.  With four of them in series, that's 127.2k Ohms.  Any load that approaches that impedance will noticeably lower the output voltage.  I'm going to skip explaining [voltage dividers.](https://en.wikipedia.org/wiki/Voltage_divider)  
 
@@ -76,12 +76,11 @@ Now let's compare that to a standard Cockcroft-Walton multiplier.
 |Capacitor|DC Voltage|
 |---------|----------|
 |1 | 16.3V|
-|2 | 1.3V|
+|2 | 16.3V|
 |3 | 16.2V|
-|4 | 1.3V|
+|4 | 16.3V|
 
-The upper stage capacitors are never exposed to more than the stage voltage.  The measurements I made on the upper stage capacitors started as about 16V and slowly drifted down to 1.3V.
-
+The upper stage capacitors are never exposed to more than the stage voltage.
 
 There at last lies the reason why Cockcroft-Walton voltage multipliers are built in series.
 
