@@ -5,6 +5,7 @@ url: https://josepheoff.github.io
 theme: minima
 show_excerpts: true
 markdown: kramdown
+mathjax: true
 timezone: Europe/Berlin
 permalink: /posts/:slug
 gems: jekyll-seo-tag

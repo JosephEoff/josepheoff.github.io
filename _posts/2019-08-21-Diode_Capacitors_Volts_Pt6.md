@@ -18,7 +18,7 @@ If I "load" either of them with my oscilloscope, the output voltage drops.
 
 Just how darned much of a "load" is my oscilloscope, anyhow?  It's supposed to be high impedance - the probes are rated 1M ohm.
 
-For a given frequency (50 Hz,) we can pretend the capacitors are resistors and use Ohm's law and treat the capacitor and the oscillscope probe as the two parts of a [voltage divider.](https://en.wikipedia.org/wiki/Voltage_divider)
+For a given frequency (50 Hz,) we can pretend the capacitors are resistors and use Ohm's law and treat the capacitor and the oscilloscope probe as the two parts of a [voltage divider.](https://en.wikipedia.org/wiki/Voltage_divider)
 
 I'm going to compare the impedance of my scope to the impedance of a 10nF capacitor.
 
@@ -113,3 +113,5 @@ Now what does Calc say?  Calc says slope of 36 and intercept of 15850.  How does
 That's not **anywhere** close to what I expected.  I expected the intercept to double, but it went up by a factor of 4 - and I sure as heck didn't expect the impedance to go up that steeply. From factor of 8 to 16, but not to 36.
 
 Hmmm.  More mysteries, and I haven't even solved the one I wanted to yet.  I'll have to look into the intercept and the impedance progression another time.
+
+[**Next**](diode-capacitors-volts-pt7)

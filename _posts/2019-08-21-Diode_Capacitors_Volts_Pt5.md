@@ -69,3 +69,4 @@ Having gone through the development of the various multipliers and doublers, I c
 
 Next time around, I'm going to have a look at why the voltage drops so horribly on the higher stages.
 
+[**Next**](diode-capacitors-volts-pt6)
