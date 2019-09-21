@@ -13,7 +13,7 @@ I found that calculating the impedance of a voltage multipliers is **much** more
 
 Eventually, I found [this page by Blaze Labs.](http://www.blazelabs.com/e-exp15.asp)  There's a lot of hokey free energy bunk on the site, but the notes on the Cockcroft-Walton voltage multiplier seem to be correct.
 
-The Blaze Labs site gives an equation for calculating the output voltage of Cockcroft-Walton multiplier which takes the number of stages into consideration, and which incidenttally shows how to calculate the impedance of such a multiplier given the number of stages and the size of the capacitors used.
+The Blaze Labs site gives an equation for calculating the output voltage of Cockcroft-Walton multipliers which takes the number of stages into consideration, and which incidenttally shows how to calculate the impedance of such a multiplier given the number of stages and the size of the capacitors used.
 
 Here's the equation:
 
