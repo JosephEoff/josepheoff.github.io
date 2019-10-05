@@ -15,7 +15,7 @@ My first real interest in voltage multipliers started when the high voltage sect
 
 It exploded the first time in about 1996.  Loud "Bang!" and flames shooting out of the top of the 'scope.  That first time around, I figured it was my fault.  I had laid a notebook (spiral ring binder with paper, not a laptop computer) on top of the 'scope and blocked the cooling vents.  The high voltage section was right under the notebook.  The explosion tossed the notebook across the room.  I had a complete spare high voltage module, so that first time I just swapped it out and got on with what I was working on.
 
-The second time around was only a few years ago.  I was checking out the RF detector output on my [12GHz RF camera](https://github.com/JosephEoff/Grote) when I heard something inside the 'scope start to sizzle.  I unplugged it fast enough to prevent an explosion.  This time around there was just a subdued "foop."
+The second time around was only a few years ago.  I was checking out the RF detector output on my [12GHz RF camera](https://github.com/JosephEoff/Karl) when I heard something inside the 'scope start to sizzle.  I unplugged it fast enough to prevent an explosion.  This time around there was just a subdued "foop."
 
 I had a spare capacitor to replace the one that popped, but the 'scope still didn't work.  After much (very careful) troubleshooting, I came to the conclusion that the high voltage section was shot.
 
@@ -31,7 +31,7 @@ Here's a neater drawing of just the high voltage section:
 
 ![D43 High voltage supply - redrawn.](/assets/voltage_multiplier/D43-PowerSupply_new.png)
 
-The K8/50 designation on the diodes refers to a stack of [50 selenium disk rectifiers in a tube ot make a high voltage diode.](/assets/voltage_multiplier/K8-50datasheet.pdf)  (Datasheet found on the ["Vintage Radio" forum.](https://www.vintage-radio.net/forum/showthread.php?t=34738))  The K8/50 has a peak inverse voltage of 3400V - and the voltage for a single stage Cockcroft-Walton multiplier with an input of 1200VAC is 3394VDC.  I guess that finally explains what part caused the explosion.  A diode died from a slight voltage hiccup and took the capacitor with it, and killed the other diode while it was at it.
+The K8/50 designation on the diodes refers to a stack of [50 selenium disk rectifiers in a tube to make a high voltage diode.](/assets/voltage_multiplier/K8-50datasheet.pdf)  (Datasheet found on the ["Vintage Radio" forum.](https://www.vintage-radio.net/forum/showthread.php?t=34738))  The K8/50 has a peak inverse voltage of 3400V - and the voltage for a single stage Cockcroft-Walton multiplier with an input of 1200VAC is 3394VDC.  I guess that finally explains what part caused the explosion.  A diode died from a slight voltage hiccup and took the capacitor with it, and killed the other diode while it was at it.
 
 Given that [the forward voltage of a single selenium rectifier is 1V,](https://en.wikipedia.org/wiki/Selenium_rectifier#Properties) and that there's two stacks of 50 involved, the actual output voltage of the D43 high voltage section would be closer to 3294VDC (theoretical maximum less the forward voltage of the diodes.)  Add a bit of a load, and the stated 3.2kVDC in the original schematic looks about right.
 
@@ -75,7 +75,7 @@ Next you feed all that into [the equation I gave in the last blog post:](diode-c
 
 $$ E_{out} = 2nE_{pk} - \frac {I_{load}}{2 \pi fC} (4n^3 + 3n^2 - n) - 2nV_{f}$$
 
-If \$E_{out}\$ is close enough to \$VDC_{out}\$ and you can afford the parts, you are done.  If not, juggle parts and frequency until you can meet your requirements and still pay the rent.
+If \$E_{out}\$ is close enough to the required \$VDC_{out}\$ and you can afford the parts, you are done.  If not, juggle parts and frequency until you can meet your requirements and still pay the rent.
 
 I'm done.  I've spent more time fooling with voltage multipliers than I intended, but I've also learned a good bit - and picked up another mystery to solve.  I **still** haven't figured out where the extra impedance is coming from when I measure the multipliers.  I'm pretty sure that it is an artifact of the way I make the measurements and that it doesn't really exist.  I just don't know how to explain it.  That's a project for another day.  
 
