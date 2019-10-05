@@ -69,7 +69,7 @@ I'd make a first stab at it by selecting the following factors:
 6.  Affordable diodes rated for at least the peak to peak voltage of the high voltage AC.
 7.  Load \$I_{load}\$ (current draw) of the high voltage consumer.
 
-You need a transformer with a secondary peak voltage that can be multiplied by some integer to get your output voltage.  So, \$2*N * E_{pk} \approx VDC_{out}\$
+You need a transformer with a secondary peak voltage that can be multiplied by some integer to get your output voltage.  So, \$2 * n * E_{pk} \approx VDC_{out}\$ (where \$n\$ is the number of stages.)
 
 Next you feed all that into [the equation I gave in the last blog post:](diode-capacitors-volts-pt7)
 
