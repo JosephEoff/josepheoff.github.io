@@ -9,11 +9,11 @@ That got complicated real quick.
 
 The last time around, [I had a look at the impedance of voltage multipliers.](diode-capacitors-volts-pt6)
 
-I found that calculating the impedance of a voltage multipliers is **much** more complicated than I thought.  It is so much more complicated that I gave up my attempt to derive a mathematical description of it and went searching the internet.
+I found that calculating the impedance of a voltage multiplier is **much** more complicated than I thought.  It is so much more complicated that I gave up my attempt to derive a mathematical description of it and went searching the internet.
 
 Eventually, I found [this page by Blaze Labs.](http://www.blazelabs.com/e-exp15.asp)  There's a lot of hokey free energy bunk on the site, but the notes on the Cockcroft-Walton voltage multiplier seem to be correct.
 
-The Blaze Labs site gives an equation for calculating the output voltage of Cockcroft-Walton multipliers which takes the number of stages into consideration, and which incidenttally shows how to calculate the impedance of such a multiplier given the number of stages and the size of the capacitors used.
+The Blaze Labs site gives an equation for calculating the output voltage of Cockcroft-Walton multipliers which takes the number of stages into consideration, and which incidentally shows how to calculate the impedance of such a multiplier given the number of stages and the size of the capacitors used.
 
 Here's the equation:
 
@@ -39,7 +39,7 @@ The really interesting bit is this:
 
 $$ \frac {1}{2 \pi fC} (4n^3 + 3n^2 - n)  $$
 
-The first section (\$ \frac {1}{2 \pi fC} \$) is simply the [impedance of a capacitor at a given frequency.](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)  The second section (\$4n^3 + 3n^2 - n\$) is the part I spent several hours trying to derive before deciding that it would take too many experiments and calculations to nail down.
+The first section (\$ \frac {1}{2 \pi fC} \$) is simply the [impedance of a capacitor at a given frequency.](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)  The second section (\$4n^3 + 3n^2 - n\$) is the part I spent several hours trying to derive from circuit measurements before deciding that it would take too many experiments and calculations to nail down.
 
 I need to correct myself at this point.  I've been talking about impedance, when I should have been discussing reactance.  The values look numerically the same, but impedance is the reactance multiplied by \$\sqrt{-1}\$.  That's called \$i\$ in the mathematics world, but \$j\$ in electronics - probably because \$I\$ is used to denote current.
 
@@ -70,6 +70,8 @@ Here's what the reactance looks like for different numbers of stages:
 ![Impedance by stages.](/assets/voltage_multiplier/impedancecurve.png)
 
 Exponential, clear as day.  It just keeps getting worse the more stages you add.
+
+[(Final installment of the voltage multiplier series.)](diode-capacitors-volts-pt8)
 
 
 
