@@ -6,7 +6,7 @@ mathjax: false
 ---  
 Electronics - ["Art Attack" style.](https://en.wikipedia.org/wiki/Art_Attack)
 
-I got to thinking about how voltage boosters work the other day, and how to demonstrate how they work.
+I got to thinking about how [voltage boosters](https://en.wikipedia.org/wiki/Boost_converter) work the other day, and how to demonstrate how they work.
 
 I find that I learn best when I have a concrete example in front of me to work with.  I can learn abstract things from other abstract things, but I find that a real, tangible **thing** helps to connect to and understand the abstract things.
 
@@ -27,7 +27,7 @@ I'm **not** going to explain any of this yet.  Build the gadget and see it work.
 
 For now, I'm going to pretend to be 10 years old and present to you  
 
-# The "Art Attack" style voltage booster:
+# The "Art Attack" style voltage booster
 
 |What you need:|
 |--------------|
@@ -60,7 +60,7 @@ For now, I'm going to pretend to be 10 years old and present to you
 |Strip the insulation from the ends of all wires, including the wires from the coil.  Use the scissors to nick the insulation and pull it off of the wire.|
 
 |![Step 9](/assets/voltagebooster/step9.jpg)|
-|Strip the insulation off of one wire longer than all the others.  This goes from the AA cell minus terminal to the shank of the file.)|
+|Strip the insulation off of one wire longer than all the others.  This goes from the AA cell minus terminal to the shank of the file.|
 
 |![Step 10](/assets/voltagebooster/step10.jpg)|
 |All the parts ready to be connected.)|
