@@ -32,6 +32,7 @@ For now, I'm going to pretend to be 10 years old and present to you
 |What you need:|
 |--------------|
 |![Parts and tools](/assets/voltagebooster/youneedthis.jpg)|
+|Note:  That is a AA dry cell.  Carbon/zinc is OK.  NiMH or NiCad is OK.  Do **NOT** use 18650 lithium batteries.|
 
 |Alternative for the file:|
 |--------------|
@@ -117,7 +118,7 @@ Always remove the switch from the file after use.  If the switch is left touchin
 
 # How does it work?
 
-I'm not going to explain it yet.  I'll write it all up in my next post.
+I'm not going to explain it yet.  I'll write it all up in my [next post.](voltagebooster-pt2)
 
 In the mean time, try to make the LED light up using just the battery without the coil (1 AA only, two batteries is cheating.)  Also try **unwinding** the coil and see if the circuit still works - every thing the same as shown above, but instead of the coil wrapped around the tube, stretch the wire from the coil out straight.
 
