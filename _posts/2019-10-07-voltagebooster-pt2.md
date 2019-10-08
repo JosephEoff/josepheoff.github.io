@@ -58,7 +58,7 @@ If you have a magnetic compass handy, you can prove this to yourself.  Place the
 
 So, the whole time when it looked like **nothing** was going on, something **was** going on.  The current was making a magnet out of the coil.
 
-It looks like this:
+The current flow looks like this when the switch is closed:
 
 |Booster charging|
 |----------------|
@@ -70,7 +70,7 @@ If you stop pushing current through the inductor, then the inductor stops being 
 
 The current that flows when the inductor sheds its energy flows in the same direction as the current that charged the inductor to begin with.
 
-If you stop the current flow from the battery, then it looks like this:
+If you stop the current flow from the battery, then the current flow looks like this:
 
 |Inductor wants to shed its energy|
 |----------------|
