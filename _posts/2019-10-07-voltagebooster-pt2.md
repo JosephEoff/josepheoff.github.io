@@ -94,7 +94,7 @@ You can juggle those three factors any way you like, but the energy you've got i
 
 In the inductor, the current is fixed during discharge (the inductor sees to that.)  The stored energy is fixed - it depends on the size of the coil and the current, and those are fixed values (more or less fixed - they depend on the battery and the resistance of the wires and switch, and those stay pretty much the same.)  All that's left is voltage and time.  Since the voltage has to go up from 1.5V (battery voltage) to 2.2V (LED voltage) before current can flow, the **time** that the current can flow must be shorter. (That product of current, voltage, and time **must** give the same value as the stored energy.)
 
-Now, here's what it looks like when the voltage from the inductor has risen enough for the LED to conduct:
+Now, here's what the current flow looks like when the voltage from the inductor has risen enough for the LED to conduct:
 
 |Booster lighting the LED|
 |----------------|
