@@ -32,7 +32,7 @@ For now, I'm going to pretend to be 10 years old and present to you
 |What you need:|
 |--------------|
 |![Parts and tools](/assets/voltagebooster/youneedthis.jpg)|
-|Note:  That is a AA dry cell.  Carbon/zinc is OK.  NiMH or NiCad is OK.  Do **NOT** use 18650 lithium batteries.|
+|Note:  That is a AA dry cell.  Alkaline is fine.  Carbon/zinc is OK.  NiMH or NiCad is OK.  Do **NOT** use 18650 lithium batteries.|
 
 |Alternative for the file:|
 |--------------|
@@ -64,7 +64,7 @@ For now, I'm going to pretend to be 10 years old and present to you
 |Strip the insulation off of one wire longer than all the others.  This goes from the AA cell minus terminal to the shank of the file.|
 
 |![Step 10](/assets/voltagebooster/step10.jpg)|
-|All the parts ready to be connected.)|
+|All the parts ready to be connected.|
 
 |![Step 11](/assets/voltagebooster/step11.jpg)|
 |Twist these ends of these two wires in to little balls.|
