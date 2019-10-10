@@ -9,7 +9,7 @@ Time to get abstract.
 
 [Last time around,](voltagebooster) I built a really simple switching power supply that boosts 1.5V DC from a single dry cell to a voltage high enough to drive a green LED.  Green LEDs need 2.2V to actually light up.  If the voltage is too low, then LEDs do **nothing.** Not light up dimly, not blink, just **nothing.**  A single dry cell cannot light a green LED - unless you boost the voltage.
 
-Now I' going explain how that silly looking pile of wire and scotch tape manages to work.
+Now I'm going explain how that silly looking pile of wire and scotch tape manages to work.
 
 But first, I'm going to back up and get a bit abstract.
 
@@ -58,7 +58,7 @@ If you have a magnetic compass handy, you can prove this to yourself.  Place the
 
 So, the whole time when it looked like **nothing** was going on, something **was** going on.  The current was making a magnet out of the coil.
 
-It looks like this:
+The current flow looks like this when the switch is closed:
 
 |Booster charging|
 |----------------|
@@ -70,7 +70,7 @@ If you stop pushing current through the inductor, then the inductor stops being 
 
 The current that flows when the inductor sheds its energy flows in the same direction as the current that charged the inductor to begin with.
 
-If you stop the current flow from the battery, then it looks like this:
+If you stop the current flow from the battery, then the current flow looks like this:
 
 |Inductor wants to shed its energy|
 |----------------|
@@ -94,7 +94,7 @@ You can juggle those three factors any way you like, but the energy you've got i
 
 In the inductor, the current is fixed during discharge (the inductor sees to that.)  The stored energy is fixed - it depends on the size of the coil and the current, and those are fixed values (more or less fixed - they depend on the battery and the resistance of the wires and switch, and those stay pretty much the same.)  All that's left is voltage and time.  Since the voltage has to go up from 1.5V (battery voltage) to 2.2V (LED voltage) before current can flow, the **time** that the current can flow must be shorter. (That product of current, voltage, and time **must** give the same value as the stored energy.)
 
-Now, here's what it looks like when the voltage from the inductor has risen enough for the LED to conduct:
+Now, here's what the current flow looks like when the voltage from the inductor has risen enough for the LED to conduct:
 
 |Booster lighting the LED|
 |----------------|
