@@ -136,3 +136,5 @@ The exact value isn't critical, and it is doubtful that a hand wound coil truly 
 
 If you are an engineer, you can calculate that kind of thing.  If you are a hobbyist like I am, you use shortcuts rather than slogging through a bunch of calculations to get an exact number.
 
+(I went back and recalculated the size of the inductor.  [Turns out I was off by quite a bit.](inductor))
+

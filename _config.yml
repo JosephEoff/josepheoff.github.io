@@ -9,6 +9,8 @@ mathjax: true
 timezone: Europe/Berlin
 permalink: /posts/:slug
 gems: jekyll-seo-tag
+plugins:
+  - jekyll-feed
 exclude:
   - README.md
   - .gitignore
