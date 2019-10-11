@@ -138,3 +138,5 @@ If you are an engineer, you can calculate that kind of thing.  If you are a hobb
 
 (I went back and recalculated the size of the inductor.  [Turns out I was off by quite a bit.](inductor))
 
+(If you are interested in what gave me the idea for this circuit and why the booster is built like it is, [have a look here.](booster-why))
+

@@ -11,6 +11,8 @@ permalink: /posts/:slug
 gems: jekyll-seo-tag
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
 exclude:
   - README.md
   - .gitignore
