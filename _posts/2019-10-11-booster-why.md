@@ -7,7 +7,7 @@ mathjax: true
 {% include lib/mathjax.html %}
 Ulterior motives revealed.
 
-The idea for the simple voltage booster came up during an discussion in the Electrical Engineering Stack Exchange chat room.  There was a person present who was **convinced** that inductors cannot store energy, and that they certainly couldn't store it in the magnetic field of the inductor.  This person would not accept that switching regulators do it all the time.  Nope.  The switching regulators **must** store the energy somewhere else because inductors **cannot** store energy.
+The idea for the simple voltage booster came up during a discussion in the Electrical Engineering Stack Exchange chat room.  There was a person present who was **convinced** that inductors cannot store energy, and that they certainly couldn't store it in the magnetic field of the inductor.  This person would not accept that switching regulators do it all the time.  Nope.  The switching regulators **must** store the energy somewhere else because inductors **cannot** store energy.
 
 Faced with that amount of pig headedness, I started trying to figure out how to build a simple and obvious voltage booster where it is bleeding obvious that energy is stored in an inductor.
 
