@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multipliers - Part 7 Impedance and current in voltage multipliers"
+title: "Voltage multipliers - Part 7 Impedance of the Cockcroft-Walton voltage multiplier"
 categories: [blog]
 mathjax: true
 ---   
