@@ -39,7 +39,7 @@ The really interesting bit is this:
 
 $$ \frac {1}{2 \pi fC} (4n^3 + 3n^2 - n)  $$
 
-The first section (\$ \frac {1}{2 \pi fC} \$) is simply the [impedance of a capacitor at a given frequency.](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)  The second section (\$4n^3 + 3n^2 - n\$) is the part I spent several hours trying to derive from circuit measurements before deciding that it would take too many experiments and calculations to nail down.
+The first section \$( \frac {1}{2 \pi fC} )\$ is simply the [impedance of a capacitor at a given frequency.](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)  The second section \$(4n^3 + 3n^2 - n)\$ is the part I spent several hours trying to derive from circuit measurements before deciding that it would take too many experiments and calculations to nail down.
 
 I need to correct myself at this point.  I've been talking about impedance, when I should have been discussing reactance.  The values look numerically the same, but impedance is the reactance multiplied by \$\sqrt{-1}\$.  That's called \$i\$ in the mathematics world, but \$j\$ in electronics - probably because \$I\$ is used to denote current.
 
