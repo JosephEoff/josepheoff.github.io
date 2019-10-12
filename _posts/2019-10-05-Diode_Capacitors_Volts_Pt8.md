@@ -79,4 +79,4 @@ If \$E_{out}\$ is close enough to the required \$VDC_{out}\$ and you can afford 
 
 I'm done.  I've spent more time fooling with voltage multipliers than I intended, but I've also learned a good bit - and picked up another mystery to solve.  I **still** haven't figured out where the extra impedance is coming from when I measure the multipliers.  I'm pretty sure that it is an artifact of the way I make the measurements and that it doesn't really exist.  I just don't know how to explain it.  That's a project for another day.  
 
-Right now, I'm going to find something **simple** to do.
+Right now, I'm going to find something [**simple** to do.](voltagebooster)
