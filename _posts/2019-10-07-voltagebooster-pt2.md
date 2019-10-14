@@ -30,7 +30,7 @@ This is a table of the parts used in the simple voltage booster together with th
 |LED |![led photo](/assets/voltagebooster/led.jpg)|![led symbol](/assets/voltagebooster/led.png)|D1 | Green|
 |Switch|![switch photo](/assets/voltagebooster/switch.jpg)|![switch symbol](/assets/voltagebooster/switch.png)|SW1 |SPST (simple on/off switch)|
 
-First, a few comments on the parts and the symbols:
+A few comments on the parts and the symbols:
 1.  The plus (\$+\$) symbol on the battery corresponds to the nub on the top of a dry cell.  That's the positive terminal.
 2.  The number of loops in the inductor symbol has nothing to do with the number of turns on the real inductor.
 3.  The flat side on the LED corresponds to the bar on the LED symbol (pin 1.)  Current flows when pin 2 is at a higher voltage than pin 1.
@@ -54,7 +54,7 @@ Something **does** happen, though.  The wire in the coil doesn't act the same as
 
 When current flows through any wire, it makes a magnetic field around the wire.  When the wire is wound up into a coil, it makes a much stronger magnetic field.
 
-If you have a magnetic compass handy, you can prove this to yourself.  Place the magentic compass next to the coil, and operate the switch on the simple booster.  The needle of the compasss will go crazy.  Connect the wire to the file and don't move it, and the compass needle will turn to point at the coil and stay put.
+If you have a magnetic compass handy, you can prove this to yourself.  Place the magentic compass next to the coil, and operate the switch on the simple booster.  The needle of the compass will go crazy.  Connect the wire to the file and don't move it, and the compass needle will turn to point at the coil and stay put.
 
 So, the whole time when it looked like **nothing** was going on, something **was** going on.  The current was making a magnet out of the coil.
 
