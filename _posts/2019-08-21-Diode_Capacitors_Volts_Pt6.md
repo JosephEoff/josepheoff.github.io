@@ -6,6 +6,12 @@ categories: [blog]
 
 Where did my voltage go?
 
+![Oscilloscope probe impedance measurement.](/assets/voltage_multiplier/scopeimpedance_setup.png)
+
+Figuring out how the capacitance relates to the impedance of a voltage multiplier.
+
+-----------------------------
+
 Back in [part 3 of this series,](diode-capacitors-volts-pt3) I mentioned that the impedance of the capacitors influences the output current of a voltage multiplier.  To be specific, the impedance of the capacitors is **the** limit on how much current you can draw through a voltage multiplier.  This came up while looking at the full wave Cockcroft-Walton multiplier, but it applies to the half wave Crockcroft-Walton as well.  It applies to single stage as well as multi-stage multipliers.
 
 Most of the multipliers and doublers I've looked at were built using 100nF capacitors.  A 100nF capacitor has an impedance of around 31k ohms at 50 hertz.

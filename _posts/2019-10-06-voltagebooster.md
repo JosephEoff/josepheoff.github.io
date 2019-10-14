@@ -6,6 +6,12 @@ mathjax: false
 ---  
 Electronics - ["Art Attack" style.](https://en.wikipedia.org/wiki/Art_Attack)
 
+![Simple voltgage booster](/assets/voltagebooster/step19.jpg)
+
+A simple voltage booster to light a 2.2 volt green LED from a 1.5 volt AA dry cell.
+
+--------------
+
 I got to thinking about how [voltage boosters](https://en.wikipedia.org/wiki/Boost_converter) work the other day, and how to demonstrate how they work.
 
 I find that I learn best when I have a concrete example in front of me to work with.  I can learn abstract things from other abstract things, but I find that a real, tangible **thing** helps to connect to and understand the abstract things.
