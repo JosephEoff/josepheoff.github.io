@@ -2,7 +2,7 @@
 title: JRE's Project Blog
 description: A place to talk about my projects
 url: https://josepheoff.github.io
-theme: jekyll-theme-minimal
+theme: minima
 show_excerpts: true
 markdown: kramdown
 mathjax: true
