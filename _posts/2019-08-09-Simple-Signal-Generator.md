@@ -2,6 +2,7 @@
 layout: post
 title: "A simple signal generator"
 categories: [blog]
+thumbnail: /assets/100kHz.png
 --- 
 
 Making your own tools.
