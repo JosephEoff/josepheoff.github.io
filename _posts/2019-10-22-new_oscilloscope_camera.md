@@ -30,7 +30,7 @@ This is the camera mount and the Logitech C270 I'll be attaching to it:
 |--------------|
 |![D43 camera mount](/assets/newcamera/cameramount.jpg)|
 
-There's raised plate on the base there.  It is shaped to fit inside the C270, and is modeled on the front plate of the webcam.
+There's raised plate on the base there.  It is shaped to fit inside the C270, and is modeled on the front plate of the webcam.  The idea is to close things up light tight without having to use "gaskets" of black felt.
 
 The mounting holes for the C270 were also part of the model - "printed" holes. The heads are countersunk on the inside so that I could reuse the original screws.
 
@@ -40,7 +40,7 @@ The C270 has a few advantages over the webcam I used before:
 - Better imaging (better compression, better ADC, less background noise, etc.)
 - Adjustable focus
 
-That last surprised me, to be honest.  From the outside, it looks like a fixed focus webcam.  Once you get the from plate off, you'll find that the lens has an adjustable focus.  You don't want to be fiddling with it all the time, but it sure makes it easier get good images from the scope.
+That last surprised me, to be honest.  From the outside, it looks like a fixed focus webcam.  Once you get the front plate off, you'll find that the lens has an adjustable focus.  You don't want to be fiddling with it all the time, but it sure makes it easier get good images from the scope.
 
 I'm going to run through the assembly (lots of photos) then show a couple of pictures made with the old and the new camera.
 
@@ -100,15 +100,14 @@ Check the fit of the holes in the camera mount.  3D printed screwholes tend to b
 
 Once everything fits nicely, put the C270 aside.
 
-Take the bezel off of the D43, and put the camera mount on so that the raised shape of the C270 is to the left.  At this point, the pocket knife had more work to do.  I had measured the position of screwholes for the D43 incorrectly, and had to shave a couple of millimeters out of them so they'd match up with the screws on the D43.  Lesson learned:  Make paper printouts of critical parts and check them for fit before having 3D parts printed.
+Take the bezel off of the D43, and put the camera mount on so that the raised shape of the C270 is to the left.  At this point, the pocket knife had more work to do.  I had measured the position of the screwholes for the D43 incorrectly, and had to shave a couple of millimeters out of them so they'd match up with the screws on the D43.  Lesson learned:  Make paper printouts of critical parts and check them for fit before having 3D parts printed.
 
 Make sure to get the grid and the green filter back in the proper place when attaching the camera mount.
 
 
-Plug the C270 into your PC and fire up any webcam software you like (or even use the [D43 camera software.](https://github.com/JosephEoff/D43))  Check to make sure you are getting picture from it, then hold it in place on the camera mount.
+Plug the C270 into your PC and fire up any webcam software you like (or even use the [D43 camera software.](https://github.com/JosephEoff/D43))  Check to make sure you are getting a picture from it, then hold it in place on the camera mount.
 
 Adjust the backlight so that you can see the oscilloscope grid on you computer screen.  Check the focus.  Twist the knurled knob around the lens in the C270 and check again.
-
 
 |Focus|
 |--------------|
@@ -133,8 +132,13 @@ Judge for yourself:
 |----------|----------|
 |![Old camera 100kHz](/assets/100kHz.png)|![New camera 1MHz](/assets/newcamera/1MHz.png)|
 
-I find the new camera much sharper, and the background is a darker black.  Something you can't see in the pictures is that the new camera doesn't have cutoff corners at the edges of the grid.  You also can't see that it refreshes faster and that it handles slow timebase settings better than the old camera, but it does.
+I find the new camera much sharper, and the background is a darker black.  Something you can't see in the pictures is that the new camera doesn't have cutoff corners at the edges of the grid.  You also can't see that it refreshes faster (higher frame rate) and that it handles slow timebase settings better than the old camera, but it does.
 
 I'm going to have to write up the calibration step, but that'll go in the  [D43 repository](https://github.com/JosephEoff/D43) or the wiki page that belongs to it.
 
+I've committed the [3D model to the repository](https://github.com/JosephEoff/D43/blob/master/CameraMount/camera_finished_mm.stl) in case anyone can make use of it.  [There's also a couple of files with the outline of the C270 front plate in the folder with the 3D model.](https://github.com/JosephEoff/D43/tree/master/CameraMount)
+
+----
+TIL:
+Github has a snazzy built in preview for STL 3D [modeling files.](https://github.com/JosephEoff/D43/blob/master/CameraMount/camera_finished_mm.stl)
 
