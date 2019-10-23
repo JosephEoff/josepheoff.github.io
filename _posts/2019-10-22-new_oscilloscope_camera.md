@@ -116,7 +116,7 @@ Adjust the backlight so that you can see the oscilloscope grid on you computer s
 
 Once you are happy with the focus, attach the C270 to the camera mount using the original screws from the C270 front plate.
 
-Turn the backlight down or off when not needed.  3D printers use thermoplastic, which readily remelts when heated.  The panel lights for the D43 get warm enough to soften the PLA, and they are spingloaded - the'll make bumps in the front of the camera mount.  Ask me how I know.  :)
+Turn the backlight down or off when not needed.  3D printers use thermoplastic, which readily remelts when heated.  The panel lights for the D43 get warm enough to soften the PLA, and they are spingloaded - they'll make bumps in the front of the camera mount.  Ask me how I know.  :)
 
 That's it.  All done.  Looks like this:
 
