@@ -13,13 +13,13 @@ Whiling away a rainy Sunday afternoon with a block of salt and an LED.
 
 While on vacation a couple of months ago, I bought a block of rock salt at the [Berchtesgaden Salzbergwerk](https://www.salzbergwerk.de/en) in Berchtesgaden, Germany.  
 
-The salt there isn't your typical pure table salt, and it isn't the typical "himalayan pink" salt that you can buy as candle holders from Amazon or Ikea.  It has a lot of iron oxide in it, so it's more of a red/brown color.  I bought a block of **really** dark salt - seriously impure, with a rock of some kind embedded in it.  It looks more interesting than the purer, cleaner, stuff.  Most of the salt is there mined with a hot water pump system, and it's purified before being sold - the table salt they make out of it doesn't taste like rust like my block does.  They do mine some small amounts (like the block I bought) to make things out of - I could have bought a genuine Berchtesgaden rock salt candle holder or electric lamp at the [shop at the mine.](https://www.salzbergwerk.de/en/salt-mine/salt-shop) They cost about 30 Euros or more (my salt block was "only" 13Euros.)  You can buy cheaper ones from the souvenir shops in town, but those don't use real Berchtesgadener salt - the souvenir shops all sell what looks like the same thing you can buy from Ikea or Amazon - but at twcie the price.
+The salt there isn't your typical pure table salt, and it isn't the typical "himalayan pink" salt that you can buy as candle holders from Amazon or Ikea.  It has a lot of iron oxide in it, so it's more of a red/brown color.  I bought a block of **really** dark salt - seriously impure, with a rock of some kind embedded in it.  It looks more interesting than the purer, cleaner, stuff.  Most of the salt is there mined with a hot water pump system, and it's purified before being sold - the table salt they make out of it doesn't taste like rust like my block does.  They do mine some small amounts (like the block I bought) to make things out of - I could have bought a genuine Berchtesgaden rock salt candle holder or electric lamp at the [shop at the mine.](https://www.salzbergwerk.de/en/salt-mine/salt-shop) They cost about 30 Euros or more (my salt block was "only" 13Euros.)  You can buy cheaper ones from the souvenir shops in town, but those don't use real Berchtesgadener salt - the souvenir shops all sell what looks like the same thing you can buy from Ikea or Amazon - but at twice the price.
 
 I've already started working on the block itself.  I flattened two sides (bottom and front,) and polished the front side.  You can see it in that picture up there.
 
 The plan is to mount it in a wooden stand with a back light, and to carve some kind of doohicky in the front side.  A bunny rabbit, or a rose.  Maybe a titmouse (well, why not?)  I haven't decided yet.  It sort of depends on what it looks like when it's lit up.
 
-I bought a 3 watt LED the other day, and decided that the crummy weather today was a good excuse to hide away in my work room and see what my salt block looks like.
+I bought a 3 watt LED at the hardware store the other day, and decided that the crummy weather today was a good excuse to hide away in my work room and see what my salt block looks like.
 
 The LED says it is made to operate from 12 volts, and that it is not dimmable.  I take that to mean that it can't be dimmed with the dimmable transformers like you can get for 12 volt halogen lights.  This thing **is** made to replace 12V halogen bulbs, so I figured I need to give it 12V.  It does say it'll take AC or DC, so that's a plus.  It also says it's rated for 370 milliamperes.
 
@@ -28,11 +28,11 @@ I've mentioned before that my work room is kind of bare bones.  Anything I can g
 
 I don't own an adjustable power supply.  I've got wall warts of all kinds, some that will even put out 12 volts.  They don't have a current limited output, though.
 
-I thought it over, and whilst thinking, I saw the coil I made for the [simple voltage booster.](voltagebooster)  On a whim, I replaced the green LED from the simple voltage booster with my 3 watt LED, and ran the wire across the file.  It took a little practice, but I could get that high power LED to light up from a 1.5 volt alkaline cell.
+I thought it over, and whilst thinking, I saw the coil I made for the [simple voltage booster.](voltagebooster)  On a whim, I replaced the green LED from the simple voltage booster with my 3 watt LED, and ran the wire across the file.  It took a little practice, but I could get that high power LED to light up **brightly** from a 1.5 volt alkaline cell.
 
 OK, that's the solution.
 
-I rummaged around a bit and found a 2N6288 NPN (7 amperes \$I_C\$, 30 volts \$V_{CEO}\$) transistor on an old scrap PCB.  Rooted another Arduino Nano out of my stash of knock offs, and it's off to the races.
+I rummaged around a bit and found a 2N6288 NPN transistor (7 amperes \$I_C\$, 30 volts \$V_{CEO}\$) on an old scrap PCB.  Rooted another Arduino Nano out of my stash of knock offs, and it's off to the races.
 
 The basic idea is to use the Nano to drive the coil as a voltage booster.  With a bit of software, I can control the switching frequency and duty cycle.
 
