@@ -13,15 +13,16 @@ Whiling away a rainy Sunday afternoon with a block of salt and an LED
 
 While on vacation a couple of months ago, I bought a block of rock salt at the [Berchtesgaden Salzbergwerk](https://www.salzbergwerk.de/en) in Berchtesgaden, Germany.  
 
-The salt there isn't your typical pure table salt, and it isn't the typical "himalayan pink" salt that you can buy as candle holders from Amazon or Ikea.  It has a lot of iron oxide in it, so it's more of a red/brown color.  I bought a block of **really** dark salt - seriously impure, with a rock of some kind embedded in it.  It looks more interesting than the purer, cleaner, stuff.
+The salt there isn't your typical pure table salt, and it isn't the typical "himalayan pink" salt that you can buy as candle holders from Amazon or Ikea.  It has a lot of iron oxide in it, so it's more of a red/brown color.  I bought a block of **really** dark salt - seriously impure, with a rock of some kind embedded in it.  It looks more interesting than the purer, cleaner, stuff.  Most of the salt is mined with a hot water pump system, and it's purified before being sold - the table salt they make out of it doesn't taste like rust like my block does.  They do mine some small amounts (like the block I bought) to make things out of - I could have bought a genuine Berchtesgaden rock salt candle holder or electric lamp at the [shop at the mine.](https://www.salzbergwerk.de/en/salt-mine/salt-shop) They cost about 30 Euros or more (my salt block was "only" 13Euros.)  You can buy a cheaper ones from the souvenir shops in town, but those don't use real Berchtegadener salt - the souvernir shops all sell what looks like the same thing you can buy from Ikea or Amazon.
 
-I flattened two side (bottom and front,) and polished the front side.  You can see it in that picture up there.
+I've already started working on the block itself.  I flattened two sides (bottom and front,) and polished the front side.  You can see it in that picture up there.
 
-The plan is to mount it in a wooden stand with a back light, and to carve some kind of doohicky in the front side.  A bunny rabbit, or a rose.  Maybe a titmouse.  I haven't decided yet.  It sort of depends on what it looks like when it's lit up.
+The plan is to mount it in a wooden stand with a back light, and to carve some kind of doohicky in the front side.  A bunny rabbit, or a rose.  Maybe a titmouse (well, why not?)  I haven't decided yet.  It sort of depends on what it looks like when it's lit up.
 
 I bought a 3 watt LED the other day, and decided that the crummy weather today was a good excuse to hide away in my work room and see what my salt block looks like.
 
-The LED says it is made to operate from 12 volts, and that it is not dimmable.  I take that to mean that it can't be dimmed with the dimmable transformers like you can get for 12 volt halogen lights.  This thing **is** made to replace 12V halogen bulbs, so I figured I need to give it 12V.  It does say it'll take AC or DC, so that's a plus.
+The LED says it is made to operate from 12 volts, and that it is not dimmable.  I take that to mean that it can't be dimmed with the dimmable transformers like you can get for 12 volt halogen lights.  This thing **is** made to replace 12V halogen bulbs, so I figured I need to give it 12V.  It does say it'll take AC or DC, so that's a plus.  It also says it's rated for 370 milliamperes.
+
 
 I've mentioned before that my work room is kind of bare bones.  Anything I can get by without, I ain't got.
 
@@ -66,12 +67,12 @@ In case anyone is interested, here's what the drive to the LED looks like:
 |Dim drive|
 |--------------|
 |![Drive signal dim](/assets/rocksaltlamp/dim.png)|
-|The high peak is when the LED is lit.  The lowest voltage is during the charge cycle (22%, so about 8 microseconds.)|
+|The high peak is when the LED is lit.  The lowest voltage is during the charge cycle (22%, so about 8 microseconds.)  The intermediate voltage is when the transistor is open, but the coil is discharged.|
 
 |Bright drive|
 |--------------|
 |![Drive signal bright](/assets/rocksaltlamp/bright.png)|
-|The charge time has been extended to cover all of the cycle time except for the discharge.  The discharge time just about doubles, and the voltage goes up higher and stays higher over the whole discharge period.  Once the charge time starts eating into the discharge time, the LED gets dimmer.|
+|The charge time has been extended to cover all of the cycle time except for the discharge.  The discharge time more than doubles, and the voltage goes up higher and stays higher over the whole discharge period.  Once the charge time starts eating into the discharge time (higher duty cycle,) the LED gets dimmer.|
 
 It seems there's some sort of regulation going on inside the LED.  It lights at around 6.7 volts.  If it doesn't have any kind of regulation built in, then the 12 volts it is rated for would destroy it.  I guess I could have just connected it to 12 volts and gotten on with it, but where's the fun in that?
 
