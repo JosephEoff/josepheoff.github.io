@@ -5,7 +5,7 @@ categories: [blog]
 mathjax: true
 ---
 {% include lib/mathjax.html %}
-Whiling away a rainy Sunday afternoon with a block of salt and an LED
+Whiling away a rainy Sunday afternoon with a block of salt and an LED.
 
 |Block of rocksalt and a GU4 3 watt LED|
 |--------------|
