@@ -47,7 +47,7 @@ To get a long with it better, I modified the stop() and start() methods in my so
 
 Pause works reliably again, and I have my new one-shot function.  Whee!
 
-If you are using OpenCV2, and it hangs when closing and reopening a camera, try splitting the instatiation from the open.
+If you are using OpenCV2, and it hangs when closing and reopening a camera, try splitting the instantiation from the open.
 
 Instead of this:
 
