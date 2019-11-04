@@ -35,7 +35,7 @@ I had a look at the [OpenCV2 VideoCapture API documentation](https://docs.opencv
 
 No such luck.  But, I did notice that you can separate the instantiating of a VideoCapture object from the actual opening of the camera devices.
 
-To see if it was the instantiation of the VideoCapture object or opening the camera device causing the problem, I reimplemented the start() function to first instatiate a VideoCapture object, and then in a second step call the open(deviceID) method on it.
+To see if it was the instantiation of the VideoCapture object or opening the camera device causing the problem, I reimplemented the start() function to first instantiate a VideoCapture object, and then in a second step call the open(deviceID) method on it.
 
 That did the trick, though it was only intended as a troubleshooting step -  reopening the camera succeeded, and the camera software resumed showing images after a pause.
 
