@@ -35,15 +35,17 @@ I had a look at the [OpenCV2 VideoCapture API documentation](https://docs.opencv
 
 No such luck.  But, I did notice that you can separate the instantiating of a VideoCapture object from the actual opening of the camera devices.
 
-For lack of any better idea, I reimplemented the start() function to first instatiate a VideoCapture object, and then in a second step call the open(deviceID) method on it.
+To see if it was the instantiation of the videoCapture object or opening the camera device, I reimplemented the start() function to first instatiate a VideoCapture object, and then in a second step call the open(deviceID) method on it.
 
-That did the trick - the second open succeeded, and the camera software resumed showing images after a pause.
+That did the trick, though it was only intended as a troubleshooting step -  reopening the camera succeeded, and the camera software resumed showing images after a pause.
 
-Almost there.  After the pause, there was still a long (twenty seconds or so) break before the camera got to work.  That's the same pause that's been driving me nuts on startup.
+Almost there.  
+
+After the pause, there was still a long (twenty seconds or so) break before the camera got to work.  That's the same pause that's been driving me nuts on startup.
 
 There's no way around that short hang, so I have to live with it.
 
-To get a long with it better, I modified the stop() and start() methods in my software so that VideoCapture.release() is only called when selecting a new camera, and so that VideoCapture is also only instantiated when selecting a new camera.
+To get along with it better, I modified the stop() and start() methods in my software so that VideoCapture.release() is only called when selecting a new camera, and so that VideoCapture is also only instantiated when selecting a new camera.
 
 Pause works reliably again, and I have my new one-shot function.  Whee!
 
