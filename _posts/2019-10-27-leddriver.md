@@ -44,7 +44,7 @@ The booster part is simple enough:
 |Pulsesignal is a PWM output from the Nano.|
 |+1.5V is from a D size alkaline cell.|
 
-A little experimentation showed that it worked best with about a 26kHz switching rate.  I can the vary the duty cycle between 22 percent (just barely on) to 88 percent (full brightness.)  Of course, "full brightness" isn't a bright as it'd be when driven from a regular power supply.  It's still bright enough to get an impression of what it will look like.
+A little experimentation showed that it worked best with about a 26kHz switching rate.  I can then vary the duty cycle between 22 percent (just barely on) to 88 percent (full brightness.)  Of course, "full brightness" isn't a bright as it'd be when driven from a regular power supply.  It's still bright enough to get an impression of what it will look like.
 
 |Dim LED|
 |--------------|
