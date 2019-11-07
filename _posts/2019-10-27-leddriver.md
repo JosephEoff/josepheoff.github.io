@@ -74,7 +74,7 @@ In case anyone is interested, here's what the drive to the LED looks like:
 |![Drive signal bright](/assets/rocksaltlamp/bright.png)|
 |The charge time has been extended to cover all of the cycle time except for the discharge.  The discharge time more than doubles, and the voltage goes up higher and stays higher over the whole discharge period.  Once the charge time starts eating into the discharge time (higher duty cycle,) the LED gets dimmer.|
 
-It seems there's some sort of regulation going on inside the LED.  It lights at around 6.7 volts.  If it doesn't have any kind of regulation built in, then the 12 volts it is rated for would destroy it.  I guess I could have just connected it to 12 volts and gotten on with it, but where's the fun in that?
+It seems there's some sort of regulation going on inside the LED.  It lights at around 6.7 volts.  If it didn't some any kind of regulation built in, then the 12 volts it is rated for would destroy it.  I guess I could have just connected it to 12 volts and gotten on with it, but where's the fun in that?
 
 That's all for today.  There's a long way to go before my rock salt lamp is finished, but it won't be getting done on this Sunday.
 
