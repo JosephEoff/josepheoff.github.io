@@ -15,7 +15,7 @@ My first real interest in voltage multipliers started when the high voltage sect
 
 It exploded the first time in about 1996.  Loud "Bang!" and flames shooting out of the top of the 'scope.  That first time around, I figured it was my fault.  I had laid a notebook (spiral ring binder with paper, not a laptop computer) on top of the 'scope and blocked the cooling vents.  The high voltage section was right under the notebook.  The explosion tossed the notebook across the room.  I had a complete spare high voltage module, so that first time I just swapped it out and got on with what I was working on.
 
-The second time around was only a few years ago.  I was checking out the RF detector output on my [12GHz RF camera](https://github.com/JosephEoff/Karl) when I heard something inside the 'scope start to sizzle.  I unplugged it fast enough to prevent an explosion.  This time around there was just a subdued "foop."
+The second time around was only a few years ago.  I was checking out the RF detector output on my [12GHz RF camera](https://josepheoff.github.io/posts/rfcamera) when I heard something inside the 'scope start to sizzle.  I unplugged it fast enough to prevent an explosion.  This time around there was just a subdued "foop."
 
 I had a spare capacitor to replace the one that popped, but the 'scope still didn't work.  After much (very careful) troubleshooting, I came to the conclusion that the high voltage section was shot.
 
