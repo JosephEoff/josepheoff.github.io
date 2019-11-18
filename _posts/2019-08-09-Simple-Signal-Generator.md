@@ -26,7 +26,7 @@ Yeah.  In comparison with a modern oscilloscope I'd agree.  I'm not talking mode
 
 The old D43 doesn't do precision.  It's to look at stuff, and make some half way reliable estimates about what's going on.  As the Germans say, it is a ["Schätzeisen."](https://www.reddit.com/r/German/comments/59jxv1/word_of_the_day_sch%C3%A4tzeisen/)  It isn't **wrong,** it just isn't exact.
 
-The uncalibrated clock in a Nano of questionable heritage is guaranteed to be more exact than the scope, and exact enough to judge the accuracy of measuements made through a webcam.
+The uncalibrated clock in a Nano of questionable heritage is guaranteed to be more exact than the scope, and exact enough to judge the accuracy of measurements made through a webcam.
 
 There are many tutorials on the web with examples for generating square waves, but many use the Arduino delay functions.  I don't need extreme precision or extremely high frequencies, but the delay generated signals are too sloppy - even for my really laid back requirements.
 
