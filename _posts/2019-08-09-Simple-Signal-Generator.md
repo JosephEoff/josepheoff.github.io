@@ -16,7 +16,7 @@ DC voltages are easy - just measure some random battery with a voltmeter and com
 
 Frequencies are a different matter.
 
-I don't own a good signal generator.  It's just never been needed.  Most of the stuff I do is either working with existing, live signals (like my [acoustic heartbeat detector algorithm](https://github.com/JosephEoff/HeartbeatDetector) or the [noise filter.](https://github.com/JosephEoff/PureData_NoiseFilter))  Or, it's with signals that I'm not going to be generating with any kind of home made stuff (like the [satellite dish RF camera.](https://github.com/JosephEoff/Grote))
+I don't own a good signal generator.  It's just never been needed.  Most of the stuff I do is either working with existing, live signals (like my [acoustic heartbeat detector algorithm](https://github.com/JosephEoff/HeartbeatDetector) or the [noise filter.](https://github.com/JosephEoff/PureData_NoiseFilter))  Or, it's with signals that I'm not going to be generating with any kind of home made stuff (like the [satellite dish RF camera.](rfcamera)
 
 I thought about it for a bit, and remembered that I had a bunch of Arduino Nanos stashed away somewhere.  That's the way out.
 
