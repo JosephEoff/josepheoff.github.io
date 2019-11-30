@@ -31,7 +31,7 @@ The pause function in the D43 software stops the timer for capturing an image fr
 
 It took a bit to discover where in my program things were going bad, but in the end it really was the instantiating of the VideoCapture object.
 
-I had a look at the [OpenCV2 VideoCapture API documentation](https://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html) in hopes of finding that I'd done something wrong, or maybe just a hint that I needed to to something besides just calling release().
+I had a look at the [OpenCV2 VideoCapture API documentation](https://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html) in hopes of finding that I'd done something wrong, or maybe just a hint that I needed to do something besides just calling release().
 
 No such luck.  But, I did notice that you can separate the instantiating of a VideoCapture object from the actual opening of the camera devices.
 
