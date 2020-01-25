@@ -21,12 +21,12 @@ Looks like this:
 |---------------------|
 |![Workbench](/assets/workbench/workbench.jpg)|
 
-That's a lot more convenient.  I need to make a tray under tabletop to hold the mouse and keyboard, but for now I just toss them out of the way when using the soldering iron.
+That's a lot more convenient.  I need to make a tray under the tabletop to hold the mouse and keyboard, but for now I just toss them out of the way when using the soldering iron.
 
 Setting it up wasn't that much work, but I took advantage of having to install the software on a second PC to write up how to do it.
 
 [The Digital D43 software now has a wiki](https://github.com/JosephEoff/D43/wiki) explaining how to install and use it.
 
-Those few pages took a few hours to write up.  That was the bulk of my Saturday afternoon and evening - with time out to make burritos for supper with my son.
+Those few pages took several hours to write up.  That was the bulk of my Saturday afternoon and evening - with time out to make burritos for supper with my son.
 
-Now that I've got some instructions for the software, I'm going to try to see if [Hackaday](https://hackaday.com/) is interested in running an article about it.  I've just submitted a tip to the website.  Now I'll just wait and see what comes of it...
+Now that I've got some instructions for the software, I'm going to see if [Hackaday](https://hackaday.com/) is interested in running an article about it.  I've just submitted a tip to the website.  Now I'll just wait and see what comes of it...
