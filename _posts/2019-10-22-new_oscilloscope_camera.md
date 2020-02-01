@@ -30,7 +30,7 @@ This is the camera mount and the Logitech C270 I'll be attaching to it:
 |--------------|
 |![D43 camera mount](/assets/newcamera/cameramount.jpg)|
 
-There's raised plate on the base there.  It is shaped to fit inside the C270, and is modeled on the front plate of the webcam.  The idea is to close things up light tight without having to use "gaskets" of black felt.
+There's a raised plate on the base there.  It is shaped to fit inside the C270, and is modeled on the front plate of the webcam.  The idea is to close things up light tight without having to use "gaskets" of black felt.
 
 The mounting holes for the C270 were also part of the model - "printed" holes. The heads are countersunk on the inside so that I could reuse the original screws.
 
