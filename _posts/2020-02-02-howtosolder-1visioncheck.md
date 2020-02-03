@@ -14,7 +14,7 @@ I've finally come to understand that most folks with "normal" eyesight don't rea
 
 Since you have to see what you are doing to successfully solder connections, I thought I'd start off with a section on checking your eyesight and determining what (if anything) you need to do to improve or enhance your eyesight.
 
-I've made up a [PDF](assets/2020-02-02-howtosolder-1visioncheck/visioncheck.pdf) containing a few typical things you will see on a typical printed circuit board (PCB.)
+I've made up a [PDF](/assets/2020-02-02-howtosolder-1visioncheck/visioncheck.pdf) containing a few typical things you will see on a typical printed circuit board (PCB.)
 
 The text in the PDF is intentionally small.  Read the text and answer the questions truthfully to yourself - the eyes and aggravation you save will be your own.
 
