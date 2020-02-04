@@ -55,6 +55,12 @@ They work, and a lot of folks start out with them.  You'll probably destroy a fe
 
 If you can, though, I recommend you pick up a temperature controlled soldering iron.  All the posts in this series will assume you are using an iron that won't get blazing hot just because you left it plugged in a little too long.
 
+When you buy your soldering iron, keep in mind that you will need to use tips of various sizes and that you will have to replace tips occassionally.  A super cheap soldering iron isn't much good if you can no longer get tips for it.
+
+I use a very fine tip on my soldering iron, and don't usually bother to switch to a larger one.  Most folks do like to us a tip that matches the size of the joint they are working on.  I'd suggest a 1 millimeter tip and maybe a 3 millimeter tip.
+
+Make sure your iron includes a cleaning sponge in the stand.  Some use a real sponge that you have to soak in water.  Some have  pad of brass shavings.  Both will clean.  You will need the sponge - you must clean the tip before each joint.
+
 ## Side cutters
 
 Also called "wire cutters" or "diagonal cutters."  You use them to clip the pins of the through hole parts after you have soldered them in place, or to just, you know, cut a piece of wire to length.
@@ -95,7 +101,7 @@ They are also helpful for soldering wires to connectors (DB-9 or such.)
 
 Third hands are usually sold with a magnifying glass attached.  I find the magnifying glass gets in my way, so I took it off of mine.
 
-## Pocker knife
+## Pocket knife
 
 I **always** have a pocket knife handy.
 
