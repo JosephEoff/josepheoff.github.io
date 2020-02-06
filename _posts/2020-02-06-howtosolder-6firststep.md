@@ -48,7 +48,7 @@ Now, let's bring things together.
 |-----|
 |![Blob of solder on the iron](/assets/2020-02-06-howtosolder-6brace/step1.jpg)|
 
-I know you just put solder on the tip of the iron when you picked it up.  Do it **again,** but we're going to move right on to working on the wire.  You want the surface of the tip covered in liquid solder- nice, bright, shiny.  If you fiddle around getting to the next step, then the solder will turn gray.  If it turn gray, poke some more fresh solder onto the tip.
+I know you just put solder on the tip of the iron when you picked it up.  Do it **again,** but we're going to move right on to working on the wire.  You want the surface of the tip covered in liquid solder- nice, bright, shiny.  If you fiddle around getting to the next step, then the solder will turn gray.  If it turns gray, poke some more fresh solder onto the tip.
 
 Every time you do something with the iron, you want the tip to be shiny and clean.
 
@@ -91,6 +91,8 @@ If you find that the iron no longer melts the solder, turn it back up a bit.  Wi
 You should prefer to work **hot.**  That is, it is OK for the iron to be hot enough to slowly make black gunk.  You can clean it off, and the higher temperature lets you work faster.  It is better to be hot and fast than cooler and have to hold the iron on the work piece for a long time.
 
 That ought to keep you busy for a while.
+
+When you are done, poke the tip of the iron with some solder then put it back in its stand and turn it off.
 
 The next post will explain how to solder wires together.
 
