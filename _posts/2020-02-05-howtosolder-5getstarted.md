@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "HowTo: Solder by hand - First steps"
+title: "HowTo: Solder by hand - Before you get started"
 categories: [blog]
 mathjax: false
 ---
-Before you get started.
+Make a habit of it.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 

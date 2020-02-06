@@ -12,7 +12,8 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 2.  [Work place](howtosolder-2workplace) - A safe and comfortable place for you and your electronics.
 3.  [Tools](howtosolder-3tools) - It only takes a few tools to get the job done.
 4.  [Materials](howtosolder-4materials) - The things you'll use up.
-5.  [First steps](howtosolder-5getstarted) - Before you get started.
+5.  [Before you start](howtosolder-5getstarted) - Things you'll always have to do.
+6.  [First steps](howtosolder-6firststep) - Things are finally heating up.
 6.  Soldering wires
 7.  Soldering through hole parts
 8.  Removing through hole parts
