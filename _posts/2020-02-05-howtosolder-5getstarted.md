@@ -12,7 +12,7 @@ Now that you have everything ready, you'll want to heat up the iron and get star
 
 Before that, though, I'm going to explain a few things you should do with a new soldering iron.  I'm also going to tell you a few things you should always do while you are using your soldering iron.
 
-# Before you turn on the soldering iron, **every time** your turn on the soldering iron
+# Before you turn on the soldering iron, **every time** you turn on the soldering iron
 
 1. Even if your iron is new, look it over and make sure the cables are OK, and that there are no exposed wires.  The cables can be damaged by the soldering iron tip, and it is easy to damage the housing of the base.  If there's anything broken or exposed, don't plug it in.
 2. Check that the base is placed solidly on your work bench and won't slide or fall off while you are working.
