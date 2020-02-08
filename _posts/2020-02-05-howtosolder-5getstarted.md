@@ -31,6 +31,8 @@ This is a **good** thing.  You can easily apply fresh solder to replace the oxid
 
 The solder oxidizes instead of the tip, so the tip lasts longer.
 
+Scroll down the page to the section "How to tin your soldering iron tip" to see how to tin your tip.
+
 # When using the iron
 
 1. When you take the hot iron out of the stand, wipe it on the sponge.  This will remove oxidized solder and flux from the tip that would otherwise mess up your soldered joint.
@@ -44,6 +46,49 @@ You should make all of those steps into a habit.  You should do them automatical
 
 They'll help keep you safe, and help your iron give you a long lifetime of use.
 
+-----------------
+
+# How to tin your soldering iron tip
+
+Tinning isn't difficult, and you **must** do it.
+
+Here's how:
+
+1. Install the tip in the iron, and turn the iron on.
+2. As the iron heats up, keep trying to melt solder on the tip - way down by the point, maybe 5mm (1/4 inch) from the very end of the tip.
+3. You may have to "scratch" the solder on the tip to get it to melt.
+4. If the iron indicates it has reached its set temperature and you still can't melt solder on it, then turn up the heat.
+5. Once the solder melts, rub it up and down the tip and try to get about 10mm (3/8 inch) covered.
+6. Get a blob of solder melted onto the tip and spread it around.
+7. Rotate the iron so that the solder blob goes around the tip.
+8. The blob may fall off - just add more solder and make a new blob.
+9.  Keep scratching, rubbing, and rotating the tip until the lower 10mm (3/8 inch) has a coat of solder over it.
+10. Done.
+
+
+While you're working, it will look like this:
+
+|New tip|
+|-----|
+|![New tip](/assets/2020-02-06-howtosolder-5start/tin1.jpg)|
+
+|Solder blob|
+|-----|
+|![Solder blob](/assets/2020-02-06-howtosolder-5start/tin2.jpg)|
+
+Rotate the iron so the blob goes around the tip.
+
+|Replace the blob|
+|-----|
+|![Replace the blob](/assets/2020-02-06-howtosolder-5start/tin3.jpg)|
+
+See the the silver spot on the work bench?  The blob fell off.  Just build up a new one on the tip and keep going.
+
+|Done|
+|-----|
+|![Done](/assets/2020-02-06-howtosolder-5start/tin4.jpg)|
+
+There's not quite 10mm (3/8 inch) of the tip tinned.  Notice that there's several splattered blobs on the workbench.  It'll happen.  Don't worry about it.  It isn't a waste - it did its job in getting your new soldering iron tip ready to use.
 
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub> 
