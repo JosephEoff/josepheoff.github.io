@@ -7,7 +7,7 @@ mathjax: false
 {% include lib/mathjax.html %}
 Making better use of the D43 software.
 
-I've mentioned my [oscilloscope camera software](https://github.com/JosephEoff/D43) before.  I used it to make all of the oscilloscope images in the [led driver post](https://josepheoff.github.io/posts/leddriver) and the [series of posts I wrote on voltage dividers.](https://josepheoff.github.io/posts/diode-capacitors-volts)
+I've mentioned my [oscilloscope camera software](https://github.com/JosephEoff/D43) before.  I used it to make all of the oscilloscope images in the [led driver post](https://josepheoff.github.io/posts/leddriver) and the [series of posts I wrote on voltage multipliers.](https://josepheoff.github.io/posts/diode-capacitors-volts)
 
 The software itself works pretty well, but it was a pain to use.  My computer is about two meters from where I work on my workbench.  Making images consisted of running back and forth from the computer to the workbench.
 
