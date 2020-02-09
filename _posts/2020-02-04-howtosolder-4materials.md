@@ -24,7 +24,7 @@ You can use lead free solder if you like, or use old fashioned solder with lead 
 
 I have ordered a roll of lead free solder, and I'll make some comparisons between that and my 60/40 tin/lead solder in a later post.
 
-Regardless of what type you use, I recommend you use 0.5 millimeter diameter solder.  If you use thicker solder, you'll have hard time soldering small joints.  You can use thin solder on just about anything - you just use a longer length of it on bigger joints.
+Regardless of what type you use, I recommend you use 0.5 millimeter diameter solder.  If you use thicker solder, you'll have a hard time soldering small joints.  You can use thin solder on just about anything - you just use a longer length of it on bigger joints.
 
 Another thing to keep in mind:
 Whether your solder contains lead or not, wash your hands after handling it.  Do not eat while soldering.
