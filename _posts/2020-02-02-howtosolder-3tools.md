@@ -57,7 +57,7 @@ If you can, though, I recommend you pick up a temperature controlled soldering i
 
 When you buy your soldering iron, keep in mind that you will need to use tips of various sizes and that you will have to replace tips occassionally.  A super cheap soldering iron isn't much good if you can no longer get tips for it.
 
-I use a very fine tip on my soldering iron, and don't usually bother to switch to a larger one.  Most folks do like to us a tip that matches the size of the joint they are working on.  I'd suggest a 1 millimeter tip and maybe a 3 millimeter tip.
+I use a very fine tip on my soldering iron, and don't usually bother to switch to a larger one.  Most folks do like to use a tip that matches the size of the joint they are working on.  I'd suggest a 1 millimeter tip and maybe a 3 millimeter tip.
 
 Make sure your iron includes a cleaning sponge in the stand.  Some use a real sponge that you have to soak in water.  Some have  pad of brass shavings.  Both will clean.  You will need the sponge - you must clean the tip before each joint.
 
