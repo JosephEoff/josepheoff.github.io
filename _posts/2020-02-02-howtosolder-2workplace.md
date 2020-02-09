@@ -66,7 +66,7 @@ ESD can also be unnoticeable (no zap) but still damage your projects.  It can bu
 Follow these tips to reduce the chances of ESD damaging your projects and components:
 
 1. Wear clothes of cotton or linen when working.  Wool and synthetic fibers can make ESD much worse.
-2. Use properly grounded ESD protection mat on your work bench.  If you can't do that, work on a wooden surface.  You don't normally think of wood as a conductor, but it is good enough to drain high voltage ESD charges slowly and safely.
+2. Use a properly grounded ESD protection mat on your work bench.  If you can't do that, work on a wooden surface.  You don't normally think of wood as a conductor, but it is good enough to drain high voltage ESD charges slowly and safely.
 3.  Wear a properly grounded ESD ground strap.  If you don't have one, then make it a habit to touch your work bench before you touch anything on it.  That way, your static charge drains through the work bench instead of your expensive parts.  Maintain contact with the work bench so that you don't build up a charge while working.
 4.  For extremely sensitive parts, you will need a soldering iron with a grounded tip.  My iron isn't grounded, but the way it and the stand are made (and the fact that the stand is on my conductive, grounded ESD mat) prevent it from collecting a charge.
 
