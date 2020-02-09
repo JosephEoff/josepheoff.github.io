@@ -77,7 +77,7 @@ I mean something like this:
 |--------|
 |![Clippers](/assets/2020-02-02-howtosolder-3tools/clippers.jpg)|
 
-Don't steal them out of your bathroom - get an extra pair just for clipping wires.  Get the ones with a straight cutting edge instead of the curved on if you can.
+Don't steal them out of your bathroom - get an extra pair just for clipping wires.  Get the ones with a straight cutting edge instead of the curved one if you can.
 
 Don't use fingernail scissors, either.  You'll ruin the scissors, and they don't cut wire well at all.
 
