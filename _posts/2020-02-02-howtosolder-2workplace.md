@@ -61,7 +61,7 @@ If you are working on delicate electronics, you will need to protect them from e
 
 ESD is that annoying "zap" you feel when you walk across a carpeted floor and then touch a door knob.
 
-ESD can also be unnoticeable (no zap) but still damage your projects.  It can build up on your or your tools or your equipment without you noticing just in the course of moving things around.  ESD can kill your stuff dead, even if you never notice a single zap.
+ESD can also be unnoticeable (no zap) but still damage your projects.  It can build up on you or your tools or your equipment without you noticing just in the course of moving things around.  ESD can kill your stuff dead, even if you never notice a single zap.
 
 Follow these tips to reduce the chances of ESD damaging your projects and components:
 
