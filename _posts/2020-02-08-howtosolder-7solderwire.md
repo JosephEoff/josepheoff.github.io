@@ -81,7 +81,7 @@ Here's how:
 
 1. Hold the wire in between the thumb and index finger of your left hand with the stripped end sticking out.
 2. Squeeze the loose strands between the thumb and index finger of your right hand.  Squeeze it **tight.**
-3. Roll the wire between the thumb and index finger of your left hand.  Like you would roll a pencil between your fingers.
+3. Roll the wire between the thumb and index finger of your left hand.  Like you would roll a pencil between your fingers.  Only roll the wire in one direction.  It doesn't matter which way, but don't roll it one direction then roll back the other - that'll undo the twist you need to put in the strands.
 4. The strands will be twisted together and stay that way.
 5. Ready to solder.
 
@@ -109,9 +109,10 @@ With the twisting out of the way, I'll go on and show you how to connect two wir
 
 It works like this:
 
-1. Tin the bare ends of the wires.
-2. Arrange the wires close together.
-3. Join the wires with more solder.
+1. Review the [get started page](howtosolder-5getstarted) and the [first steps](howtosolder-6firststep) - brace yourself properly, and keep the tip clean and protected.
+2. Tin the bare ends of the wires.
+3. Arrange the wires close together.
+4. Join the wires with more solder.
 
 It looks like this:
 
