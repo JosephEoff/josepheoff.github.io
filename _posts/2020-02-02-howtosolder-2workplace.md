@@ -39,7 +39,7 @@ You'll probably want to to something to keep the air in your work room clean.
 
 The flux used to make solder flow properly evaporates in the heat from the soldering iron.  The fumes can cause allergic reactions in some people.  Some types of flux also just **stink.**
 
-There are [fume extractors avaialable](https://www.amazon.com/s?k=fume+extractor) if you'd like to buy one.  You can also just position a small fan to blow the fumes away from you.
+There are [fume extractors available](https://www.amazon.com/s?k=fume+extractor) if you'd like to buy one.  You can also just position a small fan to blow the fumes away from you.
 
 You can also do what I do:
 Leave the door to the work room open, and always **exhale** while the fumes are being produced.  I've never had any trouble that way. (Except for a roll of really nasty stuff a company I worked for nearly thirty years ago had.  The fumes gave me the runs, so I quit using that roll of solder.  As far as I know, it's still on a back shelf somewhere in that workshop.)
