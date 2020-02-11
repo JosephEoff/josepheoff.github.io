@@ -136,7 +136,7 @@ These are the things  I'll be using:
 |--------------|
 |![Perfboard and transistor](/assets/2020-02-09-howtosolder-8throughhole/perfboard1.jpg)|
 
-Insert the transistor pins in the perfboard holes.  If you were building something, you'd try to put the pins in so that you can easily connect the other components.  This is just practice, though, so I'll  poke it in any which a way.  Bend the legs outwards a litte so the transistor stays in place.
+Insert the transistor pins in the perfboard holes.  If you were building something, you'd try to put the pins in so that you can easily connect the other components.  This is just practice, though, so I'll  poke it in any which a way.  Bend the legs outwards a little so the transistor stays in place.
 
 |Transistor on perfboard|
 |--------------|
@@ -163,7 +163,9 @@ Do the other two pins just like the first.  Check that they are all neat, clean,
 
 # Solder a wire to the perfboard
 
-You'll often need to connect a wire to a perfboard or PCB.  Here's how it goes:
+You'll often need to connect a wire to a perfboard or PCB.  
+
+Here's how it goes:
 
 Tin the wire.  I covered this in a previous [post.](howtosolder-5getstarted)  You'll have to strip the wire and twist the strands first.
 
@@ -187,7 +189,7 @@ Here I'm using my thumb and ring finger to hold the board and keep the wire in p
 |--------------|
 |![Solder the wire](/assets/2020-02-09-howtosolder-8throughhole/wire3.jpg)|
 
-All finished.  The joint is clean and shiny and covers the ring on the board..
+All finished.  The joint is clean and shiny and covers the ring on the board.
 
 |Done|
 |--------------|
@@ -200,7 +202,7 @@ Often times, you will need to connect two things on a piece of perfboard.  You c
 
 Another thing you can do is to make a solder bridge between two adjacent pads.  That's why I soldered the wire in next to one of the transistor pins.
 
-This a little tricky.  Solder prefers to stick to metal, and will usually ball up and flow away from non-metallic surface.  It can be done, though.  It takes more solder than a normal joint, and it takes practice to make it work.
+This a little tricky.  Solder prefers to stick to metal, and will usually ball up and flow away from non-metallic surfaces.  It can be done, though.  It takes more solder than a normal joint, and it takes practice to make it work.
 
 It goes like this:
 
