@@ -11,7 +11,7 @@ permalink: /posts/:slug
 gems: jekyll-seo-tag
 # Google Analytics
 google_analytics: UA-150925645-1
-plugins:
+gems:
   - jekyll-feed
   - jekyll-sitemap
 
