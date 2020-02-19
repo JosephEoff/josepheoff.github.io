@@ -14,13 +14,13 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 4.  [Materials](howtosolder-4materials) - The things you'll use up.
 5.  [Before you start](howtosolder-5getstarted) - Things you'll always have to do.
 6.  [First steps](howtosolder-6firststep) - Things are finally heating up.
-6.  [Soldering wires](howtosolder-7solderwire) - Finally getting somewhere.
-7.  [Soldering through hole parts](howtosolder-8throughhole) - Some of the most common things you'll solder.
-8.  Removing through hole parts
-9.  Soldering simple SMD parts
-10.  Removing simple SMD parts
-11.  Soldering SMD ICs
-12.  Removing SMD ICs
+7.  [Soldering wires](howtosolder-7solderwire) - Finally getting somewhere.
+8.  [Soldering through hole parts](howtosolder-8throughhole) - Some of the most common things you'll solder.
+9.  [Removing through hole parts](howtosolder-9throughhole-remove) - Not the way most folks expect.
+10.  Soldering simple SMD parts
+11.  Removing simple SMD parts
+12.  Soldering SMD ICs
+13.  Removing SMD ICs
 
 As I complete each post, I'll link them into this table of contents.  I may add other pages, or combine some items and shorten the list.  We'll see how it goes.
 
