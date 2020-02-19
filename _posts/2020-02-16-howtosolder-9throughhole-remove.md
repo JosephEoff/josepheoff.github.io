@@ -42,7 +42,7 @@ Reality looks more like this:
 |![Slanted pin](/assets/2020-02-16-howtosolder-9throughhole-remove/slanted.png)|Slanted|
 |![Real pin](/assets/2020-02-16-howtosolder-9throughhole-remove/real.png)|Slanted and bent|
 
-When a pin is offcenter or slanted, it will trap solder in a place where you can't suck it out with your pump.  You'll **never** get the part out when that happens.  If you try to force it, you'll end up pulling the plating out of the hole and taking solder pad around the hole with it.
+When a pin is offcenter or slanted, it will trap solder in a place where you can't suck it out with your pump.  You'll **never** get the part out when that happens.  If you try to force it, you'll end up pulling the plating out of the hole and taking the solder pad around the hole with it.
 
 If you had an ideally soldered pin, then you could heat the joint, remove the solder, and pull the pin out.
 
@@ -197,7 +197,7 @@ I usually remove the pins from the bottom side.  If they are bent, then it is ea
 |-------------------|
 |![Pull a pin](/assets/2020-02-16-howtosolder-9throughhole-remove/replace5.jpg)|
 
-Sometimes you'll need to work from the top side.  In this case, the second pins fell back through the board so I turned it over and finished it from the top.
+Sometimes you'll need to work from the top side.  In this case, the second pin fell back through the board so I turned it over and finished it from the top.
 
 |Take it from the top|
 |-------------------|
