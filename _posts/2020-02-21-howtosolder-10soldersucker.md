@@ -16,7 +16,7 @@ It showed up earlier than expected, so I get to write up how to use a solder suc
 |---------|
 |![My new solder sucker](/assets/2020-02-21-howtosolder-10soldersucker/soldersucker1.jpg)|
 
-I ordered one with a white teflon tip.  What I got was one with a black nylon tip.  It works, but I'd really have rather gotten the teflon tipped one that I ordered.  Nylon melts if you don't work quickly, and flux sticks to is something awful.
+I ordered one with a white teflon tip.  What I got was one with a black nylon tip.  It works, but I'd really have rather gotten the teflon tipped one that I ordered.  Nylon melts if you don't work quickly, and flux sticks to it something awful.
 
 If you buy or order one, insist on getting one with a white teflon tip.  They don't melt, and flux is easier to remove.
 
