@@ -94,7 +94,7 @@ Keep it squeezed until it is time to suck out the solder.
 |---------|
 |![Melt the solder and suck it out](/assets/2020-02-21-howtosolder-10soldersucker/clearhole4.jpg)|
 
-This is the tricky bit.  Hold the tip of the soldering on the hole so that the point is right at the edge of the opening.  Place the notch of the solder sucker over the tip so that the tip of the solder sucker covers the entire pad around the hole. Let the bulb of the solder sucker pop back out.
+This is the tricky bit.  Hold the tip of the soldering iron on the hole so that the point is right at the edge of the opening.  Place the notch of the solder sucker over the tip so that the tip of the solder sucker covers the entire pad around the hole. Let the bulb of the solder sucker pop back out.
 
 If you do all of that quickly, it'll suck the hole clean.  If it doesn't work the first time, then you **must** clean the tip of the solder sucker (remove any flux) and poke the crumbs out of tip of the solder sucker.  Apply more fresh solder (and maybe turn up the heat a little) and try it again.
 
