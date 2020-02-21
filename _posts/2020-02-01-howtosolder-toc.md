@@ -17,10 +17,11 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 7.  [Soldering wires](howtosolder-7solderwire) - Finally getting somewhere.
 8.  [Soldering through hole parts](howtosolder-8throughhole) - Some of the most common things you'll solder.
 9.  [Removing through hole parts](howtosolder-9throughhole-remove) - Not the way most folks expect.
-10.  Soldering simple SMD parts
-11.  Removing simple SMD parts
-12.  Soldering SMD ICs
-13.  Removing SMD ICs
+10. [Using a solder sucker](howtosolder-10soldersucker) - Making good use of a cheap tool.
+11.  Soldering simple SMD parts
+12.  Removing simple SMD parts
+13.  Soldering SMD ICs
+14.  Removing SMD ICs
 
 As I complete each post, I'll link them into this table of contents.  I may add other pages, or combine some items and shorten the list.  We'll see how it goes.
 
