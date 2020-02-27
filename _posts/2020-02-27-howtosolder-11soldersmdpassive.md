@@ -19,7 +19,7 @@ There's quite a bit of explaining to do, so I'm going to break this down into se
 Here are all things it's going to take to show you how to solder SMD parts:
 
 1. [Tools](#tools)
-2. [Positioning yourself](positioning-yourself)
+2. [Positioning yourself](#positioning-yourself)
 3. [The task](#the-task)
 4. [Do it to it](#do-it-to-it)
 5. [Handling problems](#handling-problems)
@@ -102,7 +102,7 @@ We're going to use that tinned spot on the tip to help conduct heat into the sol
 {:start="3"}
 3. Clean a pad.
 
-Press the solder wick down onto the pad, and hold it for a couple of seconds.  You should see flux start to smoke.  When the flux smokes, give it a second or so more and then raise the iron and the wick up off of the pad together.
+Lay the solder wick down on the pad.  Press it down with the tip of the iron and hold it in place for a couple of seconds.  You should see the flux in the solder wick start to smoke.  When the flux smokes, give it a second or so more and then raise the iron and the wick up off of the pad together.
 
 |Clean a pad|
 |---------|
@@ -183,7 +183,7 @@ Apply the tip of the iron to the junction of the part and the pad.  Heat the par
 
 Remove the iron from the joint, and let it cool.  Look it over.  It should be clean and shiny and the solder should make a smooth connection to the pad and the part.
 
-If the joint s dull or jagged, apply the iron and add a spot of solder.  Check it again.
+If the joint is dull or jagged, apply the iron and add a spot of solder.  Check it again.
 
 If there's a big ball of solder connecting the part and the pad, then you should wipe the tip of the iron clean and apply the tip to the joint.  Melt the ball, then remove the tip of the iron from the joint.  Excess solder should go with the tip.  If there's still too much solder, clean the tip, heat the ball, and remove some more solder.
 
@@ -271,7 +271,7 @@ I'm going to run through installing a 0402 sized component.  No comments.  I jus
 
 There's two things to tell you about that last photo:
 
-1. I had to get out my good camera to make that picture because EyeGore doesn't have enough resolution.
+1. I had to get out my good camera to make that picture because [EyeGore](eyegore) doesn't have enough resolution.
 2. The red circled spots are 0201 sized parts that I installed on that board a few months ago.
 
 I did that 0402 sized part with a worn down tip and the board was flopping loose on the work bench - it was held down only with my fingers while I was working.  That's an extreme example to show that not only is it easy to solder SMD parts, but that you can do it in less than ideal conditions.
