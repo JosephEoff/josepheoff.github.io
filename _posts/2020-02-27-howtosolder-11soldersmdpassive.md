@@ -294,7 +294,7 @@ You could check the values with a meter while the parts are still on the bench, 
 
 The safest thing to do is to install all of one value on your board, then pack up the remaining parts and put them away before doing the next value part.
 
-Make your life easy.  Only one value of parts open on the bench at any time.  Your nerves will thank you.
+Make your life easy.  Only one value of parts out on the bench at any time.  Your nerves will thank you.
 
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
