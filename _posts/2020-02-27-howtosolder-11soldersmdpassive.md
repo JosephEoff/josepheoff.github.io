@@ -4,7 +4,7 @@ title: "HowTo: Solder by hand - Soldering simple SMD parts"
 categories: [blog]
 mathjax: false
 ---
-It's easier than through hole parts.
+Anything you can see, you can solder.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
