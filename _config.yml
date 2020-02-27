@@ -1,4 +1,3 @@
-
 title: JRE's Project Blog
 description: A place to talk about my projects
 url: https://josepheoff.github.io
@@ -23,3 +22,10 @@ exclude:
   - .sass-cache
   - CNAME
   - LICENSE
+
+repository  : JosephEoff/josepheoff.github.io # Git username/repo-name e.g. "mmistakes/minimal-mistakes"
+comments:
+  provider  : "staticman_v3"
+  staticman:
+    branch    : "master"
+    endpoint  : https://staticman3.herokuapp.com/v3/entry/github/
