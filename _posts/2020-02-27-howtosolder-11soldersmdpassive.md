@@ -12,7 +12,7 @@ It's taken a while to get around to it, but now I'm finally going to explain how
 
 I prefer working with SMD parts these days.  I find them easier to handle, easier to solder, and easier to remove if I need to change things.
 
-There's quite a bit of explaining to do, so I'm going to break this down into sections.  It looks like a lot of stuff but once you do it you'll realize while it takes a lot of words to explain it,  doing it is a snap.  You can solder in an SMD part in just a few seconds.
+There's quite a bit of explaining to do, so I'm going to break this down into sections.  It looks like a lot of stuff but once you do it you'll realize that while it takes a lot of words to explain it,  doing it is a snap.  You can solder in an SMD part in just a few seconds.
 
 # Steps
 
