@@ -18,7 +18,7 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 8.  [Soldering through hole parts](howtosolder-8throughhole) - Some of the most common things you'll solder.
 9.  [Removing through hole parts](howtosolder-9throughhole-remove) - Not the way most folks expect.
 10. [Using a solder sucker](howtosolder-10soldersucker) - Making good use of a cheap tool.
-11. [Soldering simple SMD parts](howtosolder-11soldersmdpassive) - It's easier than through hole parts.
+11. [Soldering simple SMD parts](howtosolder-11soldersmdpassive) - Anything you can see, you can solder.
 12.  Removing simple SMD parts
 13.  Soldering SMD ICs
 14.  Removing SMD ICs
