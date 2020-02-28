@@ -29,3 +29,5 @@ comments:
   staticman:
     branch    : "master"
     endpoint  : https://staticman3.herokuapp.com/v3/entry/github/
+
+search: true
