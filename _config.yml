@@ -28,6 +28,6 @@ comments:
   provider  : "staticman_v3"
   staticman:
     branch    : "master"
-    endpoint  : https://staticman3.herokuapp.com/v3/entry/github/
+    endpoint  : https://staticman3.herokuapp.com/v3/entry/github/JosephEoff/josepheoff.github.io/master
 
 search: true
