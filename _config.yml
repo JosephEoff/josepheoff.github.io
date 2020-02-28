@@ -23,14 +23,5 @@ exclude:
   - CNAME
   - LICENSE
 
-staticman_url: https://api.staticman.net/v3/entry/github/JosephEoff/josepheoff.github.io/master/comments
-  
-#comments:
-#  provider  : "staticman_v3"
-#  staticman:
-#    repository  : JosephEoff/josepheoff.github.io # Git username/repo-name e.g. "mmistakes/minimal-mistakes"
-#    branch    : "master"
-#    endpoint  : #https://staticman3.herokuapp.com/v3/entry/github/JosephEoff/josepheoff.github.io/master
-#    reCaptcha: 
-#    siteKey: "6Ld0At0UAAAAAGCmaUnuBOrbKFKrMhlkc1aKsXD2"
-#    secret: "fHieD9tnDXnz1xruIxV0f918VNQcTxH/dAgwUpo0SDXACvTC9A6CtS5USFWqA7rFKpClUMOReOucIb+dvJ9w97c5OA/vR9+r4JwoS8G19wtXKJwOu1RaejMNcQFlPw4Coco2q6tRfCOUF+K7KET4nkB+oQqEoSRt7qovO6et4C+2Yf3Apom51UysMB7EzjqKN2Um4JiOXjH0HBwBan7/4gOMEzyAYmB/mIgkdva+7EaYSzG8uQgcGrxsRpflfgyGqc7gReKX6KxJY/7gptEK3hJDmTiCIxXOnP/m94+rbjfBhzNIBtPlmK4PoqIm+vrfHKdHNyJTAYv4ucbBi4/+rw=="
+disqus:
+    shortname: jres-project-blog
