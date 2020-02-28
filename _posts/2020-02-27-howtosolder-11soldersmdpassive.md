@@ -78,7 +78,7 @@ I'm going to solder a 1206 sized SMD capacitor onto a PCB.
 
 1.  Clean off the pads if needed.
 
-All the pads on this board already have solder on them  That's bad.  To do this properly, you want one pad to have a blob of solder on it while the second pad is clean and flat.
+All the pads on this board already have solder on them.  That's bad.  To do this properly, you want one pad to have a blob of solder on it while the second pad is clean and flat.
 
 The first thing to do is to get a clean end on your solder wick.  I clip the end off so that I don't have a long tail of half used wick getting in the way.
 
