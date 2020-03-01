@@ -34,7 +34,7 @@ You need the same tools to remove SMD parts as you need to install them.
 
 # Positioning yourself
 
-Positioning isn't as critical for removing as for installing.  You only have to organize one thing:  Arrange things so that the tip of the iron is parallel to the part you want to remove.  It's not critical enough to rate a separate photo.
+Positioning isn't as critical for removing as for installing.  There's really only one thing you have to pay attention to: Arrange yourself and the board so that the tip of the iron is parallel to the part you want to remove.  It's not critical enough to rate a separate photo.
 
 As always, though, you will be working with your right hand planted on the workbench.  Move the board and the part to where you can reach them with the soldering iron tip without raising your hand from the table.
 
