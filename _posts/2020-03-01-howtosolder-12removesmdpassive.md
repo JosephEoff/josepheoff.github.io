@@ -161,9 +161,9 @@ If you've done all that, you'll have a clean, re-usable SMD part and clean pads 
 |---------|
 |![Done](/assets/2020-03-01-howtosolder-12removesmdpassive/1206-16.jpg)|
 
-That's a pretty painless prcocedure, and it works every time.  Practice does help (as with everything,) but it shouldn't be difficult to do at all.
+That's a pretty painless procedure, and it works every time.  Practice does help (as with everything,) but it shouldn't be difficult to do at all.
 
-I find it works better with smaller parts.  It's easier to get the needed contact along the length of the tip for smaller parts.
+I find it slightly easier with smaller parts.  It's easier to get the needed contact along the length of the tip for smaller parts.
 
 Anything you can see, you can unsolder that way.
 
