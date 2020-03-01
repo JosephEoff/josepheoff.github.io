@@ -10,7 +10,7 @@ Anything you can see, you can remove.
 
 Now that you can install [surface mount device (SMD) parts,](howtosolder-11soldersmdpassive) it's time you learned how to remove them as well.
 
-As with soldering SMD parts, removing them looks more complicated than it is.  I've got about 16 photos showing how to do remove an SMD part.  That sounds like a lot, but the fact of it is that it only takes seconds to do.  More  than half the photos are about cleaning up the part and the pads after removal.
+As with soldering SMD parts, removing them looks more complicated than it is.  I've got about 16 photos showing how to remove an SMD part.  That sounds like a lot, but the fact of it is that it only takes seconds to do.  More  than half the photos are about cleaning up the part and the pads after removal.
 
 # Steps
 
