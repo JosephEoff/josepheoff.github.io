@@ -91,7 +91,7 @@ Clip it close to the section that's already been used.  You want to get rid of t
 {:start="2"}
 2. Add a bit of solder to the tip of your iron.
 
-While you are at it, [review the things you are supposed to do everytime you pick up your iron.](http://127.0.0.1:4000/posts/howtosolder-5getstarted)
+While you are at it, [review the things you are supposed to do everytime you pick up your iron.](howtosolder-5getstarted)
 
 |Tin the tip|
 |---------|

@@ -20,7 +20,7 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 10. [Using a solder sucker](howtosolder-10soldersucker) - Making good use of a cheap tool.
 11. [Soldering simple SMD parts](howtosolder-11soldersmdpassive) - Anything you can see, you can solder.
 12. [Removing simple SMD parts](howtosolder-12removesmdpassive) - Anything you can see, you can remove.
-13.  Soldering SMD ICs
+13. [Soldering SMD ICs](howtosolder-13soldersmdic) - 
 14.  Removing SMD ICs
 
 As I complete each post, I'll link them into this table of contents.  I may add other pages, or combine some items and shorten the list.  We'll see how it goes.
