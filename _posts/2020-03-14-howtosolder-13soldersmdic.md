@@ -4,7 +4,7 @@ title: "HowTo: Solder by hand - Solder SMD ICs"
 categories: [blog]
 mathjax: false
 ---
-Any IC that has pins or pads that you can see, you can solder.
+Any SMD IC that has pins or pads that you can see, you can solder.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
