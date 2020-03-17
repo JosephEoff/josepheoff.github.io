@@ -60,7 +60,7 @@ Now let's get down to it.
 {:start="3"}
 3. Make sure of what you are working on.
 
-|This is hole I'm going to clear|
+|This is the hole I'm going to clear|
 |---------|
 |![This is hole I'm going to clear](/assets/2020-02-21-howtosolder-10soldersucker/clearhole2.jpg)|
 
@@ -75,7 +75,7 @@ That's the one circled in blue.
 
 It's counter-intuitive.  I'm going to remove solder from this hole, but I start by **adding** more solder to it.  That extra solder does a couple of things for you:
 
-- It cleans all the old oxidized solder off of the joint.
+- It cleans the old oxidized solder.  Oxidized solder doesn't flow well.  The flux in the fresh solder gets rid of the oxidation and makes the solder easier to suck out.
 - The extra solder holds heat while you are working - it helps you get the through hole plating and the traces hot enough to work on.
 
 {:start="5"}
