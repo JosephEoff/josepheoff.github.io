@@ -6,6 +6,8 @@ categories: [blog]
 
 Getting better.
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 The output of the Villard circuit is higher than the output of a simple rectifier, but it doesn't much resemble DC.
 
 The [Greinacher doubler](https://en.wikipedia.org/wiki/Voltage_doubler#Greinacher_circuit) improves greatly on the Villard.  It follows the Villard doubler with another diode and a capacitor.  This forms a peak detector, and smooths the extreme fluctuations of the Villard into something more resembling the output of a simple rectifier - but, the voltage is **still** much higher.
@@ -43,3 +45,5 @@ You turn to a [Cockcroft-Walton](https://en.wikipedia.org/wiki/Cockcroft%E2%80%9
 I'll describe that the next time around.
 
 [**Next**](diode-capacitors-volts-pt3)
+
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

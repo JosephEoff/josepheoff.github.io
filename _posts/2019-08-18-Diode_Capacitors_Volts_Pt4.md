@@ -6,6 +6,8 @@ categories: [blog]
  
 Why do something that looks like a problem?
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 The [last time around,](diode-capacitors-volts-pt3) I looked at the Cockcroft-Walton voltage multiplier.
 
 Though it isn't as simple as the doublers, it is extendable and easily predictable.  One stage gets you half the peak to peak AC as DC, and you just add stages to get more voltage.
@@ -100,8 +102,4 @@ Now that I've had a look at all the various types of voltage doubler and voltage
 
 [**Next**](diode-capacitors-volts-pt5)
 
-
-
-
-
-
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

@@ -6,6 +6,8 @@ categories: [blog]
 
 Start with the simple things.
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 I'm going to start this part by comparing a simple half wave rectifier circuit with a simple [Villard voltage doubler.](https://en.wikipedia.org/wiki/Voltage_doubler#Villard_circuit)
 
 Here's what they look like:
@@ -48,3 +50,5 @@ The Villard output is just the AC offset by a DC voltage so that the AC peaks mo
 The Villard output is better than nothing, but can be improved upon.  The next better voltage doubler is the Greinacher circuit.  I'll look at it in the next post.
 
 [**Next**](diode-capacitors-volts-pt2)
+
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

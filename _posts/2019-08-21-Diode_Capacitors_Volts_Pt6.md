@@ -6,6 +6,8 @@ categories: [blog]
 
 Where did my voltage go?
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 ![Oscilloscope probe impedance measurement.](/assets/voltage_multiplier/scopeimpedance_setup.png)
 
 Figuring out how the capacitance relates to the impedance of a voltage multiplier.
@@ -121,3 +123,5 @@ That's not **anywhere** close to what I expected.  I expected the intercept to d
 Hmmm.  More mysteries, and I haven't even solved the one I wanted to yet.  I'll have to look into the intercept and the impedance progression another time.
 
 [**Next**](diode-capacitors-volts-pt7)
+
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

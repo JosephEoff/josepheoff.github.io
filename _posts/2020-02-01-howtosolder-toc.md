@@ -21,7 +21,9 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 11. [Soldering simple SMD parts](howtosolder-11soldersmdpassive) - Anything you can see, you can solder.
 12. [Removing simple SMD parts](howtosolder-12removesmdpassive) - Anything you can see, you can remove.
 13. [Soldering SMD ICs](howtosolder-13soldersmdic) - Any SMD IC that has pins or pads that you can see, you can solder.
-14.  Removing SMD ICs
+14. [Removing SMD ICs](howtosolder-14removesmdic) - They ain't pokemons - you can't get 'em all.
+15. Regular or unleaded - What kind of solder is best?
+16. Meet my new soldering iron - The hardware store cheapy left me hanging.
 
 As I complete each post, I'll link them into this table of contents.  I may add other pages, or combine some items and shorten the list.  We'll see how it goes.
 

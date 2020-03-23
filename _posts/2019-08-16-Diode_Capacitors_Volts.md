@@ -6,6 +6,9 @@ categories: [blog]
 
 Let's talk about voltage multipliers.
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
+
 For various reasons (including two explosions in the high voltage power supply of my old oscilloscope,) I've had to get familiar with voltage doublers - or rather, voltage multipliers.
 
 A voltage multiplier is a simple construction of diodes and capacitors that can be used to turn a relatively low AC voltage into a higher DC voltage.
@@ -72,3 +75,4 @@ The next post will get into the circuitry.
 
 [**Next**](diode-capacitors-volts-pt1)
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

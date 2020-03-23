@@ -6,6 +6,8 @@ categories: [blog]
 
 The big league.
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 I've gone into the [Villard](diode-capacitors-volts-pt1) and the [Greinacher](diode-capacitors-volts-pt2) voltage doublers in the two previous installments of this series.
 
 If you need to double the DC you get from AC, then those two will do the job.
@@ -117,3 +119,5 @@ In summary:
 The next post will go into why the Cockcroft-Walton has the structure is has.  There **is** a very specific advantage to the structure - even though the structure is also the responsible for the load problem.
 
 [**Next**](diode-capacitors-volts-pt4)
+
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>

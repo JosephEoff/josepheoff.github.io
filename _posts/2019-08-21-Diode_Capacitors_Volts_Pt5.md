@@ -6,6 +6,8 @@ categories: [blog]
 
 Haven't we met before?
 
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+
 After going through a couple of simple voltage doublers and then the more complicated full wave Cockcroft-Walton multiplier, I'm going to back down to the simpler half wave Cockcroft-Walton multiplier.  From there, I'll go into how they are all related.
 
 I introduced the Cockcroft-Walton multiplier because it makes the most sense to me.  It is based on an easily recognized circuit, and it is fairly obvious what it does.  Now I'm going to go to the simpler (but for me less obvious) half wave Cockcroft-Walton multiplier.
@@ -70,3 +72,5 @@ Having gone through the development of the various multipliers and doublers, I c
 Next time around, I'm going to have a look at why the voltage drops so horribly on the higher stages.
 
 [**Next**](diode-capacitors-volts-pt6)
+
+<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
