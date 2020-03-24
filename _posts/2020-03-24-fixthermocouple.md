@@ -22,7 +22,7 @@ Here's the guilty party:
 |---------|
 |![Meter and thermocouple](/assets/2020-03-24-fixthermocouple/meter.jpg)|
 
-The jack for the thermcouple on the meter was always a little flaky, so I thought it might be broken or just have bad contact.  I took the meter apart, disassembled the jack, tightened the pressure on the spring contacts, and reassembled the whole thing.  The plug fit better and held tighter, but still no temperature.
+The jack for the thermocouple on the meter was always a little flaky, so I thought it might be broken or just have bad contact.  I took the meter apart, disassembled the jack, tightened the pressure on the spring contacts, and reassembled the whole thing.  The plug fit better and held tighter, but still no temperature.
 
 I fiddled with it for a while, then figured it was time to order a new thermocouple.  A quick look at Amazon and other places showed I'd be waiting a couple of weeks for one to be delivered, so I decided to take a closer look at the thermocouple.
 
