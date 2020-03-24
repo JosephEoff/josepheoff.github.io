@@ -24,7 +24,7 @@ Here's the guilty party:
 
 The jack for the thermcouple on the meter was always a little flaky, so I thought it might be broken or just have bad contact.  I took the meter apart, disassembled the jack, tightened the pressure on the spring contacts, and reassembled the whole thing.  The plug fit better and held tighter, but still no temperature.
 
-I fiddled with it for a while, then figured it was to order a new thermocouple.  A quick look at Amazon and other places showed I'd be waiting a couple of weeks for one to be delivered, so I decided to take a closer look at the thermocouple.
+I fiddled with it for a while, then figured it was time to order a new thermocouple.  A quick look at Amazon and other places showed I'd be waiting a couple of weeks for one to be delivered, so I decided to take a closer look at the thermocouple.
 
 I checked the internet, and found that a properly working K-type thermocouple will have pretty much no resistance when measured with an ohmmeter.  Mine showed pretty much zero ohms from pin to pin, so at least it wasn't an open circuit.
 
