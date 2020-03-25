@@ -76,5 +76,5 @@ If you have to disconnect the wires from the plug pins then you'll have to take 
 
 A little poking around saved me a few bucks and a couple of weeks worth of waiting for a new thermocouple.
 
-If you found your way here and managed to fix your thermcouple, leave a comment and let me know how yours was broken and how you fixed it.
+If you found your way here and managed to fix your thermocouple, leave a comment and let me know how yours was broken and how you fixed it.
 
