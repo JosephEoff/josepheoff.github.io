@@ -32,7 +32,7 @@ A functioning thermocouple should also show a few millivolts DC when hot.  I che
 
 On a random impulse, I measure the resistance between the two wires at the thermocouple end.  That was odd.  There's about three ohms of resistance across the thermocouple at that end.
 
-The only way for that to be possible was for there to be a short in the wiring in the plug.
+The only way for that to be possible (lower resistance at the plug than at the thermocouple) was for there to be a short in the wiring in the plug.
 
 Fortunately, the plug can be disassembled.
 
