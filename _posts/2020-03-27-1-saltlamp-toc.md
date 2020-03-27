@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The salt block lamp - Table of contents"
+title: "The salt block lamp - Table of Contents"
 categories: [blog]
 mathjax: false
 ---

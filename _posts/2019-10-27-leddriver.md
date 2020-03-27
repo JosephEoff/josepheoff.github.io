@@ -7,7 +7,7 @@ mathjax: true
 {% include lib/mathjax.html %}
 Whiling away a rainy Sunday afternoon with a block of salt and an LED.
 
-<sub>[The salt block lamp - Table of contents](1-saltlamp-toc)</sub>
+<sub>[The salt block lamp - Table of Contents](1-saltlamp-toc)</sub>
 
 |Block of rocksalt and a GU4 3 watt LED|
 |--------------|
@@ -80,4 +80,4 @@ It seems there's some sort of regulation going on inside the LED.  It lights at 
 
 That's all for today.  There's a long way to go before my rock salt lamp is finished, but it won't be getting done on this Sunday.
 
-<sub>[The salt block lamp - Table of contents](1-saltlamp-toc)</sub>
+<sub>[The salt block lamp - Table of Contents](1-saltlamp-toc)</sub>

@@ -6,7 +6,7 @@ mathjax: false
 ---
 Preparing the salt block for mounting and lighting.
 
-<sub>[The salt block lamp - Table of contents](1-saltlamp-toc)</sub>
+<sub>[The salt block lamp - Table of Contents](1-saltlamp-toc)</sub>
 
 Some time back, I wrote a post about [driving a bright LED with a simple voltage booster.](leddriver)
 
@@ -103,5 +103,5 @@ Plenty of time to decide that later.  There's still the base and the lamp mount 
 
 That's all for today.
 
-<sub>[The salt block lamp - Table of contents](1-saltlamp-toc)</sub>
+<sub>[The salt block lamp - Table of Contents](1-saltlamp-toc)</sub>
 

@@ -6,7 +6,7 @@ mathjax: false
 ---  
 Electronics - ["Art Attack" style.](https://en.wikipedia.org/wiki/Art_Attack)
 
-<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
+<sub>[The simple voltage booster - Table of Contents](3-voltagebooster-toc)</sub>
 
 ![Simple voltgage booster](/assets/voltagebooster/step19.jpg)
 
@@ -132,8 +132,4 @@ In the mean time, try to make the LED light up using just the battery without th
 
 If you've built the simple voltage booster, let me know how it worked out.
 
-
-<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
-
-
-
+<sub>[The simple voltage booster - Table of Contents](3-voltagebooster-toc)</sub>

@@ -6,7 +6,7 @@ categories: [blog]
 
 Start with the simple things.
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 I'm going to start this part by comparing a simple half wave rectifier circuit with a simple [Villard voltage doubler.](https://en.wikipedia.org/wiki/Voltage_doubler#Villard_circuit)
 
@@ -51,4 +51,4 @@ The Villard output is better than nothing, but can be improved upon.  The next b
 
 [**Next**](diode-capacitors-volts-pt2)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

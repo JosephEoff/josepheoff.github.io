@@ -7,7 +7,7 @@ mathjax: true
 {% include lib/mathjax.html %}
 That got complicated real quick.
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 The last time around, [I had a look at the impedance of voltage multipliers.](diode-capacitors-volts-pt6)
 
@@ -75,4 +75,4 @@ Exponential, clear as day.  It just keeps getting worse the more stages you add.
 
 [(Final installment of the voltage multiplier series.)](diode-capacitors-volts-pt8)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

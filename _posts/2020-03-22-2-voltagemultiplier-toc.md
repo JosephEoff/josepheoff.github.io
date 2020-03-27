@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Voltage multiplier experiments - Table of contents"
+title: "Voltage multiplier experiments - Table of Contents"
 categories: [blog]
 mathjax: false
 --- 

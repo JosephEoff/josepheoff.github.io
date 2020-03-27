@@ -6,7 +6,7 @@ categories: [blog]
  
 Why do something that looks like a problem?
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 The [last time around,](diode-capacitors-volts-pt3) I looked at the Cockcroft-Walton voltage multiplier.
 
@@ -102,4 +102,4 @@ Now that I've had a look at all the various types of voltage doubler and voltage
 
 [**Next**](diode-capacitors-volts-pt5)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

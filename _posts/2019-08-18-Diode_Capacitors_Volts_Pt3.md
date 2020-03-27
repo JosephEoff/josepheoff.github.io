@@ -6,7 +6,7 @@ categories: [blog]
 
 The big league.
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 I've gone into the [Villard](diode-capacitors-volts-pt1) and the [Greinacher](diode-capacitors-volts-pt2) voltage doublers in the two previous installments of this series.
 
@@ -120,4 +120,4 @@ The next post will go into why the Cockcroft-Walton has the structure is has.  T
 
 [**Next**](diode-capacitors-volts-pt4)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

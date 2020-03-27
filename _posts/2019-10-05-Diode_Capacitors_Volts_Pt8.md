@@ -7,7 +7,7 @@ mathjax: true
 {% include lib/mathjax.html %}
 Enough's enough.
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 Now that I know how to calculate the reactance of a Cockcroft-Walton voltage multiplier, I figure it's time to give it a rest.
 
@@ -83,4 +83,4 @@ I'm done.  I've spent more time fooling with voltage multipliers than I intended
 
 Right now, I'm going to find something [**simple** to do.](voltagebooster)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

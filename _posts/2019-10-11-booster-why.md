@@ -7,7 +7,7 @@ mathjax: true
 {% include lib/mathjax.html %}
 Ulterior motives revealed.
 
-<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
+<sub>[The simple voltage booster - Table of Contents](3-voltagebooster-toc)</sub>
 
 The idea for the simple voltage booster came up during a discussion in the Electrical Engineering Stack Exchange chat room.  There was a person present who was **convinced** that inductors cannot store energy, and that they certainly couldn't store it in the magnetic field of the inductor.  This person would not accept that switching regulators do it all the time.  Nope.  The switching regulators **must** store the energy somewhere else because inductors **cannot** store energy.
 
@@ -41,5 +41,5 @@ In any case, said person in the chat room backed down the day **after** I wrote 
 
 So call it a victory for truth, even if I didn't win it.  It won itself while I was off playing "Art Attack."
 
-<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
+<sub>[The simple voltage booster - Table of Contents](3-voltagebooster-toc)</sub>
 

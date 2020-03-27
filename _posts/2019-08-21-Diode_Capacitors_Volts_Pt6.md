@@ -6,7 +6,7 @@ categories: [blog]
 
 Where did my voltage go?
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 ![Oscilloscope probe impedance measurement.](/assets/voltage_multiplier/scopeimpedance_setup.png)
 
@@ -124,4 +124,4 @@ Hmmm.  More mysteries, and I haven't even solved the one I wanted to yet.  I'll 
 
 [**Next**](diode-capacitors-volts-pt7)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

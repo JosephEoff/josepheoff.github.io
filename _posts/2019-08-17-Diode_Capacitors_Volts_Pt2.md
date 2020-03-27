@@ -6,7 +6,7 @@ categories: [blog]
 
 Getting better.
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>
 
 The output of the Villard circuit is higher than the output of a simple rectifier, but it doesn't much resemble DC.
 
@@ -46,4 +46,4 @@ I'll describe that the next time around.
 
 [**Next**](diode-capacitors-volts-pt3)
 
-<sub>[Voltage multiplier experiments - Table of contents](2-voltagemultiplier-toc)</sub>
+<sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub>

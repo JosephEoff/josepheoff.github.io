@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The simple voltage booster - Table of contents"
+title: "The simple voltage booster - Table of Contents"
 categories: [blog]
 mathjax: false
 ---
