@@ -8,7 +8,7 @@ All my posts on the salt block lamp.
 
 It looks like I'm going to have several posts on the construction of my salt block lamp, and that they're going to be kind of spread out.
 
-To make it easier to find all the related posts, I've posted this table of contents.
+To make it easier to find all the related posts, I've put together this table of contents.
 
 I'll add to it as the lamp progresses.
 
