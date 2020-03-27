@@ -6,6 +6,8 @@ mathjax: false
 ---  
 Electronics - ["Art Attack" style.](https://en.wikipedia.org/wiki/Art_Attack)
 
+<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
+
 ![Simple voltgage booster](/assets/voltagebooster/step19.jpg)
 
 A simple voltage booster to light a 2.2 volt green LED from a 1.5 volt AA dry cell.
@@ -128,8 +130,10 @@ I'm not going to explain it yet.  I'll write it all up in my [next post.](voltag
 
 In the mean time, try to make the LED light up using just the battery without the coil (1 AA only, two batteries is cheating.)  Also try **unwinding** the coil and see if the circuit still works - every thing the same as shown above, but instead of the coil wrapped around the tube, stretch the wire from the coil out straight.
 
+If you've built the simple voltage booster, let me know how it worked out.
 
 
+<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
 
 
 

@@ -7,6 +7,8 @@ mathjax: true
 {% include lib/mathjax.html %}
 Time to get abstract.
 
+<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
+
 [Last time around,](voltagebooster) I built a really simple switching power supply that boosts 1.5V DC from a single dry cell to a voltage high enough to drive a green LED.  Green LEDs need 2.2V to actually light up.  If the voltage is too low, then LEDs do **nothing.** Not light up dimly, not blink, just **nothing.**  A single dry cell cannot light a green LED - unless you boost the voltage.
 
 Now I'm going explain how that silly looking pile of wire and scotch tape manages to work.
@@ -140,3 +142,4 @@ If you are an engineer, you can calculate that kind of thing.  If you are a hobb
 
 (If you are interested in what gave me the idea for this circuit and why the booster is built like it is, [have a look here.](booster-why))
 
+<sub>[The simple voltage booster - Table of contents](3-voltagebooster-toc)</sub>
