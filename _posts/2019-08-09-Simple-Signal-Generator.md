@@ -8,6 +8,8 @@ image: /assets/100kHz.png
 
 Making your own tools.
 
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
+
 When I finally got my [Digital D43 oscilloscope camera software](https://github.com/JosephEoff/D43) to a point where I could use it, I found I needed a way to check it for accuracy - and the old D43, too.
 
 All it takes is a reasonably accurate signal of a known frequency, and a known voltage.
@@ -53,3 +55,5 @@ Here's a picture of its output as captured by my camera software:
 ![Image of the signalgenerator.](/assets/100kHz.png)
 
 Jeez!  Off by 8% on the frequency!  That's a 100kHz signal there.  I **really** need to get out the service manual and calibrate and/or replace the capacitors in the timing circuits of the old D43.
+
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>

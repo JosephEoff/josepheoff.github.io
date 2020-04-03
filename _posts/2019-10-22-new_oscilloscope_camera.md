@@ -7,6 +7,8 @@ mathjax: true
 {% include lib/mathjax.html %}
 That was easier than expected.
 
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
+
 |D43 with the 3D camera and C270 Webcam|
 |--------------|
 |![C270 camera on the D43](/assets/newcamera/newcamera.jpg)|
@@ -122,7 +124,7 @@ That's it.  All done.  Looks like this:
 
 |Finished camera|
 |--------------|
-|![Focus knob](/assets/newcamera/newcamera.jpg)|
+|![Finished camera](/assets/newcamera/newcamera.jpg)|
 
 So how does it work?
 
@@ -142,3 +144,4 @@ I've committed the [3D model to the repository](https://github.com/JosephEoff/D4
 TIL:
 Github has a snazzy built in preview for STL 3D [modeling files.](https://github.com/JosephEoff/D43/blob/master/CameraMount/camera_finished_mm.stl)
 
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>

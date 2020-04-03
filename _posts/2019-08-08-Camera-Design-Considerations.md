@@ -4,7 +4,9 @@ title: "Oscilloscope camera adapter design considerations"
 categories: [blog]
 ---  
 
-Hardware for the software
+Hardware for the software.
+
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
 
 A couple of months ago, [I wrote a program to capture images of my oscilloscope.](oscilloscope-camera)
 
@@ -65,3 +67,6 @@ Before making the tube for the next adapter, I'll measure the focal distance of 
 4.  No protruding parts inside the tube.
 
 It'll be a couple of days until I can start making parts.  I've got ideas ready, and I'll sketch the parts out and post them with the finished camera mount in a few days.
+
+
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
