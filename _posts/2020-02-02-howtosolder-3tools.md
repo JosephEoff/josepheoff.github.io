@@ -36,7 +36,6 @@ Mine is a cheap thing I bought at the hardware store a long time ago.  It is tem
 **Addded 2020-02-09:**
 My soldering iron actually hits about 330 degrees C when set to well over 400 - I told you it wasn't very accurate.  My multimeter has a temperature sensor.  I checked the handbook - it is rated to 1000 degrees celsius.  I used it to measure the temperature of the soldering iron tip.
 
-
 You want a temperature controlled iron, preferably one with an accurate dial or display.
 
 The correct temperature depends several things:
@@ -62,6 +61,9 @@ If you can, though, I recommend you pick up a temperature controlled soldering i
 When you buy your soldering iron, keep in mind that you will need to use tips of various sizes and that you will have to replace tips occassionally.  A super cheap soldering iron isn't much good if you can no longer get tips for it.
 
 I use a very fine tip on my soldering iron, and don't usually bother to switch to a larger one.  Most folks do like to use a tip that matches the size of the joint they are working on.  I'd suggest a 1 millimeter tip and maybe a 3 millimeter tip.
+
+**Addded 2020-02-09:**
+I ended up having to buy a new soldering iron, and a set of new tips to go with it.  In trying out the new iron, I found that a 1.2mm chisel tip works best for the techniques I use and that are described in this series.  If you have a Weller WE1010, then you'll want to get a Weller "ET KL" tip - that's the 1.2mm chisel tip.  That's pretty close to the 1mm I originally recommended.
 
 Make sure your iron includes a cleaning sponge in the stand.  Some use a real sponge that you have to soak in water.  Some have  pad of brass shavings.  Both will clean.  You will need the sponge - you must clean the tip before each joint.
 
