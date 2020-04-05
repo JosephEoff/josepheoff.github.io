@@ -14,13 +14,13 @@ I did it that way because while I have literally spent years using the old tin/l
 
 This post isn't (directly) about lead free solder.
 
-This post is about what caused me to finally shell out some bucks on a better(?) soldering iron.
+This post is about what caused me to finally shell out some bucks on a better soldering iron.
 
 As I said, I wrote most of the series using my old hardware store cheapy.  That worked fine up until the 13th post of the series (that's the one about soldering SMD ICs.)
 
 I did the first couple of pins on the IC and made photos, then the third pin was very difficult to solder.  After that, I couldn't really get anything to stick.  The solder just wouldn't melt anymore.  Turning up the heat didn't help, either.  It just wouldn't get any hotter.
 
-I got out my (also cheap hardware store) multimeter, which has a thermocouple for mearuring temperatures.  I checked the hand book, and found that the thermocouple is rated up to 100 degrees celsius.  With that, I checked the temperature at the tip of the iron, and found that no matter what I did it wouldn't go above about 270 degrees celsius.  That's high enough for tin/lead solder, but not hot enough for the lead free solder I have.
+I got out my (also cheap hardware store) multimeter, which has a thermocouple for mearuring temperatures.  I checked the hand book, and found that the thermocouple is rated up to 1000 degrees celsius.  With that, I checked the temperature at the tip of the iron, and found that no matter what I did it wouldn't go above about 270 degrees celsius.  That's high enough for tin/lead solder, but not hot enough for the lead free solder I have.
 
 I finished the SMD IC soldering and removing posts using the old iron and tin/lead solder, and started looking for a new soldering iron.
 
