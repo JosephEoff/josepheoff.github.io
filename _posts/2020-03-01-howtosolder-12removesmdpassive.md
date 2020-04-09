@@ -140,7 +140,7 @@ As you can see, removing the part left a lot of solder on the pads.
 There's no way you can solder a new part in with that much solder in the way.
 
 Clip the end of the solder wick to get rid of any section that already has solder on it.
-Put a bit of solder on the tip of the iron - yes, you add solder to the iron even though we're trying to remove solder.  The tip touches the wick from above, you it won't add more to the pad.  What it does is to help conduct the heat from the iron to the wick and from there into the solder on the pad.
+Put a bit of solder on the tip of the iron - yes, you add solder to the iron even though we're trying to remove solder.  The tip touches the wick from above, so it won't add more to the pad.  What it does is to help conduct the heat from the iron to the wick and from there into the solder on the pad.
 
 Put the clean end of the solder wick down on a pad.  Press the wick down with the soldering iron tip.  It will melt the solder on the pad, and wick it away.  If you need to move the wick to a different part of the pad, pick up the wick and the soldering iron tip together so that the wick stays hot and the solder stays liquid.  Move the wick to the new spot, and repeat the cleaning.
 
