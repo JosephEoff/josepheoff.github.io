@@ -123,7 +123,7 @@ You should not need to move the board while doing this.  I only moved mine becau
 {:start="4"}
 4. Remove the chip.
 
-Now come the real heart of this trick.  Once you have both rows of pins flooded with solder, you simply keep moving the soldering iron from one row of pins to the other.
+Now comes the real heart of this trick.  Once you have both rows of pins flooded with solder, you simply keep moving the soldering iron from one row of pins to the other.
 
 Heat each row and make the solder melt, then move to the other row.
 
