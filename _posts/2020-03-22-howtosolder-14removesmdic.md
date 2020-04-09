@@ -88,7 +88,7 @@ I've already got some solder on the tip of the iron, and I have everything lined
 {:start="2"}
 2. Flood the first row of pins with solder.
 
-The trick to removing SMD ICs is to be able to get the solder on all the pins melted at once.  The amount of solder in a normal joint doesn't stay hot very long - it will be "sucked" away by the traces and the part very quickly.  You get around that by literally flooding the pins in excess solder.  Yes, again, the way to remove a part is to start by adding solder.
+The trick to removing SMD ICs is to be able to get the solder on all the pins melted at once.  The amount of solder in a normal joint doesn't stay hot very long - the heat will be "sucked" away by the traces and the part very quickly.  You get around that by literally flooding the pins in excess solder.  Yes, again, the way to remove a part is to start by adding solder.
 
 I just lay the tip of the iron down along one side of the chip and melt solder on the tip and spread it to the pins.
 
