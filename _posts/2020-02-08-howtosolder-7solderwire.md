@@ -34,7 +34,7 @@ Here's what they look like:
 
 Stranded wire is more flexible - it bends better and won't break if you wiggle it around a lot.  It's a little bit more work to solder, so I'll use it as an example when I show you how to solder wires together.
 
-Solid core wire is the same is stranded wire, only it has just one thick strand.  It is stiff and you can bend it into shapes and it will stay put.  If you wiggle it a lot, it will break.  This kind of wire is commonly called "telephone wire."
+Solid core wire is the same as stranded wire, only it has just one thick strand.  It is stiff and you can bend it into shapes and it will stay put.  If you wiggle it a lot, it will break.  This kind of wire is commonly called "telephone wire."
 
 I won't bother showing pictures of how to solder solid core wire together.  It's just like doing stranded wire, but you get to leave out a step.
 
