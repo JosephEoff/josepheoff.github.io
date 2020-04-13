@@ -8,6 +8,8 @@ Things are finally heating up.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 Now that you've got everything ready and the iron is hot, it's time to actually do something.
 
 For a first step, I'm just going to tin a piece of wire.

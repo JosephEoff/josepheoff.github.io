@@ -8,6 +8,8 @@ Any SMD IC that has pins or pads that you can see, you can solder.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 This time around, I'm going to explain how to solder surface mount integrated circuits (SMD ICs.)  It's really pretty simple.  The biggest "trick" is that you should always move the work pieces to make them easy to reach.
 
 If you've already been through the ["how to solder SMD passives"](howtosolder-11soldersmdpassive) page, then you'll find much of this familiar.  As in that post, you'll realize that it's actually pretty quick despite the length of the text and the number of photos.

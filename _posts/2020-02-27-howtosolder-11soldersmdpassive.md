@@ -8,6 +8,8 @@ Anything you can see, you can solder.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 It's taken a while to get around to it, but now I'm finally going to explain how to solder surface mount devices (SMDs) by hand.
 
 I prefer working with SMD parts these days.  I find them easier to handle, easier to solder, and easier to remove if I need to change things.

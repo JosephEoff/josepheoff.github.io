@@ -8,6 +8,8 @@ Some of the most common things you'll solder.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub> 
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 # The plan
 
 I'm going to solder a few typical things to a couple of printed circuit boards (PCB) just to show how it is done.

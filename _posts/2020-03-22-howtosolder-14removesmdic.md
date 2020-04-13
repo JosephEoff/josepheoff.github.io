@@ -8,6 +8,8 @@ They ain't pokemons - you can't get 'em all.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub> 
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 Much like with [through hole parts,](howtosolder-9throughhole-remove) you will find that there are surface mount device (SMD) ICs that you can solder with a regular soldering iron but that you can't remove with a regular soldering iron.
 
 When you solder the parts down, you can work pin by pin and get it done.  To remove them, though, you have to melt the solder on all of the pins or pads simultaneously.  You can only manage that to a small extent with a regular soldering iron.

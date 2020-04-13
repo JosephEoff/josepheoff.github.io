@@ -8,6 +8,8 @@ Making good use of a cheap tool.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub> 
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 I mentioned in my [last post](howtosolder-9throughhole-remove) that I prefer a really simple and cheap tool for removing solder from through holes, and that I had one on order since mine disappeared.
 
 It showed up earlier than expected, so I get to write up how to use a solder sucker today instead of next week.

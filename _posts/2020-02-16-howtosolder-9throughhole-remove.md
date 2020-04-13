@@ -8,6 +8,8 @@ Not the way most folks expect.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 I've got several things to share on this subject:
 
 1. [Non-standard](#non-standard)

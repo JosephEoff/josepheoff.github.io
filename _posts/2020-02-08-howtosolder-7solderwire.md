@@ -8,6 +8,8 @@ Finally getting somewhere.
 
 <sub>[HowTo: Solder by hand - Table of Contents](howtosolder-toc)</sub>
 
+<sub>[Check this handy chart to find the temperature you need for this task.](howtosolder-15-regular-or-unleaded#table-of-temperatures)</sub>
+
 # What's up?
 
 I'm going to cover a few things in this post:

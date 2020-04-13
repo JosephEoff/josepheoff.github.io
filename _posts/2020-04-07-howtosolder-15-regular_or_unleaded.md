@@ -12,7 +12,7 @@ For those in a hurry:
 
 **Good lead free solder is just as easy to use as tin/lead 60/40.** 
 
-There's a summary of the required soldering iron tip temperatures at the end of this post.
+There's a [summary of the required soldering iron tip temperatures](#table-of-temperatures) later in this post.
 
 ------------------
 
@@ -55,6 +55,8 @@ A bottle of liquid flux or a flux pen isn't needed, either.  There's an appropri
 Summary:
 
 **Good lead free solder is just as easy to use as tin/lead 60/40.**
+
+# Table of Temperatures
 
 Since it does take a much higher temperature to use lead free than the typical old tin/lead 60/40, I thought I'd post a table of temperatures for different tasks.
 
