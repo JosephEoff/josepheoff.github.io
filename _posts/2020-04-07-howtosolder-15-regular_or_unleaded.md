@@ -3,7 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Regular or unleaded"
 categories: [blog]
 mathjax: false
-preview: /assets/2020-04-07-howtosolder-15-regular_or_unleaded/solder.jpg
+image: /assets/2020-04-07-howtosolder-15-regular_or_unleaded/solder.jpg
 ---  
 What kind of solder is best?
 

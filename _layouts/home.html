@@ -24,9 +24,9 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-        {%- if post.preview -%}
+        {%- if post.image -%}
           <a class="post-preview" href="{{ post.url | relative_url }}">
-                <img alt="{{ post.title }}" src="{{ post.preview }}">
+                <img alt="{{ post.title }}" src="{{ post.image }}">
           </a>               
         {%- endif -%}
       </li>
