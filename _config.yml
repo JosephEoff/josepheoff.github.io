@@ -10,6 +10,7 @@ permalink: /posts/:slug
 gems: jekyll-seo-tag
 # Google Analytics
 google_analytics: UA-150925645-1
+site_logo: "/assets/favicon.png"
 gems:
   - jekyll-feed
   - jekyll-sitemap
