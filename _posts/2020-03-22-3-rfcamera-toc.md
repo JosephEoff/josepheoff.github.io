@@ -3,6 +3,7 @@ layout: post
 title: "RF camera and radio telescope - Table of Contents"
 categories: [blog]
 mathjax: false
+image: /assets/rfcamera/moon1.png
 ---  
 All about my experiments in photographing the invisible.
 
