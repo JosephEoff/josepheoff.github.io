@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Solder through hole parts"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-09-howtosolder-8throughhole/perfboard4.jpg
 ---
 Some of the most common things you'll solder.
 
