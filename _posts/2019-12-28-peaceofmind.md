@@ -3,6 +3,7 @@ layout: post
 title: "Portable peace of mind"
 categories: [blog]
 mathjax: false
+image: /assets/partyalarm/frontview.jpg
 ---
 {% include lib/mathjax.html %}
 A backstop for partiers.
