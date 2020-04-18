@@ -3,6 +3,7 @@ layout: post
 title: "Fixing a K-type thermocouple"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-24-fixthermocouple/thermocouple.jpg
 ---
 When cheap crap breaks and ordering a replacement will take too long.
 

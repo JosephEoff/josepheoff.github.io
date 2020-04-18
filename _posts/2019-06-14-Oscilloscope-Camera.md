@@ -2,6 +2,7 @@
 layout: post
 title: "A digital camera for analog oscilloscopes"
 categories: [blog]
+image: /assets/testpattern.png
 --- 
 
 New tricks for old dogs.

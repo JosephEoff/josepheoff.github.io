@@ -3,6 +3,7 @@ layout: post
 title: "Fun time - A voltage booster so simple a child can build it"
 categories: [blog]
 mathjax: false
+image: /assets/voltagebooster/step19.jpg
 ---  
 Electronics - ["Art Attack" style.](https://en.wikipedia.org/wiki/Art_Attack)
 

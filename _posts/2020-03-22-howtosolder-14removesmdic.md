@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Remove SMD ICs"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-22-howtosolder-14-removesmdic/4.jpg
 ---
 They ain't pokemons - you can't get 'em all.
 

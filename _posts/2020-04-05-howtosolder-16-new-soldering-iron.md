@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Meet my new soldering iron"
 categories: [blog]
 mathjax: false
+image: /assets/2020-04-05-howtosolder-16-new-soldering-iron/we1010.jpg
 ---  
 The hardware store cheapy left me hanging.
 

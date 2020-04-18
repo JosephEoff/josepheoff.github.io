@@ -3,6 +3,7 @@ layout: post
 title: "Returning to the salt block lamp"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-27-saltlamp/10.jpg
 ---
 Preparing the salt block for mounting and lighting.
 

@@ -3,6 +3,7 @@ layout: post
 title: "The simple voltage booster - Table of Contents"
 categories: [blog]
 mathjax: false
+image: /assets/voltagebooster/step19.jpg
 ---
 All about the "Art Attack" LED voltage booster project.
 

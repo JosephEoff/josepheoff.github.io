@@ -3,6 +3,7 @@ layout: post
 title: "The salt block lamp - Table of Contents"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-27-saltlamp/10.jpg
 ---
 All my posts on the salt block lamp.
 
