@@ -103,8 +103,7 @@ author: Joseph R. Eoff
 logo: "/assets/favicon.png"
 ~~~
 
-That 'logo' is separate from the 'site_logo' setting.  'logo' just tells the search engines what logo to use for your site - it won't be displayed on your site.  You have to set it (and 'author') so that all the needed fields are filled in the json-ld that is added to each page.  If the publisher isn't set, then Google won't like it and might not use the data.
-
+That 'logo' is separate from the 'site_logo' setting.  This 'logo' setting just tells the search engines what logo to use for your site - it won't be displayed on your site.  You have to set it (and 'author') so that all the needed fields are filled in the json-ld that is added to each page - especially the 'publisher' block.  If the publisher isn't set, then Google won't like it and might not use the data.
 
 If you're using the Minima theme, then you can leave out step 3 because the Minima templates already have the needed tags.
 
