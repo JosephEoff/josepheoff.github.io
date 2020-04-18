@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Removing simple SMD parts"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-01-howtosolder-12removesmdpassive/1206-4.jpg
 ---
 Anything you can see, you can remove.
 
