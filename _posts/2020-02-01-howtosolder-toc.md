@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Table of Contents"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-02-howtosolder-3tools/tools.jpg
 --- 
 All the steps it takes to master your soldering iron.
 
