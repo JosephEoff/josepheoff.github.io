@@ -3,6 +3,7 @@ layout: post
 title: "How the simple voltage booster works"
 categories: [blog]
 mathjax: true
+image: /assets/voltagebooster/boosterlight.png
 --- 
 {% include lib/mathjax.html %}
 Time to get abstract.
