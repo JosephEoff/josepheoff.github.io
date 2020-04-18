@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - First steps"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-06-howtosolder-6brace/brace.jpg
 ---
 Things are finally heating up.
 
