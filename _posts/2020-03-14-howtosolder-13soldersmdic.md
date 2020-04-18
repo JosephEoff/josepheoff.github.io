@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Solder SMD ICs"
 categories: [blog]
 mathjax: false
+image: /assets/2020-03-14-howtosolder-13-soldersmdic/3.jpg
 ---
 Any SMD IC that has pins or pads that you can see, you can solder.
 
