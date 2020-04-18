@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 4 More on the Cockcroft-Walton voltage multiplier"
 categories: [blog]
+image: /assets/voltage_multiplier/parallelstages.png
 --- 
  
 Why do something that looks like a problem?
