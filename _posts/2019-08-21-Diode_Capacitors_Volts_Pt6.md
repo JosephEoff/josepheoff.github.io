@@ -98,7 +98,7 @@ Close enough.
 
 That factor of 8 makes the selection of the capacitors an important part of designing a Greinacher multiplier.  It also makes the working frequency important.
 
-At 1kHz, the impendance of a 1µF capacitor drops from 3.18k ohm to 159 ohms.  10kHz, and you are down to 16 ohms for the same capacitor.
+At 1kHz, the impedance of a 1µF capacitor drops from 3.18k ohm to 159 ohms.  10kHz, and you are down to 16 ohms for the same capacitor.
 
 OK, so how much current **can** you get out of Greinacher multiplier?
 
