@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Before you get started"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-06-howtosolder-5start/tin2.jpg
 ---
 Make a habit of it.
 
