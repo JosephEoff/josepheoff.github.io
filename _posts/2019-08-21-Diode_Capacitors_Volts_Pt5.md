@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 5 Tying it all together"
 categories: [blog]
+image: /assets/voltage_multiplier/cockcroftwalton3_kicad.png
 ---  
 
 Haven't we met before?
