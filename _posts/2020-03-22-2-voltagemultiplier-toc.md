@@ -3,6 +3,7 @@ layout: post
 title: "Voltage multiplier experiments - Table of Contents"
 categories: [blog]
 mathjax: false
+image: /assets/voltage_multiplier/villard_doubler.png
 --- 
 All my voltage multiplier experiments listed in one place.
 
