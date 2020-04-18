@@ -3,6 +3,7 @@ layout: post
 title: "The box o' buttons"
 categories: [blog]
 mathjax: false
+image: /assets/2020-01-27-buttons/buttonbox.jpg
 ---
 {% include lib/mathjax.html %}
 Ten, because two is a stupid number.
