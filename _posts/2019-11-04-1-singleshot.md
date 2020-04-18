@@ -3,6 +3,7 @@ layout: post
 title: "Implementing a one-shot capture function for the D43"
 categories: [blog]
 mathjax: true
+image: /assets/oneshot.png
 ---
 {% include lib/mathjax.html %}
 A slight change in plans.
