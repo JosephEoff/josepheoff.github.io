@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - An introduction"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-01-howtosolder/conchoback.jpg
 ---
 Learn a basic skill for your electronics hobby.
 
