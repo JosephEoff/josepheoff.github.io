@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Vision check"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-02-howtosolder-1visioncheck/example.png
 ---
 You can't solder what you can't see.
 
