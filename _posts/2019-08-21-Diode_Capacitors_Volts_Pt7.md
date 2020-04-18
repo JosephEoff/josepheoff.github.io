@@ -3,6 +3,7 @@ layout: post
 title: "Voltage multipliers - Part 7 Impedance of the Cockcroft-Walton voltage multiplier"
 categories: [blog]
 mathjax: true
+image: /assets/voltage_multiplier/impedancecurve.png
 ---   
 {% include lib/mathjax.html %}
 That got complicated real quick.
@@ -64,6 +65,8 @@ Regardless, that pretty much verifies the calculation of the reactance multiplie
 
 Next time around, I'll summarize all the things you need to design a Cockcroft-Walton half wave rectifier and call it done.
 
+**Edited 2020-04-18:**
+*I don't think it's clear in the text above, but the equation and the measurements are for a **half wave** Cockcroft-Walton voltage multiplier.*
 
 Oh, wait.
 
