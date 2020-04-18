@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Using a solder sucker"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-21-howtosolder-10soldersucker/soldersucker2.jpg
 ---
 Making good use of a cheap tool.
 
