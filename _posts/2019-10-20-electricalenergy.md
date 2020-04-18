@@ -3,13 +3,14 @@ layout: post
 title: "Electrical energy: volts, amperes, watts, joules - and play-doh"
 categories: [blog]
 mathjax: true
+image: /assets/energy/1joule.jpg
 --- 
 {% include lib/mathjax.html %}
 Visualizing the invisible with a child's toy.
 
 The [Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/) often gets questions from beginners that basically amount to confusion about just what electrical energy **is.**
 
-The usual form this takes is someone who has discovered a way to get a higher voltage **out** of a circuit than the circuit was supplied with.  Say, [gettting 2.2V out of a 1.5V battery.](voltagebooster)  The naive beginner assumes that the circuit is somehow an exception to the [law of convervation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy) or the [three laws of thermodynamics.](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)  Clever folks realize that there's something wrong and ask what they are missing because they doubt that those laws would be as easy to break as their simple, obvious circuit suggests.
+The usual form this takes is someone who has discovered a way to get a higher voltage **out** of a circuit than the circuit was supplied with.  Say, [getting 2.2V out of a 1.5V battery.](voltagebooster)  The naive beginner assumes that the circuit is somehow an exception to the [law of convervation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy) or the [three laws of thermodynamics.](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)  Clever folks realize that there's something wrong and ask what they are missing because they doubt that those laws would be as easy to break as their simple, obvious circuit suggests.
 
 The thing about electrical energy is that you don't have anything tangible to equate to work or energy as in the [classical mechanical physics experiments.](https://en.wikipedia.org/wiki/Energy)
 
