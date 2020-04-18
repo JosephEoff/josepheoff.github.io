@@ -3,6 +3,7 @@ layout: post
 title: "A new camera for the D43"
 categories: [blog]
 mathjax: true
+image: /assets/newcamera/newcamera.jpg
 ---
 {% include lib/mathjax.html %}
 That was easier than expected.
