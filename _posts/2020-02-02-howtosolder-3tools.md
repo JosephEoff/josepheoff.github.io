@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Your tools"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-02-howtosolder-3tools/tools.jpg
 ---
 It really doesn't take that much.
 
