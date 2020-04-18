@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 2 The Greinacher voltage doubler"
 categories: [blog]
+image: /assets/voltage_multiplier/greinacher_DC.png
 --- 
 
 Getting better.
