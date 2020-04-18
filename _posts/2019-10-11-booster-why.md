@@ -3,6 +3,7 @@ layout: post
 title: "One last word about the simple voltage booster"
 categories: [blog]
 mathjax: true
+image: /assets/voltagebooster/boostercircuit_alternative.png
 --- 
 {% include lib/mathjax.html %}
 Ulterior motives revealed.
