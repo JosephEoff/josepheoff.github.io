@@ -2,6 +2,7 @@
 layout: post
 title: "Oscilloscope camera adapter design considerations"
 categories: [blog]
+image: /assets/OldCameramount.jpg
 ---  
 
 Hardware for the software.
