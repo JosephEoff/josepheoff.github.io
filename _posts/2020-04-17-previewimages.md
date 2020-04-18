@@ -79,8 +79,9 @@ Here they are:
 > ~~~ ruby
   gem 'jekyll-seo-tag'
   ~~~
->  
-2. Add the following to your site's `_config.yml`:
+>
+{:start="2"}  
+>2. Add the following to your site's `_config.yml`:
 > 
  ~~~yml
   plugins:
@@ -88,6 +89,7 @@ Here they are:
   ~~~
 >  
 >If you are using a Jekyll version less than `3.5.0`, use the `gems` key instead of `plugins`.
+{:start="3"}
 >3. Add the following right before `</head>` in your site's template(s):
 <!-- {% raw %} -->
   ~~~liquid
