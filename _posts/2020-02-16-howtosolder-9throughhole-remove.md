@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Remove through hole parts"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-16-howtosolder-9throughhole-remove/solderpumpX.jpg
 ---
 Not the way most folks expect.
 
