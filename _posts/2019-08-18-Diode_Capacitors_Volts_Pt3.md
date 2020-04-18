@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 3 The Cockcroft-Walton voltage multiplier"
 categories: [blog]
+image: /assets/voltage_multiplier/cockcroftwalton2_DC.png
 --- 
 
 The big league.
