@@ -3,6 +3,7 @@ layout: post
 title: "The Sunday afternoon junkbox LED driver"
 categories: [blog]
 mathjax: true
+image: /assets/rocksaltlamp/dim.jpg
 ---
 {% include lib/mathjax.html %}
 Whiling away a rainy Sunday afternoon with a block of salt and an LED.
