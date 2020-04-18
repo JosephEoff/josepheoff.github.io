@@ -3,6 +3,7 @@ layout: post
 title: "Upgrading the workbench"
 categories: [blog]
 mathjax: false
+image: /assets/workbench/workbench.jpg
 ---
 {% include lib/mathjax.html %}
 Making better use of the D43 software.
