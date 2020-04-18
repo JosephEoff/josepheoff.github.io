@@ -2,6 +2,7 @@
 layout: post
 title: "Diodes and capacitors and volts - Oh, my!"
 categories: [blog]
+image: /assets/voltage_multiplier/diode_caps_volts.jpg
 --- 
 
 Let's talk about voltage multipliers.
