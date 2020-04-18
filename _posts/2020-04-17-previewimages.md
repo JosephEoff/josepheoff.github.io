@@ -196,8 +196,8 @@ Add the following lines to 'assets/main.scss':
 .post-preview {
 display: inline-block;
 position: relative;
-width: 100px;
-height: 100px;
+max-width: 100px;
+max-height: 100px;
 top: 0px;
 
 }
