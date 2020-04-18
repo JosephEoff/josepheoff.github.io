@@ -3,6 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - Solder wires together"
 categories: [blog]
 mathjax: false
+image: /assets/2020-02-08-howtosolder-7solderwire/solder3.jpg
 ---
 Finally getting somewhere.
 
