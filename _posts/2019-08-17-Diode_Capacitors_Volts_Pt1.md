@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 1 The Villard voltage doubler"
 categories: [blog]
+image: /assets/voltage_multiplier/villard_DC.png
 --- 
 
 Start with the simple things.
