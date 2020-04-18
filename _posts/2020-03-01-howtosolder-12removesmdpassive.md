@@ -58,7 +58,7 @@ I'm going to remove that part, then clean up the part and clean off the pads.
 
 You want to set things up so that the tip of the iron is parallel to the part.  The idea is to melt the solder on both ends of the part simultaneously.
 
-[Review the things you are supposed to do everytime you pick up your iron,](http://127.0.0.1:4000/posts/howtosolder-5getstarted) then line up your iron and the board to look like this:
+[Review the things you are supposed to do everytime you pick up your iron,](howtosolder-5getstarted) then line up your iron and the board to look like this:
 
 |Get ready|
 |---------|
