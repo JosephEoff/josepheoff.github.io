@@ -2,6 +2,7 @@
 layout: post
 title: "Voltage multipliers - Part 6 Impedance and current in voltage multipliers"
 categories: [blog]
+image: /assets/voltage_multiplier/scopeimpedance_setup.png
 ---   
 
 Where did my voltage go?
