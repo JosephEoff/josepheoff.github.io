@@ -16,8 +16,10 @@ top: 8px;
 .post-preview {
 display: inline-block;
 position: relative;
-width: auto;
+max-width: 100px;
+max-height: 100px;
 height: 100px;
+width: auto;
 top: 0px;
 
 }
