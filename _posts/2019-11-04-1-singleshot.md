@@ -82,8 +82,8 @@ Oh.  Here's a capture made with the one-shot:
 
 |One shot capture|
 |----------------|
-|![One shot capture](/assets/oneshot.png)|
+|![One shot capture](/assets/2020-01-27-buttons/transition_down.png)|
 
-How utterly impressive.  Totally worth the four or five hours it cost me.  :)
+That's an image of the contact bounce I measured while working on [another of my projects.](boxobuttons)
 
 Next time around, I **will** post pictures of my microwave camera experiments.  Promise.
