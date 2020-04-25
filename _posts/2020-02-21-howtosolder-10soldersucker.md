@@ -141,7 +141,7 @@ Now raise the solder sucker up so that it seals the tip over the hole:
 |---------|
 |![Solder sucker sealed](/assets/2020-02-21-howtosolder-10soldersucker/clearhole8.jpg)|
 
-When you raise the solder sucker upright, press it down on the board.  The tip of the soldering stays right where it is - you want it heating the pad while you are sucking the solder out of the hole.
+When you raise the solder sucker upright, press it down on the board.  The tip of the soldering iron stays right where it is - you want it heating the pad while you are sucking the solder out of the hole.
 
 When you have everything in place, let the bulb of the solder sucker pop back into shape.  It'll make a slurping sound, and then you can pull the solder sucker up from the board.  At the same time, raise up the soldering iron tip.  Do **not** slide the soldering iron tip to move it away from the pad - that'll destroy the pad for sure.  Pick up the solder sucker and the soldering iron and separate them in the air above the board.
 
