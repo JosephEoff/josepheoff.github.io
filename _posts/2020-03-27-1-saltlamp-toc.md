@@ -15,4 +15,4 @@ I'll add to it as the lamp progresses.
 
 1. [The Sunday afternoon junkbox LED driver](leddriver) - Whiling away a rainy Sunday afternoon with a block of salt and an LED.
 2. [Returning to the salt block lamp](2-saltlampcutting) - Preparing the salt block for mounting and lighting.
-3. Making the LED mount and lamp base
+3. [Making the base for the salt block lamp](saltlamp-base) - A crooked base for a crooked salt block.
