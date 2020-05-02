@@ -21,6 +21,7 @@ For easy reference, here's a list of all my posts on voltage multipliers:
 6.  [Voltage multipliers - Part 6 Impedance and current in voltage multipliers](diode-capacitors-volts-pt6) - Where did my voltage go?
 7.  [Voltage multipliers - Part 7 Impedance of the Cockcroft-Walton voltage multiplier](diode-capacitors-volts-pt7) - That got complicated real quick.
 8.  [Voltage multipliers - Part 8 Wrap up](diode-capacitors-volts-pt8) - Enough’s enough.
+9.  [A voltage multiplier and a crazy idea](am-multiplier) - Re-modulating the subflexive fasarta.
 
 If I write further posts on voltage multipliers, I'll link them in here.
 
