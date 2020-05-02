@@ -21,7 +21,7 @@ As I said, I wrote most of the series using my old hardware store cheapy.  That 
 
 I did the first couple of pins on the IC and made photos, then the third pin was very difficult to solder.  After that, I couldn't really get anything to stick.  The solder just wouldn't melt anymore.  Turning up the heat didn't help, either.  It just wouldn't get any hotter.
 
-I got out my (also cheap hardware store) multimeter, which has a thermocouple for mearuring temperatures.  I checked the hand book, and found that the thermocouple is rated up to 1000 degrees celsius.  With that, I checked the temperature at the tip of the iron, and found that no matter what I did it wouldn't go above about 270 degrees celsius.  That's high enough for tin/lead solder, but not hot enough for the lead free solder I have.
+I got out my (also cheap hardware store) multimeter, which has a thermocouple for measuring temperatures.  I checked the hand book, and found that the thermocouple is rated up to 1000 degrees celsius.  With that, I checked the temperature at the tip of the iron, and found that no matter what I did it wouldn't go above about 270 degrees celsius.  That's high enough for tin/lead solder, but not hot enough for the lead free solder I have.
 
 I finished the SMD IC soldering and removing posts using the old iron and tin/lead solder, and started looking for a new soldering iron.
 
