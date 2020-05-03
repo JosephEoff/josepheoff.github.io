@@ -39,7 +39,7 @@ Well, I know [another way](2-voltagemultiplier-toc) to get high voltage at a hig
 
 The main problem with the transformer solution is that it is tough to get a transformer with a flat frequency response all across the audio range.  I mean, think about it.  Audio covers several octaves from bass (100Hz and below) to treble (up to 20kHz.)  Getting a flat response across that many octaves can be tough - and expensive, and big.
 
-I thought I'd see if a voltage multiplier could be used to boost the an audio signal.  I mean, I **know** the darned things are [high impedance.](diode-capacitors-volts-pt7)
+I thought I'd see if a voltage multiplier could be used to boost an audio signal.  I mean, I **know** the darned things are [high impedance.](diode-capacitors-volts-pt7)
 
 Maybe you're thinking I've lost my marbles.  Maybe I have.  But, the fact is that voltage multipliers **multiply** - the output tracks the input by some multiple.  You'd normally think of the output as DC, but if the input level changes so does the output level.
 
