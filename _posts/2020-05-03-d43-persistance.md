@@ -103,9 +103,13 @@ Those two were made at 20 milliseconds per division because anything slower was 
 
 There's still some tearing in the image of the modulated signal using the persistance mode, but that's down to the camera not being able to record it.  Not much I can do with clever software to replace things the camera doesn't even pick up.
 
-I find it fascinating to watch a really slow scan in progress.  Here's a video of that 42 mHz signal refreshing.  That's at 5 seconds per division.
+I find it fascinating to watch a really slow sweep in progress.  Here's a video of that 42 mHz signal refreshing.  That's at 5 seconds per division.
 
-<iframe src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe>
+**Slow sweep video:**
+
+<iframe  width="528" height="484"src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe>
+
+<sub>(Click the video to start playback.)</sub>
 
 I figure the slow sweep speeds were used only with a camera and a long shutter exposure time back in the day.  You certainly can't tell anything about a signal by eye at 5 seconds per division.
 
