@@ -72,7 +72,7 @@ self.persistImage[:, x] = scopeImage[:, x]
 
 The final bit of numpy magic.  This copies all the pixels in a column from the current image to the persistant image.  There's probably a faster way to do this with numpy (leaving out the `for` loop,) but I got tired of looking up numpy functions.  This is fast enough and gets the job done.
 
-There was actually more code involved in turning the persistance mode on and off and in even just getting a button on the screen than there is in the actual function itself.  That's something that has always bugged me about programming.  The actual task is often the easiest part of the problem - it's the junk all around it that's takes so much time to write.  There's probably a couple of dozen lines of code involved in putting the persistance checkbox in the GUI and handling its events, but there's only a handful of lines that actually do the real work.
+There was actually more code involved in turning the persistance mode on and off and in even just getting a button on the screen than there is in the actual function itself.  That's something that has always bugged me about programming.  The actual task is often the easiest part of the problem - it's the junk all around it that takes so much time to write.  There's probably a couple of dozen lines of code involved in putting the persistance checkbox in the GUI and handling its events, but there's only a handful of lines that actually do the real work.
 
 At any rate, it works and it works well.
 
