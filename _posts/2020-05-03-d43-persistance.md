@@ -107,7 +107,7 @@ I find it fascinating to watch a really slow scan in progress.  Here's a video o
 
 |Slow scan video|
 |---------------|
-|<iframe src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe>|
+| <iframe src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe> |
 
 I figure the slow sweep speeds were used only with a camera and a long shutter exposure time back in the day.  You certainly can't tell anything about a signal by eye at 5 seconds per division.
 
