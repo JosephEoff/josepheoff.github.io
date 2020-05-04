@@ -107,7 +107,7 @@ I find it fascinating to watch a really slow sweep in progress.  Here's a video 
 
 **Slow sweep video:**
 
-<iframe  width="528" height="484"src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe>
+<iframe  width="528" height="484" src="https://josepheoff.github.io/assets/2020-05-03-persistance/slowscan.mp4" frameborder="1"> </iframe>
 
 <sub>(Click the video to start playback.)</sub>
 
