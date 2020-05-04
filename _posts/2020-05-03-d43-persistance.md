@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A persistance control for the D43 oscilloscope camera software"
+title: "A persistence control for the D43 oscilloscope camera software"
 categories: [blog]
 mathjax: false
 image: /assets/2020-05-03-persistance/longsweep.jpg
@@ -17,21 +17,21 @@ I wrote a [post](am-multiplier) a couple of days ago about my idea to use a volt
 
 While writing that, I made a couple of pictures of some very slow signals.  Like, 10Hz sine wave slow signals.  That didn't work very well.  I had to use a very slow sweep time on my oscilloscope.  If you've ever used a simple oscilloscope with a sweep slower than about 20 milliseconds per division, then you know that it flickers quite badly.  The pictures I made with my [D43 oscillscope camera software](https://github.com/JosephEoff/D43) were jagged and missing large areas of the traces where the camera wasn't synchronized with the sweep.
 
-I finished that post with the crummy images.  The next day, I set about adding a persistance mode to the D43 software.
+I finished that post with the crummy images.  The next day, I set about adding a persistence mode to the D43 software.
 
-This post is about how I made the persistance mode.  I'll also show a couple of pictures of the results.
+This post is about how I made the persistence mode.  I'll also show a couple of pictures of the results.
 
-I've intended to add a persistance mode to the D43 software since the very beginning, but hadn't really needed it until a couple of days ago.  Part of the reason I hadn't implemented it was because I hadn't thought up a good way to do it.
+I've intended to add a persistence mode to the D43 software since the very beginning, but hadn't really needed it until a couple of days ago.  Part of the reason I hadn't implemented it was because I hadn't thought up a good way to do it.
 
 Under the pressure of needing it **now,** I came up with a method that was very simple and very effective.
 
-The simplest and most effective way to make a persistance mode was to simply analyze each image, and copy every column of pixels that has at least one pixel brighter than some threshold from the new image to a persistant image.  I had thought up all kinds of schemes with transparancy and synchronizing to the trace and just all kinds of complicated crap.
+The simplest and most effective way to make a persistence mode was to simply analyze each image, and copy every column of pixels that has at least one pixel brighter than some threshold from the new image to a persistent image.  I had thought up all kinds of schemes with transparancy and synchronizing to the trace and just all kinds of complicated crap.
 
 Simple is best, and this simple method works very well indeed.
 
 The only real "magic" in it is setting the threshold.  I didn't want to have to fiddle with some control on the screen to make the persistance work properly.  I wanted to be able to just turn it on and have it do a decent job.
 
-This is the magic bit that selects the new columns and copies them to the persistant image:
+This is the magic bit that selects the new columns and copies them to the persistent image:
 
 ```python
 threshold = np.amax(self.persistImage[:, :, 1]) * 0.8
@@ -49,7 +49,7 @@ Let's break those few lines down and see what they do.
 threshold = np.amax(self.persistImage[:, :, 1]) * 0.8
 ```
 
-This sets the threshold for the minimum brightness that at least one pixel in a column has to be for the column to be copied into the persistance image.  It takes the brightest pixel (`np.amax`) in the green channel (`[:,:,1]`) of the current copy of the persistant image (`self.persistImage`.)  That's multiplied by 0.8.  The final effect is that the threshold is set at 0.8 times the value of the brightest green pixel in the current current persisted image.
+This sets the threshold for the minimum brightness that at least one pixel in a column has to be for the column to be copied into the persistence image.  It takes the brightest pixel (`np.amax`) in the green channel (`[:,:,1]`) of the current copy of the persistent image (`self.persistImage`.)  That's multiplied by 0.8.  The final effect is that the threshold is set at 0.8 times the value of the brightest green pixel in the current current persisted image.
 
 ```python
 bright = np.where(green.max(0) >= threshold)[0]
@@ -72,7 +72,7 @@ self.persistImage[:, x] = scopeImage[:, x]
 
 The final bit of numpy magic.  This copies all the pixels in a column from the current image to the persistant image.  There's probably a faster way to do this with numpy (leaving out the `for` loop,) but I got tired of looking up numpy functions.  This is fast enough and gets the job done.
 
-There was actually more code involved in turning the persistance mode on and off and in even just getting a button on the screen than there is in the actual function itself.  That's something that has always bugged me about programming.  The actual task is often the easiest part of the problem - it's the junk all around it that takes so much time to write.  There's probably a couple of dozen lines of code involved in putting the persistance checkbox in the GUI and handling its events, but there's only a handful of lines that actually do the real work.
+There was actually more code involved in turning the persistence mode on and off and in even just getting a button on the screen than there is in the actual function itself.  That's something that has always bugged me about programming.  The actual task is often the easiest part of the problem - it's the junk all around it that takes so much time to write.  There's probably a couple of dozen lines of code involved in putting the persistence checkbox in the GUI and handling its events, but there's only a handful of lines that actually do the real work.
 
 At any rate, it works and it works well.
 
@@ -82,7 +82,7 @@ This is an image of a sine wave with a period of 24 seconds (that's 42 milliherz
 |---------------|
 |![Sine wave 42mHz](/assets/2020-05-03-persistance/42-millihz.png)|
 
-These images are what actually caused me to need the persistance mode:
+These images are what actually caused me to need the persistence mode:
 
 
 |Amplitude modulator - 16kHz carrier 10Hz modulation|
@@ -90,7 +90,7 @@ These images are what actually caused me to need the persistance mode:
 |![AM signal](/assets/2020-05-03-persistance/2.png)|
 |![Demodulated signal](/assets/2020-05-03-persistance/4.png)|
 
-Note the time per division.  That's 100 milliseconds per division.  At that speed, the display just flickers.  The original images I made only showed a section a few divisions wide because that happened to be the part that was "lit up" when the snapshot was made.  Those two were made using persistance mode.  
+Note the time per division.  That's 100 milliseconds per division.  At that speed, the display just flickers.  The original images I made only showed a section a few divisions wide because that happened to be the part that was "lit up" when the snapshot was made.  Those two were made using persistence mode.  
 
 That's a heck of a difference to the original images I used in the last post:
 
@@ -99,9 +99,9 @@ That's a heck of a difference to the original images I used in the last post:
 |![Bad image 1](/assets/2020-05-03-persistance/bad1.png)|
 |![Bad image 1](/assets/2020-05-03-persistance/bad2.png)|
 
-Those two were made at 20 milliseconds per division because anything slower was completely unusable without the persistance mode.
+Those two were made at 20 milliseconds per division because anything slower was completely unusable without the persistence mode.
 
-There's still some tearing in the image of the modulated signal using the persistance mode, but that's down to the camera not being able to record it.  Not much I can do with clever software to replace things the camera doesn't even pick up.
+There's still some tearing in the image of the modulated signal using the persistence mode, but that's down to the camera not being able to record it.  Not much I can do with clever software to replace things the camera doesn't even pick up.
 
 I find it fascinating to watch a really slow sweep in progress.  Here's a video of that 42 mHz signal refreshing.  That's at 5 seconds per division.
 
@@ -113,17 +113,17 @@ I find it fascinating to watch a really slow sweep in progress.  Here's a video 
 
 I figure the slow sweep speeds were used only with a camera and a long shutter exposure time back in the day.  You certainly can't tell anything about a signal by eye at 5 seconds per division.
 
-The [D43 oscillscope camera software](https://github.com/JosephEoff/D43) lets you look at that kind of thing live.  Not only that, I rigged the whole thing so that you can use the digitized view on the persisted image as well as storing the digitized measurements made using persistance.
+The [D43 oscillscope camera software](https://github.com/JosephEoff/D43) lets you look at that kind of thing live.  Not only that, I rigged the whole thing so that you can use the digitized view on the persisted image as well as storing the digitized measurements made using persistence.
 
-This is a spectrum analysis made using digitized data from using the persistance mode:
+This is a spectrum analysis made using digitized data from using the persistence mode:
 
 |Spectrum|
 |---------------|
 |![Spectrum](/assets/2020-05-03-persistance/spectrum.png)|
 
-That's the demodulated 10Hz signal from above.  I used the persistance mode to capture and digitize it with the D43.  The D43 software exports a CSV file that I imported in to Baudline to show the spectrum.  There's a peak there at 10 Hz.
+That's the demodulated 10Hz signal from above.  I used the persistence mode to capture and digitize it with the D43.  The D43 software exports a CSV file that I imported in to Baudline to show the spectrum.  There's a peak there at 10 Hz.
 
-There you have it:  persistance mode for viewing **really** slow signals in real time on an old analog scope.
+There you have it:  persistence mode for viewing **really** slow signals in real time on an old analog scope.
 
 --------
 
