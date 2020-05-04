@@ -90,7 +90,9 @@ These images are what actually caused me to need the persistance mode:
 |![AM signal](/assets/2020-05-03-persistance/2.png)|
 |![Demodulated signal](/assets/2020-05-03-persistance/4.png)|
 
-Note the time per division.  That's 100 milliseconds per division.  At that speed, the display just flickers.  The original images I made only showed a section a few divisions wide because that happened to be the part that was "lit up" when the snapshot was made.  These two were made using persistance mode.  That's a heck of a difference to the original images I used in the last post:
+Note the time per division.  That's 100 milliseconds per division.  At that speed, the display just flickers.  The original images I made only showed a section a few divisions wide because that happened to be the part that was "lit up" when the snapshot was made.  Those two were made using persistance mode.  
+
+That's a heck of a difference to the original images I used in the last post:
 
 |Amplitude modulator - 16kHz carrier 10Hz modulation - no persistance|
 |---------------|
