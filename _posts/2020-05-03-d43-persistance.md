@@ -29,7 +29,7 @@ The simplest and most effective way to make a persistence mode was to simply ana
 
 Simple is best, and this simple method works very well indeed.
 
-The only real "magic" in it is setting the threshold.  I didn't want to have to fiddle with some control on the screen to make the persistance work properly.  I wanted to be able to just turn it on and have it do a decent job.
+The only real "magic" in it is setting the threshold.  I didn't want to have to fiddle with some control on the screen to make the persistence work properly.  I wanted to be able to just turn it on and have it do a decent job.
 
 This is the magic bit that selects the new columns and copies them to the persistent image:
 
@@ -113,7 +113,7 @@ I find it fascinating to watch a really slow sweep in progress.  Here's a video 
 
 I figure the slow sweep speeds were used only with a camera and a long shutter exposure time back in the day.  You certainly can't tell anything about a signal by eye at 5 seconds per division.
 
-The [D43 oscillscope camera software](https://github.com/JosephEoff/D43) lets you look at that kind of thing live.  Not only that, I rigged the whole thing so that you can use the digitized view on the persisted image as well as storing the digitized measurements made using persistence.
+The [D43 oscilloscope camera software](https://github.com/JosephEoff/D43) lets you look at that kind of thing live.  Not only that, I rigged the whole thing so that you can use the digitized view on the persisted image as well as storing the digitized measurements made using persistence.
 
 This is a spectrum analysis made using digitized data from using the persistence mode:
 
