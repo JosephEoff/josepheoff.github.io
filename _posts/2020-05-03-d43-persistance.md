@@ -25,7 +25,7 @@ I've intended to add a persistence mode to the D43 software since the very begin
 
 Under the pressure of needing it **now,** I came up with a method that was very simple and very effective.
 
-The simplest and most effective way to make a persistence mode was to simply analyze each image, and copy every column of pixels that has at least one pixel brighter than some threshold from the new image to a persistent image.  I had thought up all kinds of schemes with transparancy and synchronizing to the trace and just all kinds of complicated crap.
+The simplest and most effective way to make a persistence mode was to simply analyze each image, and copy every column of pixels that has at least one pixel brighter than some threshold from the new image to a persistent image.  I had thought up all kinds of schemes with transparency and synchronizing to the trace and just all kinds of complicated crap.
 
 Simple is best, and this simple method works very well indeed.
 
