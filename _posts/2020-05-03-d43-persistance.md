@@ -76,7 +76,7 @@ There was actually more code involved in turning the persistence mode on and off
 
 At any rate, it works and it works well.
 
-This is an image of a sine wave with a period of 24 seconds (that's 42 milliherz) captured using the 5 second per division sweep of my D43:
+This is an image of a sine wave with a period of 24 seconds (that's 42 millihertz) captured using the 5 second per division sweep of my D43:
 
 |Sine wave 42mHz|
 |---------------|
