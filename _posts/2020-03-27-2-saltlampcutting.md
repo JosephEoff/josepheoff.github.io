@@ -29,7 +29,7 @@ It looked like this:
 |![Salt block bottom](/assets/2020-03-27-saltlamp/2.jpg)|
 |More or less flat and definitely not smooth.|
 
-The base doesn't need to be perfectly flat let alone smooth.  It'l be clamped to a wooden base with black felt between the salt and the wood.  It just needs to be flat enough to sit on the base.
+The base doesn't need to be perfectly flat let alone smooth.  It'll be clamped to a wooden base with black felt between the salt and the wood.  It just needs to be flat enough to sit on the base.
 
 |Salt block front|
 |---------|
