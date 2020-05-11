@@ -35,7 +35,7 @@ Don't hunch over your work bench for hours on end.  Stop now and again and sit u
 
 ## Clean air
 
-You'll probably want to to something to keep the air in your work room clean.
+You'll probably want to do something to keep the air in your work room clean.
 
 The flux used to make solder flow properly evaporates in the heat from the soldering iron.  The fumes can cause allergic reactions in some people.  Some types of flux also just **stink.**
 
