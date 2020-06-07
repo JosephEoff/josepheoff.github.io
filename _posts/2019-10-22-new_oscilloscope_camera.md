@@ -110,7 +110,7 @@ Make sure to get the grid and the green filter back in the proper place when att
 
 Plug the C270 into your PC and fire up any webcam software you like (or even use the [D43 camera software.](https://github.com/JosephEoff/D43))  Check to make sure you are getting a picture from it, then hold it in place on the camera mount.
 
-Adjust the backlight so that you can see the oscilloscope grid on you computer screen.  Check the focus.  Twist the knurled knob around the lens in the C270 and check again.
+Adjust the backlight so that you can see the oscilloscope grid on your computer screen.  Check the focus.  Twist the knurled knob around the lens in the C270 and check again.
 
 |Focus|
 |--------------|
