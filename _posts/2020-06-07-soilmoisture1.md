@@ -34,7 +34,7 @@ Measuring is easy - if you believe all the posts you can find on the internet ab
 
 The low end of professional equipment is also not really all there.  Wire connections, and cobbled together housings that aren't waterproof.  I found one that recommended purchasing a separate housing for the battery because the battery would corrode in the moist conditions inside the data collection controller box.  Insane.
 
-I finally found that there are bluetooth connected, waterproof sensors available.  Xiaomi makes them, and there are several suppliers that sell compatible equipment under different names.  What's more, the software has a catalog of recommended soil moisture and fertilizer measurements for thousands of plants.  Not only can you measure with (semi) calibrated sensors, you have concrete recommnedations to follow.
+I finally found that there are bluetooth connected, waterproof sensors available.  Xiaomi makes them, and there are several suppliers that sell compatible equipment under different names.  What's more, the software has a catalog of recommended soil moisture and fertilizer measurements for thousands of plants.  Not only can you measure with (semi) calibrated sensors, you have concrete recommendations to follow.
 
 That's a big step in the right direction, so that's the way I went.
 
