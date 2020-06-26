@@ -3,7 +3,7 @@ layout: post
 title: "Soil moisture monitoring in a flower garden - a first look"
 categories: [blog]
 mathjax: false
-image: /assets/2020-06-07-soilmoisture1/yard.jpg
+image: /assets/2020-06-07-soilmoisture0/yard.jpg
 ---    
 How much is enough, and how do you know?
 
@@ -17,7 +17,7 @@ All the flowers have blossomed and look really nice.
 
 |Flower garden|
 |----------------|
-|![Flower garden](/assets/2020-06-07-soilmoisture1/yard.jpg)|
+|![Flower garden](/assets/2020-06-07-soilmoisture0/yard.jpg)|
 
 
 I am the world's worst gardener.  If plants had nightmares, I'd be their Freddy Krueger.
@@ -56,7 +56,7 @@ This is a sample of some of the charts I made:
 
 |Complicated mess|
 |----------------|
-|![Soil moisture charts](/assets/2020-06-07-soilmoisture1/soilmoisture_vs_temperature_timeofday.png)|
+|![Soil moisture charts](/assets/2020-06-07-soilmoisture0/soilmoisture_vs_temperature_timeofday.png)|
 
 That looks horrible, but it's fairly simple to understand:
 
