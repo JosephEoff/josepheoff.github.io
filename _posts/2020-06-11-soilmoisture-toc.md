@@ -12,4 +12,4 @@ Unlike some of the other projects that just sort of grew on me, I've started thi
 Here's a list of the soil moisture monitoring posts to date:
 
 0. [Soil moisture monitoring in a flower garden - a first look](soilmoisture0) - How much is enough, and how do you know?
-1. [Soil moisture monitoring in a flower garden - an infrastucture for testing my ideas](soilmoisture1) - A garden from the inside out - first the servers, then the yard work.
+1. [Soil moisture monitoring in a flower garden - an infrastucture for testing my ideas](soilmoisture-1) - A garden from the inside out - first the servers, then the yard work.
