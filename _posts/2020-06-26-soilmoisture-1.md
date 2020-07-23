@@ -51,7 +51,7 @@ At any rate, I now have a small test setup running.
 It's made of the following components:
 
 1. A NodeMCU ESP32S running the flora firmware.
-2. A simple MQTT client in python that just prints out all received messages.
+2. A simple MQTT client in Python that just prints out all received messages.
 3. A Mosquitto MQTT server installed on my computer rather than on a separate server machine.
 4. An OEM relabeled (cheaper) Xiaomi MiFlora sensor.
 
