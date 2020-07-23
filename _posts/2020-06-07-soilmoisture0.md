@@ -6,6 +6,7 @@ mathjax: false
 image: /assets/2020-06-07-soilmoisture0/yard.jpg
 ---    
 How much is enough, and how do you know?
+<sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
 
 It's been a while since I posted anything to the blog.  I've been busy out in the real world, doing yard work and other things since the weather has been so nice here lately.
 
@@ -83,3 +84,5 @@ I've looked around, and found that there are open source projects that can read 
 That's going to take a while.  I'll be posting more on this subject as it goes along, and I'll link them all together in a separate table of contents like I've done for some of my other projects.
 
 For now, I still don't know how much soil moisture my plants really need.  It looks like they've (mostly) got enough, but I'm going to find out for sure - some day.
+
+<sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
