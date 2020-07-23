@@ -6,6 +6,7 @@ mathjax: false
 image: /assets/2020-06-26-soilmoisture1/firstsetup.jpg
 ---    
 A garden from the inside out - first the servers, then the yard work.
+
 <sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
 
 
