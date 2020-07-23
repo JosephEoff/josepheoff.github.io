@@ -6,6 +6,7 @@ mathjax: false
 image: /assets/2020-06-26-soilmoisture1/firstsetup.jpg
 ---    
 A garden from the inside out - first the servers, then the yard work.
+<sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
 
 
 As I mentioned before, I plan to use some ESP32s, an MQTT server, and some custom software based on Django to collect soil moisture data from my flower garden.
@@ -70,4 +71,6 @@ Standing in front of the monitor is a white thingy - that's the sensor itself.
 All together, they don't do much.  They do functionally represent all the components I'm going to need before this is over, though.
 
 That's all for today.  It took far too long to reach this point, so I'm going to give it a rest.
+
+<sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
 
