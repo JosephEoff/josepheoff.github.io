@@ -6,6 +6,7 @@ mathjax: false
 image: /assets/2020-06-07-soilmoisture0/yard.jpg
 ---    
 How much is enough, and how do you know?
+
 <sub>[All about my experiments in soil moisture monitoring - Table of Contents](soilmoisture-toc)</sub>
 
 It's been a while since I posted anything to the blog.  I've been busy out in the real world, doing yard work and other things since the weather has been so nice here lately.
