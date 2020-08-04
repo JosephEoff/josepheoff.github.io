@@ -13,3 +13,4 @@ Here's a list of the soil moisture monitoring posts to date:
 
 0. [Soil moisture monitoring in a flower garden - a first look](soilmoisture0) - How much is enough, and how do you know?
 1. [Soil moisture monitoring in a flower garden - an infrastucture for testing my ideas](soilmoisture-1) - A garden from the inside out - first the servers, then the yard work.
+2. [Soil moisture monitoring in a flower garden - a little bit of planning](soilmoisture-2) - What am I doing here, anyhow?
