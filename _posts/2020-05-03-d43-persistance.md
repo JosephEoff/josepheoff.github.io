@@ -4,7 +4,7 @@ title: "A persistence control for the D43 oscilloscope camera software"
 categories: [blog]
 mathjax: false
 image: /assets/2020-05-03-persistance/longsweep.jpg
----   
+--- 
 Making use of long sweep times.
 
 <sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
@@ -41,7 +41,7 @@ if bright.size>0:
         self.persistImage[:, x] = scopeImage[:, x]
 ```
         
-That looks pretty impenetrable, but mostly because [numpy](https://numpy.org/) is somewhat... inscrutable.  At least, I find it that way.  It's powerful (which is why I use it) but I have to stop and really consider what each thing does and then double check the documentation.  It can do a lot with just one command, and it does it **fast.**  Overall it's a big win for code length and code speed, bit it does require a good bit of thought while using it.
+That looks pretty impenetrable, but mostly because [numpy](https://numpy.org/) is somewhat... inscrutable.  At least, I find it that way.  It's powerful (which is why I use it) but I have to stop and really consider what each thing does and then double check the documentation.  It can do a lot with just one command, and it does it **fast.**  Overall it's a big win for code length and code speed, but it does require a good bit of thought while using it.
 
 Let's break those few lines down and see what they do.
 
@@ -94,10 +94,10 @@ Note the time per division.  That's 100 milliseconds per division.  At that spee
 
 That's a heck of a difference to the original images I used in the last post:
 
-|Amplitude modulator - 16kHz carrier 10Hz modulation - no persistance|
+|Amplitude modulator - 16kHz carrier 10Hz modulation - no persistence|
 |---------------|
 |![Bad image 1](/assets/2020-05-03-persistance/bad1.png)|
-|![Bad image 1](/assets/2020-05-03-persistance/bad2.png)|
+|![Bad image 2](/assets/2020-05-03-persistance/bad2.png)|
 
 Those two were made at 20 milliseconds per division because anything slower was completely unusable without the persistence mode.
 
