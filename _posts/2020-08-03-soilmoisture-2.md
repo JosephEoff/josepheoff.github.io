@@ -31,7 +31,7 @@ There are five blue dots scattered around the yard.  Those are the soil moisture
 
 The tulip things need more water, there's a holly looking kind of thing that seemed to be a little yellow like it wasn't getting enough water.  I particularly wanted to keep an eye on those.
 
-There's one sensor in the front yard by a big rose bush.  That's the only one we kept when we had the yard landscaped last fall.  That rose bush has alway done well, and since I put that sensor in there I know why.  Besides now always having enough water, it turns out that that one spot in the yard has the absolute best nutrient values of the whole yard.  For what ever reason, the dirt there is just really good.
+There's one sensor in the front yard by a big rose bush.  That's the only one we kept when we had the yard landscaped last fall.  That rose bush has always done well, and since I put that sensor in there I know why.  Besides now always having enough water, it turns out that that one spot in the yard has the absolute best nutrient values of the whole yard.  For what ever reason, the dirt there is just really good.
 
 I have one sensor in the flower pots in the back yard to tell me when the pots need water.  It turns out that they need water almost every day.  They don't hold moisture well.
 
