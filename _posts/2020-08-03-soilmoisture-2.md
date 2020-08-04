@@ -58,7 +58,7 @@ I kept trying to figure out how to hook up each ESP32 to a solar charged battery
 
 ### Software
 
-There's several pieces of software I'm going to have to write.  I have particular ideas about the montoring that don't square with the way most projects work, so I'll have to write my own ESP32 software. I have peculiar ideas about how to assign sensors to monitors, which means that there has to be a server part that works as a go between for the ESP32s and the Django server that will be collecting the data and providing simple summaries.  Finally, there will be an analysis program that can make 3D graphs of the soil moisture data.
+There's several pieces of software I'm going to have to write.  I have particular ideas about the monitoring that don't square with the way most projects work, so I'll have to write my own ESP32 software. I have peculiar ideas about how to assign sensors to monitors, which means that there has to be a server part that works as a go between for the ESP32s and the Django server that will be collecting the data and providing simple summaries.  Finally, there will be an analysis program that can make 3D graphs of the soil moisture data.
 
 # ESP32
 
