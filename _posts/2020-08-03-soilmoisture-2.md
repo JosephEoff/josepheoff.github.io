@@ -45,7 +45,7 @@ With that picture of the yard to look at, you can see that it is unlikely that a
 
 ## Planning
 
-The layout of the yard dictates a lot of things, and has an lot of influence on how much hardware I need and what the software will have to do.
+The layout of the yard dictates a lot of things, and has a lot of influence on how much hardware I need and what the software will have to do.
 
 ### Hardware
 
