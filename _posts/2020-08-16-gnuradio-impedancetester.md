@@ -39,7 +39,7 @@ The software looks like this when running:
 |----------------|
 |![Impedance tester circuit](/assets/2020-08-16-impedancetester/plotter.png)|
 
-This is the plot the impedance of a nominal 8 ohm car stereo speaker.  This speaker has a woofer, a mid-range, and a tweeter in one housing with a 3-way crossover network.
+This is the plot of the impedance of a nominal 8 ohm car stereo speaker.  This speaker has a woofer, a mid-range, and a tweeter in one housing with a 3-way crossover network.
 
 |Car speaker plot|
 |![Car speaker impedance](/assets/2020-08-16-impedancetester/carspeaker.png)|
