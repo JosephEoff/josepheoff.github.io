@@ -7,7 +7,7 @@ image: /assets/2020-08-16-impedancetester/plotter.png
 ---
 A first (successful) experiment with GNU-Radio.
 
-As with many of the things that end up on this blog, this project started from a combination of things - including the ever popular "somebody asked a question the [Electrical Engineering Stack Exchange.](https://electronics.stackexchange.com/)"  Actually, it wasn't a particular question but rather a question that comes up often:  "What's the impedance of this random speaker I found?"
+As with many of the things that end up on this blog, this project started from a combination of things - including the ever popular "somebody asked a question on the [Electrical Engineering Stack Exchange.](https://electronics.stackexchange.com/)"  Actually, it wasn't a particular question but rather a question that comes up often:  "What's the impedance of this random speaker I found?"
 
 You can't really measure the resistance of a speaker and get a reasonable answer - it is only by accident that the speaker impedance and the speaker resistance will be anywhere close to the same.
 
