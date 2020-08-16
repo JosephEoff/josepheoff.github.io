@@ -11,7 +11,7 @@ As with many of the things that end up on this blog, this project started from a
 
 You can't really measure the resistance of a speaker and get a reasonable answer - it is only by accident that the speaker impedance and the speaker resistance will be anywhere close to the same.
 
-The other thing that went into this project was a passing reference I made to [GNU Radio](https://www.gnuradio.org/) while writing the [post on generating extreme low frequency signal.](elf)  That reminded me that I'd never actually done anything with GNU Radio at all.  I'd looked at it before, but never really put anything useful together with it.
+The other thing that went into this project was a passing reference I made to [GNU Radio](https://www.gnuradio.org/) while writing the [post on generating extreme low frequency signals.](elf)  That reminded me that I'd never actually done anything with GNU Radio at all.  I'd looked at it before, but never really put anything useful together with it.
 
 I've long wanted to put together a simple impedance tester to give to folks who ask how to measure the impedance of a speaker.  I have at various times actually assembled such a program with [Pure Data,](https://puredata.info/) but I never got it to a state where it was useful.  Implementing the functionality is trivial in Pure Data - maybe a half an hour to assemble the whole thing.  It always fails on making the display nice and useful, though.  The available display elements (arrays) are rather primitive in Pure Data - there are no cursors to make measurements, and there aren't even any decent ways to draw a grid with a scale on an array.
 
