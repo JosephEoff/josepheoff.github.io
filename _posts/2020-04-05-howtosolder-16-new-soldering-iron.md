@@ -57,7 +57,9 @@ I find the WE1010 holds the set temperature very well.  Dave from the EEVblog th
 
 Dave also found out accidentally that the WE1010 doesn't have a primary side fuse.  It's true.  It doesn't have one.
 
-It's also true that the WE1010 doesn't need a fuse.  That's why the UL and CE markings are valid.
+It's also true that the WE1010 doesn't need a fuse.  
+
+That's why the UL and CE markings are valid.
 
 Despite popular belief, fuses aren't there to protect your equipment.
 
