@@ -8,6 +8,8 @@ image: /assets/2020-01-27-buttons/transition_down.png
 {% include lib/mathjax.html %}
 A slight change in plans.
 
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
+
 Last time around, I introduced my microwave camera.  I intended to make this post about the hardware for the camera but then changed my mind.
 
 I decided that I'd rather describe the things more or less in the order I did them.  While I don't remember the order of everything I did a couple of years ago, the hardware was definitely not the first part.
@@ -87,3 +89,5 @@ Oh.  Here's a capture made with the one-shot:
 That's an image of the contact bounce I measured while working on [another of my projects.](boxobuttons)
 
 Next time around, I **will** post pictures of my microwave camera experiments.  Promise.
+
+<sub>[My Telequipment D43 projects - Table of Contents](d43toc)</sub>
