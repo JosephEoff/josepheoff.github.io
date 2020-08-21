@@ -10,3 +10,4 @@ All about my experiments with [GNU Radio](https://www.gnuradio.org/).
 I've started playing with [GNU Radio](https://www.gnuradio.org/), and found it useful for some of the things I work on.  This is a collection of posts about learning how to use GNU Radio and making (and using) some tools with it.
 
 1. [Learning about GNU Radio - A GNU Radio Companion flowgraph to measure impedance](gnuradio-impedancetester) - A first (successful) experiment with GNU-Radio.
+2. [Learning about GNU Radio - How the impedance tester works](gnuradio-impedancetester-1) - A program doing mostly what computers do best - math.
