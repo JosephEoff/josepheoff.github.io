@@ -57,7 +57,9 @@ I find the WE1010 holds the set temperature very well.  Dave from the EEVblog th
 
 Dave also found out accidentally that the WE1010 doesn't have a primary side fuse.  It's true.  It doesn't have one.
 
-It's also true that the WE1010 doesn't need a fuse.  That's why the UL and CE markings are valid.
+It's also true that the WE1010 doesn't need a fuse.  
+
+That's why the UL and CE markings are valid.
 
 Despite popular belief, fuses aren't there to protect your equipment.
 
@@ -73,13 +75,16 @@ It'll smoke like crazy (Dave proved that by plugging a 110VAC model into 240VAC,
 
 The transformer itself is enclosed, and it is double insulated.
 
-The transformer and the the WE1010 itself carry this mark:
+The transformer and the WE1010 itself carry this mark:
 
 |Kurzschlussfesten, geschlossenen Sicherheits­transformator (Enclosed, short circuit proof safety transformer) |
 |--------|
 |![Short circuit proof symbol](/assets/2020-04-05-howtosolder-16-new-soldering-iron/safety.png)|
 
 That is a symbol that means (approximately) "short circuit proof."  I say approximately because I can only find a description of it in [German on Wikipedia.](https://de.wikipedia.org/wiki/Sicherheitstransformator)  I don't know what you'd call it in English, and have had no luck tracking it down.  That it's in German is appropriate - Weller is a German brand, and is developed here in Germany though it is built in various other countries.
+
+**Edit 2020.08.19**
+*I have found that the German "Kurzschlussfesten, geschlossenen Sicherheits­transformator" corresponds to the UL 5085-3 Class 2 or Class 3 transformers.  These are divided into "inherently limited" and "non-inherently limited."  Given the output voltage (23VAC) of the Weller WE1010 transformer, it falls under the UL5085-3 Class 2 inherently limited rules.  The main difference between Class 2 and Class 3 is the output voltage.  This [whitepaper](/assets/2020-04-05-howtosolder-16-new-soldering-iron/wp-ST-Class-vs-Class.pdf) from Bel Fuse describes the UL classes.*
 
 Most devices have a fuse so that they don't catch on fire if they short out.
 
