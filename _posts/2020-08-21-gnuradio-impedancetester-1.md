@@ -3,7 +3,7 @@ layout: post
 title: "Learning about GNU Radio - How the impedance tester works"
 categories: [blog]
 mathjax: true
-image: /assets/2020-08-16-impedancetester/plotter.png
+image: /assets/2020-08-21-gnuradio-impedancetester-1/noisespectrum.png
 ---
 {% include lib/mathjax.html %}
 A program doing mostly what computers do best - math.
