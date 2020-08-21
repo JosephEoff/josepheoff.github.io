@@ -53,7 +53,7 @@ For comparison, I plotted the impedance of a 20 ohm resistor:
 
 Flat from end to end, except where the soundcard limitations kick in (low frequencies and high frequencies.)
 
-As I said, I'll explain it all in a later post.  I've noticed a tendency for my last posts to be great long monsters, and I'd like to shorten them a bit.  When I write the long monsters all in one go, things get all mashed together and shortened.
+As I said, I'll explain it all in a later post.  I've noticed a tendency for my last posts to be great long monsters, and I'd like to shorten them a bit.  When I write the long monsters all in one go, things get all mashed together and details get lost.
 
 I'll write separate posts later on how the software works, how to hookup the hardware, and how to install the software.
 
