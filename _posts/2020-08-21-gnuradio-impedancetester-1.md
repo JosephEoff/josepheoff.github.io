@@ -82,7 +82,7 @@ The other trick is one that GNU Radio doesn't have.  It is related to a [moving 
 
 Not so important in this day and age, but a large consideration back when I first started doing this kind of thing is the lower memory usage.  Rather than keep the last 100 (or whatever number) of spectrum blocks in memory, the walking average never has more than two at a time.
 
-The really nice thing about the walking average, though, is that is produces an output immediately.  You see it beginning to move and converge to its average from the very beginning.  The standard GNU Radio moving average doesn't produce any output until it has as many blocks in its memory as you told it to use.  If you are using many large blocks of audio, it can take a very long time before you see anything at all.
+The really nice thing about the walking average, though, is that it produces an output immediately.  You see it beginning to move and converge to its average from the very beginning.  The standard GNU Radio moving average doesn't produce any output until it has as many blocks in its memory as you told it to use.  If you are using many large blocks of audio, it can take a very long time before you see anything at all.
 
 I tried, but failed to implement the walking average with standard GNU Radio Companion blocks in the GUI.  I eventually gave up and implemented it in a Python block.  That doesn't sound like it'd be very fast, but you never use plain Python for this kind of stuff.  You use the NumPy library for fast math.  Python pretty much just pushes pointers around and asks NumPy to do things.
 
