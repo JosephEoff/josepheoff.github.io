@@ -8,6 +8,8 @@ image: /assets/2020-08-21-gnuradio-impedancetester-1/noisespectrum.png
 {% include lib/mathjax.html %}
 A program doing mostly what computers do best - math.
 
+<sub>[Learning about GNU Radio - Table of Contents](1gnuradio-toc)</sub>
+
 Some time back, I described how I manually [measure impedance](inductor) on those rare occasions when I need to measure an inductor or capacitor.
 
 It's nothing really more than an application of the math involved in a voltage divider.
@@ -113,3 +115,5 @@ Nice and smooth, and clear enough to see a couple of little resonance bumps at a
 At any rate, that's the math and the software behind the simple impedance tester.
 
 The hardware is easier to explain, but I'll do that another time.
+
+<sub>[Learning about GNU Radio - Table of Contents](1gnuradio-toc)</sub>
