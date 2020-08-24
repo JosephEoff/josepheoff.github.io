@@ -23,7 +23,7 @@ With her bad back, my sister has no business in that attic at all.
 
 I wrote back and asked what she was up to.
 
-Her son was there, and she wanted him to install new ceiling fans in the living room of the house.
+Her son was there, and she wanted him to install new ceiling fans in the living room of the house.  She wrote early because they started early to beat the heat.
 
 As long as she's not going in there, well, you get into the unfinished attic by going into the upstairs bedroom and into the closet.  In the side wall of the closet is a hinged panel that opens into the attic on the side of the house opposite the finished attic.  From there, you can walk and crawl your way into the other parts of the unfinished attic.
 
@@ -111,7 +111,7 @@ We thought it over, and figured it out.
 
 A drill got those bolts in there, and a drill can take them out.
 
-My sister's boy drilled the heads off the bolts, and drove them out from below.  I expect they're laying up there in the rock wool between the joists, now.
+My sister's boy (**snork** he has a wife and daughter of his own, not exactly a kid) drilled the heads off the bolts, and drove them out from below.  I expect they're laying up there in the rock wool between the joists, now.
 
 He put up a couple of new fans, using lag bolts in the holes my brother and I drilled by hand.
 
@@ -131,5 +131,5 @@ This is one of the fans my nephew put up:
 |-------|
 |![New fan](/assets/2020-08-24-oldproject1/newfan.jpg)|
 
-As I sit here trying to recall a long finished project from a long forgotten day, I can't help but wonder what my nephew will remember of the hot summer day when he hung a pair of fans in his grandmother's house - and what event in his own life may cause him to think back on it someday.
+As I sit here trying to recall the details of a long finished project from a long forgotten day, I can't help but wonder what my nephew will remember of the hot summer day when he hung a pair of fans in his grandmother's house - and what event in his own life may cause him to think back on it someday.
 
