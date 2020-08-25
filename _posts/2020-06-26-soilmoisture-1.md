@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Soil moisture monitoring in a flower garden - an infrastucture for testing my ideas"
+title: "Soil moisture monitoring in a flower garden - An infrastucture for testing my ideas"
 categories: [blog]
 mathjax: false
 image: /assets/2020-06-26-soilmoisture1/firstsetup.jpg
