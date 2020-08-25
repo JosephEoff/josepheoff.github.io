@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Soil moisture monitoring in a flower garden - a first look"
+title: "Soil moisture monitoring in a flower garden - A first look"
 categories: [blog]
 mathjax: false
 image: /assets/2020-06-07-soilmoisture0/yard.jpg
