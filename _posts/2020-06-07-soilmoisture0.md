@@ -34,7 +34,7 @@ Even if you know how much water is enough, how do you measure it?
 
 Measuring is easy - if you believe all the posts you can find on the internet about building various kinds of soil moisture sensors.  Then you check deeper, and find that most such projects are uncalibrated and basically uncalibratable. Commercially available sensors for hobbyists are out there, but mostly as relative measurements that tell you the soil moisture went up or down but that don't actually tell you how much moisture the soil contains.  To top it off, the sensors themselves aren't waterproof.  All the electronics bare, just waiting for rain or the watering can to ruin.
 
-The low end of professional equipment is also not really all there.  Wire connections, and cobbled together housings that aren't waterproof.  I found one that recommended purchasing a separate housing for the battery because the battery would corrode in the moist conditions inside the data collection controller box.  Insane.
+The low end of professional equipment is also not really all there.  Wire connections, and cobbled together housings that aren't waterproof.  I found one that recommended purchasing a separate housing for the battery because the battery would corrode in the moist conditions inside the data collection controller box.  Insane. 
 
 I finally found that there are bluetooth connected, waterproof sensors available.  Xiaomi makes them, and there are several suppliers that sell compatible equipment under different names.  What's more, the software has a catalog of recommended soil moisture and fertilizer measurements for thousands of plants.  Not only can you measure with (semi) calibrated sensors, you have concrete recommendations to follow.
 
