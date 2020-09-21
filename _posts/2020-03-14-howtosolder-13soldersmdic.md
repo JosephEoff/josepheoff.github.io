@@ -84,7 +84,7 @@ Here's what they look like:
 |![SOIC-8 and PCB](/assets/2020-03-14-howtosolder-13-soldersmdic/task.jpg)|
 
 
-The IC itself if 5 millimeters long and a smidge over 4 millimeters wide.  The pins are 0.5 millimeters wide.
+The IC itself is 5 millimeters long and a smidge over 4 millimeters wide.  The pins are 0.5 millimeters wide.
 
 All in all, while it's pretty small it's still pretty easy to solder.  SOIC8 is a standard size, and pretty much the easiest SMD IC style to solder by hand.
 
