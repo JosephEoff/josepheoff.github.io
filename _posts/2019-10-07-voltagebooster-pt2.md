@@ -51,7 +51,7 @@ On the face of it, that can't work.
 
 When the switch is closed, current flows through L1 (the inductor) and just goes right past D1 (the LED.)  No current will go through the LED - the LED is backwards so current **can't** go through it, and the inductor is just a length of wire.
 
-Well, that's no surprise.  We saw that while playing the with simple booster the last time around.  You put the wire on the file, and nothing appears to happen - the LED does **not** light up.
+Well, that's no surprise.  We saw that while playing with the simple booster the last time around.  You touch wire to the file, and nothing appears to happen - the LED does **not** light up.
 
 Something **does** happen, though.  The wire in the coil doesn't act the same as a straight piece of wire.
 

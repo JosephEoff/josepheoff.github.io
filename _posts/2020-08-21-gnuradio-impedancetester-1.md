@@ -58,7 +58,7 @@ The impedance tester generates white noise, and does two Fourier transforms - on
 
 It sounds horribly complicated, but it isn't.  GNU Radio (and SciPy and NumPy) all have methods to do the spectrum analysis and apply a single math function to all of the frequencies at once.  GNU Radio handles getting the audio into and out of the program, and most of the rest is just boiler plate to set things up.
 
-White noise does have a draw back as a signal source, though.  It is **noise.**  By its very nature is is squiggly and jiggly and not very reliable.
+White noise does have a draw back as a signal source, though.  It is **noise.**  By its very nature it is squiggly and jiggly and not very reliable.
 
 I mean, look at this:
 

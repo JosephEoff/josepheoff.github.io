@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Soil moisture monitoring in a flower garden - a little bit of planning"
+title: "Soil moisture monitoring in a flower garden - A little bit of planning"
 categories: [blog]
 mathjax: false
 image: /assets/2020-08-03-soilmoisture2/yard.png
@@ -25,7 +25,7 @@ The house is in the middle.  That's the light blue colored area.  It isn't reall
 
 The back yard is along the top of the sketch.  The light green color indicates the grass growing there.  The apple tree was kind of forced on us - the city requires a tree of some kind in every yard, but not too big.  We get maybe two or three apples a year from it.  There's a corner behind the apple tree and the flower pots where we have wildflowers for the bees and the butterflies.
 
-Along the left side of the yard and curving around to the back is a row of big flower pots.  These are 40 centimeter kidney shaped pots stacked two or three high.  My yard and the neighbor's yard aren't even - his is anywhere between 30 centimeters (at the front of the house) to 1 meter higher than mine.  The flower pots are set in concrete and act as a retaining wall so that the neighbor's yards stays in his yard.  We have various flowers and other things planted in the pots, including a bunch of roses (the red dots inside the brown flower pots.)
+Along the left side of the yard and curving around to the back is a row of big flower pots.  These are 40 centimeter kidney shaped pots stacked two or three high.  My yard and the neighbor's yard aren't even - his is anywhere between 30 centimeters (at the front of the house) to 1 meter higher than mine.  The flower pots are set in concrete and act as a retaining wall so that the neighbor's yard stays in his yard.  We have various flowers and other things planted in the pots, including a bunch of roses (the red dots inside the brown flower pots.)
 
 There are five blue dots scattered around the yard.  Those are the soil moisture sensors I currently have.  I've got them placed in the spots I think are most critical right now.
 

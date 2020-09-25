@@ -31,7 +31,7 @@ I checked the internet, and found that a properly working K-type thermocouple wi
 
 A functioning thermocouple should also show a few millivolts DC when hot.  I checked that, and found zip - no voltage at all from the thermocouple.
 
-On a random impulse, I measure the resistance between the two wires at the thermocouple end.  That was odd.  There's about three ohms of resistance across the thermocouple at that end.
+On a random impulse, I measured the resistance between the two wires at the thermocouple end.  That was odd.  There's about three ohms of resistance across the thermocouple at that end.
 
 The only way for that to be possible (lower resistance at the plug than at the thermocouple) was for there to be a short in the wiring in the plug.
 
