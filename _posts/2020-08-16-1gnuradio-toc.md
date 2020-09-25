@@ -11,3 +11,4 @@ I've started playing with [GNU Radio](https://www.gnuradio.org/), and found it u
 
 1. [Learning about GNU Radio - A GNU Radio Companion flowgraph to measure impedance](gnuradio-impedancetester) - A first (successful) experiment with GNU-Radio.
 2. [Learning about GNU Radio - How the impedance tester works](gnuradio-impedancetester-1) - A program doing mostly what computers do best - math.
+3. [Learning about GNU Radio - Hooking up the impedance tester](gnuradio-impedancetester-2) - Pretending I don't have a room full of tools and equipment.
