@@ -40,7 +40,7 @@ Here's what it looks like:
 
 That's the inductance function testing the inductor I built for the [simple voltage booster.](voltagebooster)
 
-The value agrees with the [measurement](inductor) I made back then - both come out the about 31 microhenries at 10kHz.  The impedance tester tells a more telling story, though.
+The value agrees with the [measurement](inductor) I made back then - both come out to about 31 microhenries at 10kHz.  The impedance tester tells a more telling story, though.
 
 That inductor is far away from being an ideal inductor.  At low frequencies, it has far more impedance than it ought to.  It has so much extra impedance at low frequencies that it acts like a much larger inductor.  As the frequency goes up, it behaves more like an ideal inductor.  Above about 20kHz, the limits of the sound card kick in and the inductance appears to rise again - that's just the hardware hitting its limits, though.
 
