@@ -10,7 +10,7 @@ More math and a little more software.
 
 <sub>[Learning about GNU Radio - Table of Contents](1gnuradio-toc)</sub> 
 
-The impedance tester can measure impedances for more than just speakers.  It doesn't really care what you connect to it.  It'll happily measure the impedance of a resistor - or of an inducator or capacitor.
+The impedance tester can measure impedances for more than just speakers.  It doesn't really care what you connect to it.  It'll happily measure the impedance of a resistor - or of an inductor or capacitor.
 
 If you've been following my blog for a while, you'll know that once you have the impedance of an [inductor](inductor) or a capacitor and the frequency you measured the impedance at, then you can calculate the inductance or capacitance of the part.
 
