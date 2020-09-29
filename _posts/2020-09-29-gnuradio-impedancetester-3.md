@@ -3,7 +3,7 @@ layout: post
 title: "Learning about GNU Radio - More functions for the impedance tester"
 categories: [blog]
 mathjax: true
-image: /assets/2020-09-25-gnuradio-impedancetester-2/running.jpg
+image: /assets/2020-09-29-gnuradio-impedancetester-3/inductor.png
 ---
 {% include lib/mathjax.html %}
 More math and a little more software.
