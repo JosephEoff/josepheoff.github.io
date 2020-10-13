@@ -66,7 +66,7 @@ I use a very fine tip on my soldering iron, and don't usually bother to switch t
 **Addded 2020-02-09:**
 I ended up having to buy a new soldering iron, and a set of new tips to go with it.  In trying out the new iron, I found that a 1.2mm chisel tip works best for the techniques I use and that are described in this series.  If you have a Weller WE1010, then you'll want to get a Weller "ET KL" tip - that's the 1.2mm chisel tip.  That's pretty close to the 1mm I originally recommended.
 
-Make sure your iron includes a cleaning sponge in the stand.  Some use a real sponge that you have to soak in water.  Some have  pad of brass shavings.  Both will clean.  You will need the sponge - you must clean the tip before each joint.
+Make sure your iron includes a cleaning sponge in the stand.  Some use a real sponge that you have to soak in water.  Some have a pad of brass shavings.  Both will clean.  You will need the sponge - you must clean the tip before each joint.
 
 ## Side cutters
 
