@@ -34,7 +34,7 @@ The most important tool when it comes to soldering.
 
 Mine is a cheap thing I bought at the hardware store a long time ago.  It is temperature controlled in the sense that it will maintain a particular temperature.  I have my doubts about how accurate the dial is - I know I have to set it to a stupidly high number to get it to act like I'm used to from better irons at lower temperatures.  In other words, that "400" it is set at is closer to 300. 
 
-**Addded 2020-02-09:**
+**Added 2020-02-09:**
 My soldering iron actually hits about 330 degrees C when set to well over 400 - I told you it wasn't very accurate.  My multimeter has a temperature sensor.  I checked the handbook - it is rated to 1000 degrees celsius.  I used it to measure the temperature of the soldering iron tip.
 
 You want a temperature controlled iron, preferably one with an accurate dial or display.
