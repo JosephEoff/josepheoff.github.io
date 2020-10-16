@@ -50,7 +50,7 @@ Like this:
 |![Stripping wires 2](/assets/2020-09-25-gnuradio-impedancetester-2/stripwire2.jpg)|
 |Note: The blade I use to strip wires is intentionally dull.  If you use a sharp knife then you will cut your thumb open.  That hurts.  I've done it.  The back edge of the blade of a pair of scissors is sharp enough to strip wires with, and won't cut your thumb.|
 
-I find it helps to build things if I can print out the plans and lay them one the workbench to refer to as I am working.  Print out the circuit diagram from above, and lay it out together with your parts.
+I find it helps to build things if I can print out the plans and lay them on the workbench to refer to as I am working.  Print out the circuit diagram from above, and lay it out together with your parts.
 
 |Ready for hookup|
 |----------------|
