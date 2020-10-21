@@ -9,7 +9,7 @@ At least, the manufacturer wouldn't see it that way.
 
 Since I do a lot of audio stuff with the sound card from my PC, I thought it would be a good idea to install a sort of "audio outlet" on my workbench.  I get tired of crawling under the workbench to connect stuff.  I can't count how many times I've bumped my head doing that.
 
-Rather than build one, I decided to buy one.  There are commercially available outlet kind of things intended be installed in the surface of desks.  They have extensions for line-out and microphone-in as well as a couple or three USB ports.
+Rather than build one, I decided to buy one.  There are commercially available outlet kind of things intended to be installed in the surface of a desk.  They have extensions for line-out and microphone-in as well as a couple or three USB ports.
 
 |Audio outlet|
 |--------------------------------------------------|
@@ -59,6 +59,6 @@ That's two stereo plugs with molded on strain relief, both with mono cables.  Th
 
 ------------
 
-What stupid penny penching things have you encountered in your electronic devices?
+What stupid penny pinching things have you encountered in your electronic devices?
 
 Leave a comment below and let me know.
