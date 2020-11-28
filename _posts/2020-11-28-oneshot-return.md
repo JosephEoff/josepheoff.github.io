@@ -45,13 +45,13 @@ Anything cobbled together from commonly available parts won't be able to get tha
 
 Nope, it is pure software.
 
-The camera watches the CRT all the time anyway.  There's a little jigger in software that watches what I call the "digitizing area."  When the one-shot function is armed, that little jigger checks every image to see if there's a green spot in every column of the digitzing area.  If more than 90 percent of the image columns in that are have a green spot, then it triggers the "Pause" function (the same function behind the "Pause" button.)
+The camera watches the CRT all the time anyway.  There's a little jigger in software that watches what I call the "digitizing area."  When the one-shot function is armed, that little jigger checks every image to see if there's a green spot in every column of the digitizing area.  If more than 90 percent of the image columns in that area have a green spot, then it triggers the "Pause" function (the same function behind the "Pause" button.)
 
 The "digitizing area" is the range that the original grid on the CRT covers.  The left most edge of the grid is T=0. The right most edge of the grid is the end of the sweep (more or less.)
 
 When the digitized view is in use, only the trace in that range is digitized.  Similarly, only that range counts for detecting a one-shot event.
 
-To use it, you adjust the scope so that it triggers on your signal.  Black, blank screen until the signal triggers a sweep, then a full trace when it triggered.
+To use it, you adjust the scope so that it triggers on your signal.  Black, blank screen until the signal triggers a sweep, then a full trace when it is triggered.
 
 Once the trigger adjustment is stable, you turn on the one-shot function in the software and send your signal again - Bam!  Picture made.
 
