@@ -31,7 +31,7 @@ You need the same tools to remove SMD parts as you need to install them.
 |![Tools to remove SMD parts](/assets/2020-03-01-howtosolder-12removesmdpassive/tools.jpg)|
 
 - You'll need the solder wick to clean up the pads after removing a part.
-- You'll need the wire cutters to remove used sections of wolder wick from the end of the roll.
+- You'll need the wire cutters to remove used sections of solder wick from the end of the roll.
 - You'll need a bit of solder to help remove the part.
 - You'll need the tweezers to pluck the removed part off the tip of the iron and hold it while you clean it up.
 
