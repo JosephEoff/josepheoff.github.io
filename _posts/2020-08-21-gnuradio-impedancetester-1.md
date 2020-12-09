@@ -30,7 +30,7 @@ Rearranged to find the impedance of the device under test (DUT) it looks like th
 
 \$Z_{DUT} = \frac{Z_{R \text{\_} series}}{\frac{V_{LineIn \text{\_} Left}}{V_{LineIn \text{\_} Right}} - 1}\$
 
-To measure impedance at one frequency, you apply a signal with the desired frequency to \$LineOut{\_}Left\$, measure at \$LineIn{\_}Left\$ and \$LineIn{\_}Right\$, do a little math and you're done.
+To measure impedance at one frequency, you apply a signal with the desired frequency to \$LineOut \text{\_} Left\$, measure at \$LineIn \text{\_} Left\$ and \$LineIn \text{\_} Right\$, do a little math and you're done.
 
 Well, not quite.  The goal here is to measure the impedance of a speaker across the entire audio spectrum - from down near DC to over 20 kHz.
 
