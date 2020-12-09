@@ -106,7 +106,7 @@ I put a piece of green felt over the plywood back.  It was left over from when I
 |---------------------------|
 |![Assembled and ready to hang](/assets/2020-12-03-pictureframe/assembled.jpg)|
 
-Not much of interest here, except that you can see the little screws I used to hold the plexiglass to the frame.  The bark is a little shiny from the sealant, but you don't notice that in normal lighting.
+Not much of interest here, except that you can see the little screws I used to hold the plexiglas to the frame.  The bark is a little shiny from the sealant, but you don't notice that in normal lighting.
 
 
 That's it.  A rough and rugged (but attractive) picture frame.
