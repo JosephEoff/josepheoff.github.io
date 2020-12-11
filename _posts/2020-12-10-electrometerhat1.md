@@ -45,7 +45,7 @@ The biggest difference is that LED. The [APD3224SEC/J4](/assets/2020-12-10-elect
 
 The MMBF5484 is simply an SMD version of the 2N5484 I used in the electrometer I built years ago.
 
-All the parts came in a few weeks ago, and I finally got the PCBs made - the electrometer boards arrived just today..  I put one together to make sure everything works according to plans. 
+All the parts came in a few weeks ago, and I finally got the PCBs made - the electrometer boards arrived just today.  I put one together to make sure everything works according to plans. 
 
 Since there will be seven electrometers, but each only draws a couple of milliamperes, I decided to stay with a 9V battery.  I had a bunch of electrometer boards made, and a couple of battery boards.
 
