@@ -13,3 +13,4 @@ I've started playing with [GNU Radio](https://www.gnuradio.org/), and found it u
 2. [Learning about GNU Radio - How the impedance tester works](gnuradio-impedancetester-1) - A program doing mostly what computers do best - math.
 3. [Learning about GNU Radio - Hooking up the impedance tester](gnuradio-impedancetester-2) - Pretending I don't have a room full of tools and equipment.
 4. [Learning about GNU Radio - More functions for the impedance tester](gnuradio-impedancetester-3) - More math and a little more software.
+5. [Learning about GNU Radio - Sources of error in the impedance tester](gnuradio-impedancetester-3) - That's got the inductors covered, but what about the capacitors?
