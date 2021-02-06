@@ -37,7 +37,7 @@ Scroll down the page to the section "How to tin your soldering iron tip" to see 
 # When using the iron
 
 1. When you take the hot iron out of the stand, wipe it on the sponge.  This will remove oxidized solder and flux from the tip that would otherwise mess up your soldered joint.
-2. After you clean the tip on the sponge, apply a touch of solder to it from your roll of solder.  This will replace the proctective film  of solder on the tip.
+2. After you clean the tip on the sponge, apply a touch of solder to it from your roll of solder.  This will replace the protective film  of solder on the tip.
 3. Before you put the iron back in the stand, apply another bit of solder to the tip.  Leave it on there as a blob.  This will help protect the tip.
 4. Before you turn off the iron, always put a small blob of solder on the tip.  Again, this is a protective layer to keep the metal of the tip from oxidizing.
 
