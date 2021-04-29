@@ -7,7 +7,7 @@ image: /assets/2021-04-29-androidtranscribe/transcribe.jpg
 ---
 It ain't rocket science, but it ain't trivial, either.
 
-Someday I'm going to have to search the whole blog and see how many of them contain the phrase "somebody asked a question on the [*Electrical Engineering* StackExchange.](https://electronics.stackexchange.com/)
+Someday I'm going to have to search the whole blog and see how many of them contain the phrase "somebody asked a question on the [*Electrical Engineering* StackExchange.](https://electronics.stackexchange.com/)"
 
 However many there are, this is another.
 
