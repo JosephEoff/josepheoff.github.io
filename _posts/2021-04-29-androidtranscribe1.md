@@ -68,4 +68,4 @@ Google suprised me with how well the transcriber works.  I tried it out with a m
 
 |Google *Live Transcribe*|
 |------------------------|
-||![Google Live Transcribe](/assets/2021-04-29-androidtranscribe/transcribe.jpg)|
+|![Google Live Transcribe](/assets/2021-04-29-androidtranscribe/transcribe.jpg)|
