@@ -7,7 +7,7 @@ image: /assets/2021-04-29-androidtranscribe/transcribe.jpg
 ---
 An aid for the hard of hearing.
 
-There was a question on the [*Electrical Engineering* StackExchange.](https://electronics.stackexchange.com/) recently that I thought was worth a little time and effort.
+There was a question on the [*Electrical Engineering* StackExchange](https://electronics.stackexchange.com/) recently that I thought was worth a little time and effort.
 
 It has taken me a couple of days to get around to it, but I found time to look at how you can use [Google "Live Transcribe"](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=en&gl=US) to put "closed captions" on a phone call.
 
