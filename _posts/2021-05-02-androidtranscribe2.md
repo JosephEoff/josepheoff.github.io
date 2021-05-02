@@ -132,6 +132,6 @@ With the electrical parts all cleared up, the question now is "What's the best w
 
 There's a couple of ways to build them, and I'm not sure which is easiest and cheapest.  I suspect "cheapest" will depend on what is readily available to the folks who need the adapters.  I'll have to check with the person who started this to see which way is best.
 
-In my next post, I'll describe a couple of way that this could be built.  The problems from here on out are all mechanical, and depend on what parts are available.
+In my next post, I'll describe a couple of ways that this could be built.  The problems from here on out are all mechanical and depend on what parts are available.
 
 <sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
