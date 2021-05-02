@@ -47,6 +47,7 @@ Electrically, an attenuator is very simple:
 |Android attenuator|
 |------------------|
 |![Android attenuator](/assets/2021-04-29-androidtranscribe/attenuator.png)|
+|**2021-05-02 Note:** This is **NOT** a complete circuit. This is a section of the needed circuit, but not all of it.|
 
 It also solves the minumum resistance problem so that the phone will recognize that the microphone is connected.
 
