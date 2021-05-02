@@ -7,6 +7,8 @@ image: /assets/2021-05-02-androidtranscribe2/test.jpg
 ---
 Electrically functional, but not quite ready for prime time.
 
+<sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
+
 I had a look at the task a couple of days ago, and made some notes on what needed to be done.  I hadn't intended the sketches to be used - they were concept sketches to show the principle behind the needed circuitry and to explain why a simple lash-up with Y-adapters wouldn't work.
 
 This evening, I dug out some parts and hunted down some references then drew up a circuit that **will** work.
@@ -132,3 +134,4 @@ There's a couple of ways to build them, and I'm not sure which is easiest and ch
 
 In my next post, I'll describe a couple of way that this could be built.  The problems from here on out are all mechanical, and depend on what parts are available.
 
+<sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>

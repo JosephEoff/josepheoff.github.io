@@ -13,4 +13,5 @@ It has taken me a couple of days to get around to it, but I found time to look a
 
 It's going to take a little explaining and organizing to make a simple and robust adapter, so I've put up a table of contents along with the first post.
 
-0. [Transcribing phone calls with Google *Live Transcribe* - A first look](androidtranscribe1) - It ain't rocket science, but it ain't trivial, either.
+0. [Transcribing phone calls with Google Live Transcribe - A first look](androidtranscribe1) - It ain't rocket science, but it ain't trivial, either.
+1. [Transcribing phone calls with Google Live Transcribe - A prototype and a test](androidtranscribe2) - Electrically functional, but not quite ready for prime time.

@@ -7,6 +7,8 @@ image: /assets/2021-04-29-androidtranscribe/transcribe.jpg
 ---
 It ain't rocket science, but it ain't trivial, either.
 
+<sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
+
 Someday I'm going to have to search the whole blog and see how many of them contain the phrase "somebody asked a question on the [*Electrical Engineering* StackExchange.](https://electronics.stackexchange.com/)"
 
 However many there are, this is another.
@@ -70,3 +72,5 @@ Google suprised me with how well the transcriber works.  I tried it out with a m
 |Google *Live Transcribe*|
 |------------------------|
 |![Google Live Transcribe](/assets/2021-04-29-androidtranscribe/transcribe.jpg)|
+
+<sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
