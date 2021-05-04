@@ -13,5 +13,13 @@ It has taken me a couple of days to get around to it, but I found time to look a
 
 It's going to take a little explaining and organizing to make a simple and robust adapter, so I've put up a table of contents along with the first post.
 
+Note:
+- This will be a sort of round about trip to find an optimal solution. I will include all of my experiments here.
+- Early experiments and circuits may be non-functional or non-optimal.
+- If you are following along as I make each post, remember that any given circuit may be partial or may not work well.
+
+I'll make it clear when I have arrived at what I think is a good, workable circuit and solution.
+The first part to solve is the electrical circuit.  The second part is making it easy to reproduce by hand in small numbers.  I don't think this will be a large enough product that it would make sense to have them manufactured in a factory.  Easy access to common parts and a simple mechanical construction will be needed.
+
 0. [Transcribing phone calls with Google Live Transcribe - A first look](androidtranscribe1) - It ain't rocket science, but it ain't trivial, either.
 1. [Transcribing phone calls with Google Live Transcribe - A prototype and a test](androidtranscribe2) - Electrically functional, but not quite ready for prime time.
