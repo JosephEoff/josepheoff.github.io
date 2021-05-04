@@ -29,7 +29,8 @@ Here's the circuit I settled on:
 
 |Transcription adapter circuit|
 |-----------------------------|
-|![Transcription adapter circuit](/assets/2021-05-02-androidtranscribe2/attenuator_complete.png)
+|![Transcription adapter circuit](/assets/2021-05-02-androidtranscribe2/attenuator_complete.png)|
+|**Edit 2021-05-04 Note:** *This circuit works, but is not optimal.  I will post a better version soon.*|
 
 I'm sure you can see the similarity with the [example circuit I drew in my last post.](androidtranscribe1)
 
