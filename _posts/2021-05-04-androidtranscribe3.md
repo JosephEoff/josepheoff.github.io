@@ -13,7 +13,7 @@ I noted while working with the transcription adapter a couple of days ago that t
 
 I decided to break out the fancy tools (right - sound card and free software) and see just how bad it really is.
 
-I got out [GNU Radio](https://www.gnuradio.org/) and assembled an audio frequency spectrm analyser using the sound card of my PC.  GNU Radio was actually developed to do digital signal processing on radio frequency signals, but it is just as happy to handle audio. (I've included the GNU Radio Companion "Flowchart" for the [spectrum analyser here](/assets/2021-05-04-androidtranscribe3/Spectrumanalyser.grc) if you would like to have it. You'll also need to [install GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) to use it.  The flowchart is trivial, so it doesn't get a github repository like most of my projects.  It doesn't even get licensed - use it, share it, call it your own.)
+I got out [GNU Radio](https://www.gnuradio.org/) and assembled an audio frequency spectrum analyser using the sound card of my PC.  GNU Radio was actually developed to do digital signal processing on radio frequency signals, but it is just as happy to handle audio. (I've included the GNU Radio Companion "Flowchart" for the [spectrum analyser here](/assets/2021-05-04-androidtranscribe3/Spectrumanalyser.grc) if you would like to have it. You'll also need to [install GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) to use it.  The flowchart is trivial, so it doesn't get a github repository like most of my projects.  It doesn't even get licensed - use it, share it, call it your own.)
 
 For reference, here's the circuit:
 
