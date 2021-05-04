@@ -45,7 +45,7 @@ At any rate, the map was a snap to integrate. Just define the location of the se
 
 I'll use the geographic coordinates when it's time to make the heatmaps of the yard.
 
-I use Mud-Py as a library in the Mud-Py MQTT bridge.  That's a separate program that connects to the MQTT server ot receive the sensor data.  It uses Mud-Py's Django fueled code for access to the database.  It pulls needed information out of the database (which control node should collect data from which sensors) and writes the received sensor data to the database.
+I use Mud-Py as a library in the Mud-Py MQTT bridge.  That's a separate program that connects to the MQTT server to receive the sensor data.  It uses Mud-Py's Django fueled code for access to the database.  It pulls needed information out of the database (which control node should collect data from which sensors) and writes the received sensor data to the database.
 
 The Mud-Py MQTT bridge has less than 200 lines of code, and there's probably about that much more that I actually wrote in Mud-Py itself - Django takes care of the rest.
 
