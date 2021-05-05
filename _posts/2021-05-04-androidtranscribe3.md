@@ -22,7 +22,7 @@ For reference, here's the circuit:
 |![Adapter using the Google recommended values](/assets/2021-05-04-androidtranscribe3/attenuator_not_optimal.png)|
 |This is **NOT** optimal.  Do not use this circuit.|
 
-After constructing my spectrum anaylser, I had a look at what Google's recommended circuit does to the audio signal.  It wasn't pretty.
+After constructing my spectrum analyser, I had a look at what Google's recommended circuit does to the audio signal.  It wasn't pretty.
 
 |Hard of hearing transcription adapter|
 |-------------------------------------|
