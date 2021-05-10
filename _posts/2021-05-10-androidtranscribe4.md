@@ -204,7 +204,7 @@ Try it out, make sure it all works.  Do not continue until it all works properly
 |------------------------------|
 |![Transcription test](/assets/2021-05-10-androidtranscribe4/18.jpg)|
 
-When it all works, glue the electrical parts of the adapter in place inside the box, the close the box.  You might want to glue it shut so that it doesn't pop open on accident while you are using it.
+When it all works, glue the electrical parts of the adapter in place inside the box, then close the box.  You might want to glue it shut so that it doesn't pop open on accident while you are using it.
 
 |All done|
 |------------------------------|
