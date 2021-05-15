@@ -162,7 +162,7 @@ Get a big blob of solder on the tip of the iron.  Leave the solder wire sticking
 
 That blob is your "solder pot."  You'll need to "refill" it from time to time from your roll of solder wire, so keep the solder wire handy.
 
-Now, poke the **point** of one of the wires into the blob.  Use the point because the ends of the strands are already bare and will help heat the lacquer from the inside.  You'll end up with a silverly spot of solder on the very tip of the wire - with all of the strands stuck together because the wire melted inside the copper strands.
+Now, poke the **point** of one of the wires into the blob.  Use the point because the ends of the strands are already bare and will help heat the lacquer from the inside.  You'll end up with a silverly spot of solder on the very tip of the wire - with all of the strands stuck together because the string melted inside the copper strands.
 
 |Tin the tip|
 |---------|
