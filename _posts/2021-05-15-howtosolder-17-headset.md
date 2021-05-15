@@ -265,7 +265,7 @@ When you have the earphones and the ground identified, the wire left over is the
 
 Some headsets have the earphones marked "Left" and "Right."
 
-Identify "Left" and "Right" by putting the each earphone in the correct ear.  Connect the common to the black probe of the multimeter and touch the red probe to one of the earphone wires.
+Identify "Left" and "Right" by putting each earphone in the correct ear.  Connect the common to the black probe of the multimeter and touch the red probe to one of the earphone wires.
 
 The earphone whose wire you touch with the red probe will make a noise.  Note which ear you heard it in, and which wire color it was.  With one earphone identified, you know which side the remaining earphone belongs to as well.
 
