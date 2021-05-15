@@ -202,7 +202,7 @@ The problem is that there's no standard color code telling you which wire is wha
 
 You will have to figure out what each wire is for.  This is where the multimeter and the pencil and paper come in.
 
-Write down a list of the colors.
+Write down a list of the wire colors.
 
 Here's mine:
 
