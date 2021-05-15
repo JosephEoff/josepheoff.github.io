@@ -81,7 +81,7 @@ There is often a thread (non-conducting white string) down the middle of the wir
 |--------------|
 |![Stripped cable](/assets/2021-05-10-androidtranscribe4/3.jpg)|
 
-There are four wires inside the cable.  One wire goes to each of the metal parts of the plug.  Since there is no color coded standard for the wires in the headset cable, you will have to map out the colors yourself.  If you have two difference headsets then you will have to map out both sets of wires.
+There are four wires inside the cable.  One wire goes to each of the metal parts of the plug.  Since there is no color coded standard for the wires in the headset cable, you will have to map out the colors yourself.  If you have two different headsets then you will have to map out both sets of wires.
 
 |Mapping out the cable and plug|
 |------------------------------|
@@ -135,7 +135,7 @@ Tie knots in the cables so that they cannot pull out.  Arrange the knots and the
 |------------------------------|
 |![Knotted cables](/assets/2021-05-10-androidtranscribe4/9.jpg)|
 
-Connect the headphone "Left" and "Right" wires together ("Left" to "Left and "Right" to "Right,) then connect a 1k resistor to each of them (R1 and R2.)
+Connect the headphone "Left" and "Right" wires together ("Left" to "Left and "Right" to "Right,") then connect a 1k resistor to each of them (R1 and R2.)
 
 |Connect "Left" and "Right"|
 |------------------------------|
@@ -174,7 +174,7 @@ Connect the coupling capacitor (C1) to R3.
 |------------------------------|
 |![Coupling capacitor](/assets/2021-05-10-androidtranscribe4/14.jpg)|
 
-Pay attention the the negative stripe on the capacitor.  The the pin indicated by the negative stripe goes towards the resistors (towards the earphones.)
+Pay attention to the negative stripe on the capacitor.  The pin indicated by the negative stripe goes towards the resistors (towards the earphones.)
 
 Connect R5 to C1.
 
