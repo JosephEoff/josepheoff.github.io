@@ -27,8 +27,9 @@ Here are all things it's going to take to show you how to replace a CTIA 4 pole 
 2. [Replacement parts](#replacement-parts)
 3. [The plan](#the-plan)
 4. [Prepare the headset](#prepare-the-headset)
-5. [Map the connections](#map-the-connections)
-6. [Connect the new plug](#connect-the-new-plug)
+5. [Tin the wires](#tin-the-wires)
+6. [Map the connections](#map-the-connections)
+7. [Connect the new plug](#connect-the-new-plug)
 
 # Tools
 
@@ -137,7 +138,7 @@ Do **not** fiddle with the wires.  They are made of fine strands of copper wire 
 
 You **must** tin the wires now, before the strands unwind.
 
-**Tinning the wires:**
+# Tin the wires
 
 **Here's where you really need the fume extractor or fan.**
 
@@ -145,7 +146,7 @@ This is the first tricky part of the whole process.  You cannot use any kind of 
 
 The solution used in factories is a [solder pot.](https://en.wikipedia.org/wiki/Dip_soldering)  That's a heated ceramic pot with molten solder in it.  You just dunk the tips of the wires in the solder and it melts the lacquer off and tins the strands (making them stick together) all in one step.
 
-I don't own a solder pot, and I don't expect you do, either.
+I don't own a solder pot and I don't expect you do, either.
 
 I do have a soldering iron, though - and so do you.  A soldering iron can ["pinch hit"](https://en.wikipedia.org/wiki/Pinch_hitter) for a solder pot.  It isn't as quick and easy as with a solder pot, but it works the same way.
 

@@ -61,6 +61,8 @@ If this is to be your first project using a soldering iron, then I suggest you r
 
 I will be adding a section to the *HowTo: Solder by hand* series describing how to solder the fine stranded wire inside the headset cables.
 
+**2021-05-15:** I've added a post to the *HowTo: Solder by hand* series.  [Take a look here for instructions on replacing an Android headset plug.](howtosolder-17-headset)  Skip straight to [this section](howtosolder-17-headset#tin-the-wires) to see how to tin the fine wires of a headset cable.
+
 You will also need a multimeter - specifically, a meter that can measure resistance.
 
 # Preparation
