@@ -224,7 +224,7 @@ Here are the functions of the four wires in a headset:
 
 The trick here is to match those four colored wires to the four functions.
 
-Common is called that "common" because the other three signals all depend on it.
+Common is called "common" because the other three signals all depend on it.
 
 Each of the earphones is connected to common and to one of the other wires.  Earphones have a resistance of less than a couple of hundred ohms.
 
