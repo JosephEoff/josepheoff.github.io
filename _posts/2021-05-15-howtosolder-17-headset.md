@@ -112,7 +112,7 @@ With the insulation scored all the way around, you can pull it off.
 |---------|
 |![Remove the insulation](/assets/2021-05-15-howtosolder-17-headset/4.jpg)|
 
-Move the knife blade towards the free end, maybe 5 millimeters (3/16 of an inch) from the scored line.  Press cable **hard** between your thumb and the knife blade and pull the blade and the insulation towards the free end.
+Move the knife blade towards the free end, maybe 5 millimeters (3/16 of an inch) from the scored line.  Press the cable **hard** between your thumb and the knife blade and pull the blade and the insulation towards the free end.
 
 The insulation will stretch.  You may need to let go and move the knife blade back closer to the scored line.  Keep pulling until the insulation breaks.
 
