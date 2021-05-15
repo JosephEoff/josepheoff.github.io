@@ -168,7 +168,7 @@ Now, poke the **point** of one of the wires into the blob.  Use the point becaus
 |---------|
 |![Tin the tip](/assets/2021-05-15-howtosolder-17-headset/8.jpg)|
 
-Now stick the wire in so that you get a couple of millimeters (1/16 inch) of the wire is in the solder.  Move the wire back and forth - pull it back so that just the tip is in the solder, then push it slowly in so that the last couple of millimeters are in the solder.  Add fresh solder as you go along.  The lacquer will melt and burn, getting impurities in the solder and using up the flux.  You may need to flick the blob off and make a new one as you go.
+Now stick the wire in so that you get a couple of millimeters (1/16 inch) of the wire in the solder.  Move the wire back and forth - pull it back so that just the tip is in the solder, then push it slowly in so that the last couple of millimeters are in the solder.  Add fresh solder as you go along.  The lacquer will melt and burn, getting impurities in the solder and using up the flux.  You may need to flick the blob off and make a new one as you go.
 
 |Tin the wire|
 |---------|
