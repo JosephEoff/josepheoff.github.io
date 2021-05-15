@@ -91,7 +91,7 @@ You can see it in the picture up there with the tools.  It's coiled up in the lo
 
 With the plug removed, the next step is to remove the outer insulation from the cable so that you can get to the individual wires inside.
 
-I use my pocket knife for this step.  I have a knife with two blades.  On is very sharp, the other is (intentionall) dull.  It is easier to strip wire with a dull blade than with a sharp one.  With a sharp blade, you run the risk of cutting the wire in two - and the risk of cutting into your thumb.
+I use my pocket knife for this step.  I have a knife with two blades.  On is very sharp, the other is (intentionally) dull.  It is easier to strip wire with a dull blade than with a sharp one.  With a sharp blade, you run the risk of cutting the wire in two - and the risk of cutting into your thumb.
 
 The idea is **not** to cut the insulation off of the cable.  The idea is to knick the outside of the insulation, then pull it until it breaks.  This avoids the risk of cutting or scraping the wires inside the cable.
 
