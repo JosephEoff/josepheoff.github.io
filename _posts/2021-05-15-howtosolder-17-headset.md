@@ -102,7 +102,7 @@ The first step is to "score" the insulation all the way around at about 1 centim
 |![Score the insulation](/assets/2021-05-15-howtosolder-17-headset/2.jpg)|
 |![Text](/assets/2021-05-15-howtosolder-17-headset/3.jpg)|
 
-Hold the wire between your thumb and the knife blade, then pull the blade across the insulation in a cutting motion.  Since the blade is dull, it won't cut into the insulation.  Press the knife into the insulation while pulling the blade across it to make a sort groove in the plastic - but do **not** cut the plastic.
+Hold the wire between your thumb and the knife blade, then pull the blade across the insulation in a cutting motion.  Since the blade is dull, it won't cut into the insulation.  Press the knife into the insulation while pulling the blade across it to make a sort of a groove in the plastic - but do **not** cut the plastic.
 
 Do that all the way around the cable.  It doesn't matter if the grooves are all perfectly in a ring around the cable.  They need to be close (1 millimeter maybe 1/16 inch) but it doesn't matter much if the groove wiggles around the cable.  Check the second picture there to see what I mean.
 
