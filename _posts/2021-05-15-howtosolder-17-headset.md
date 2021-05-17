@@ -196,7 +196,7 @@ Turn the temperature of the soldering iron down.  You can even turn it off for n
 
 With the wires all tinned, you can start with the next (slightly) tricky part.
 
-All of the wires have colored insulation (counting "transparent so you can see the color of the copper wire) as a color.)
+All of the wires have colored insulation (counting "transparent so you can see the color of the copper wire" as a color.)
 
 The problem is that there's no standard color code telling you which wire is what.  Every manufacturer does it their own way.
 
