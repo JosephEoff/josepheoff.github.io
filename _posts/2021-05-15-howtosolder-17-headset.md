@@ -102,7 +102,7 @@ The first step is to "score" the insulation all the way around at about 1 centim
 |![Score the insulation](/assets/2021-05-15-howtosolder-17-headset/2.jpg)|
 |![Text](/assets/2021-05-15-howtosolder-17-headset/3.jpg)|
 
-Hold the wire between your thumb and the knife blade, then pull the blade across the insulation in a cutting motion.  Since the blade is dull, it won't cut into the insulation.  Press the knife into the insulation while pulling the blade across it to make a sort groove in the plastic - but do **not** cut the plastic.
+Hold the wire between your thumb and the knife blade, then pull the blade across the insulation in a cutting motion.  Since the blade is dull, it won't cut into the insulation.  Press the knife into the insulation while pulling the blade across it to make a sort of a groove in the plastic - but do **not** cut the plastic.
 
 Do that all the way around the cable.  It doesn't matter if the grooves are all perfectly in a ring around the cable.  They need to be close (1 millimeter maybe 1/16 inch) but it doesn't matter much if the groove wiggles around the cable.  Check the second picture there to see what I mean.
 
@@ -196,7 +196,7 @@ Turn the temperature of the soldering iron down.  You can even turn it off for n
 
 With the wires all tinned, you can start with the next (slightly) tricky part.
 
-All of the wires have colored insulation (counting "transparent so you can see the color of the copper wire) as a color.)
+All of the wires have colored insulation (counting "transparent so you can see the color of the copper wire" as a color.)
 
 The problem is that there's no standard color code telling you which wire is what.  Every manufacturer does it their own way.
 
@@ -224,7 +224,7 @@ Here are the functions of the four wires in a headset:
 
 The trick here is to match those four colored wires to the four functions.
 
-Common is called that "common" because the other three signals all depend on it.
+Common is called "common" because the other three signals all depend on it.
 
 Each of the earphones is connected to common and to one of the other wires.  Earphones have a resistance of less than a couple of hundred ohms.
 
