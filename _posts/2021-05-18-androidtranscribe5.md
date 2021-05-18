@@ -58,6 +58,7 @@ First connect R1 and R2 (1k each) to the earphone solder tabs.
 |Connect R1 and R2|
 |-----------------|
 |![Connect R1 and R2](/assets/2021-05-18-androidtranscribe5/3.jpg)|
+|Note that I have shortened the "microphone" solder tab.  There is barely enough space inside the connector shell for the needed parts.|
 |![Connect R1 and R2](/assets/2021-05-18-androidtranscribe5/4.jpg)|
 |Connect the free ends together while you are at it.|
 
