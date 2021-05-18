@@ -66,6 +66,6 @@ The images above involved some twiddling of the output levels to get a clean tra
 
 It's fun to fiddle with, and it's better than nothing if you don't own a good meter - just don't trust it with anything critical.
 
-I'll write up a clean How-To on the [simple impedance tester GuitHub page,](https://github.com/JosephEoff/Simple-impedance-tester) but that's a task for another day.
+I'll write up a clean How-To on the [simple impedance tester GitHub page,](https://github.com/JosephEoff/Simple-impedance-tester) but that's a task for another day.
 
 <sub>[Learning about GNU Radio - Table of Contents](1gnuradio-toc)</sub> 

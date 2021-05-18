@@ -24,4 +24,5 @@ The first part to solve is the electrical circuit.  The second part is making it
 0. [Transcribing phone calls with Google Live Transcribe - A first look](androidtranscribe1) - It ain't rocket science, but it ain't trivial, either.
 1. [Transcribing phone calls with Google Live Transcribe - A prototype and a test](androidtranscribe2) - Electrically functional, but not quite ready for prime time.
 2. [Transcribing phone calls with Google Live Transcribe - Measurements and optimization](androidtranscribe3) - Making sure that *Live Transcribe* can hear properly.
-2. [Transcribing phone calls with Google Live Transcribe - An adapter made from common parts](androidtranscribe4) - Not the cheapest way but certainly a reproducible way.
+3. [Transcribing phone calls with Google Live Transcribe - An adapter made from common parts](androidtranscribe4) - Not the cheapest way but certainly a reproducible way.
+4. [Transcribing phone calls with Google Live Transcribe - A properly functioning loop-back adapter](androidtranscribe4) - A CTIA four pole plug and a few spare parts.

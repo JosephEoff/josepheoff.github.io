@@ -63,7 +63,7 @@ Like this:
 |------------------|
 |![Mud-Py sensor data](/assets/2021-03-11-soilmoisture-4/mud-py-sensordata.png)|
 
-Mud-Py itself doesn't know bean about the sensors, their names, or the measurement units.  It has tables and fields for that stuff, but it expects the user to enter it.  In the case of the Mud-Py MQTT bridge, the bridge itself knows what its sensor can do so it fills in the needed stuff in the database then links it in with the sensor data - the sensor type names and the units were created by the bridge the first time the sensor data hit it.
+Mud-Py itself doesn't know bean about the sensors, their names, or the measurement units.  It has tables and fields for that stuff, but it expects the user to enter it.  In the case of the Mud-Py MQTT bridge, the bridge itself knows what its sensors can do so it fills in the needed stuff in the database then links it in with the sensor data - the sensor type names and the units were created by the bridge the first time the sensor data hit it.
 
 That's the current state of the soil moisture monitoring project - making progress.
 
