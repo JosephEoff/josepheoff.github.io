@@ -91,7 +91,7 @@ On the floor there in front are some pieces of tongue and groove flooring from t
 |----|
 |![Roof](/assets/2021-05-21-firewoodrack/13.jpg)|
 
-The rack is done, and ready to be taken outside.  There one the floor are the scraps left over from building this project out of leftovers.  A few stumps of wood, and a couple of meters of tar paper.
+The rack is done, and ready to be taken outside.  There on the floor are the scraps left over from building this project out of leftovers.  A few stumps of wood, and a couple of meters of tar paper.
 
 |Bad idea|
 |--------|
@@ -107,6 +107,6 @@ It is partly under the roof of the garage, so it'll be fine.
 
 I can still squeeze in between the rack and the shed to get to the rain barrel, so that's OK.
 
-One firewood rack, price 0€ and six hours of exercise.
+One firewood rack, price 0€ and an afternoon of exercise.
 
 
