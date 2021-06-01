@@ -54,7 +54,7 @@ That's a 0.04 µF capacitor (40nF.)  It's spot on at higher frequencies, but dro
 
 I've always known that inductors and capacitors were far from ideal, but I had no idea they were far enough from ideal to detect with relatively crude methods.
 
-That's about it for today.  An LCR meter for a the price of few pieces of wire.
+That's about it for today.  An LCR meter for the price of a few pieces of wire.
 
 ------------------
 
