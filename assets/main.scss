@@ -4,6 +4,7 @@
 
 @import "minima";
 
+
 .site-title::before {
 content: url({{ site.site_logo }});
 display: inline-block;
