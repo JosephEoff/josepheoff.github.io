@@ -192,7 +192,7 @@ Connect the external microphone select resistor (R4, 2k) between R5 and ground.
 
 Connect the "transcribe" plug to the attenator.
 
-The microphone wire goes to the junction of R4 and R5, while the ground wire goes to the other end of R5 (that's the ground of the other headset.)
+The microphone wire goes to the junction of R4 and R5, while the ground wire goes to the other end of R4 (that's the ground of the other headset.)
 
 |Connect the "transcribe" output|
 |------------------------------|
