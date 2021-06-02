@@ -33,7 +33,7 @@ Here are all things it's going to take to show you how to replace a CTIA 4 pole 
 
 # Tools
 
-There's two parts to this job - figuring out the which wire goes where, and connecting the wires to the new plug.
+There's two parts to this job - figuring out which wire goes where, and connecting the wires to the new plug.
 
 You'll need the following tools:
 
