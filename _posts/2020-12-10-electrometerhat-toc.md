@@ -17,5 +17,5 @@ I've settled on something that lacks pumpkins, but doubles down on spooky:  A ha
 
 
 1. [A hat full of electrometers - Testing the first electrometer](electrometerhat1) - A miniature, gold plated electrometer.
-2. [A hat full of electrometers - Mass production](electrometerhat1) - A bunch of electrometers in need of a hat.
+2. [A hat full of electrometers - Mass production](electrometerhat2) - A bunch of electrometers in need of a hat.
 
