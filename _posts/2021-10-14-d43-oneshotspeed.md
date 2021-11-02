@@ -19,7 +19,7 @@ The only way to find out is to try it and see.
 
 To try it, you have to have a source of one shot signals of very short duration.
 
-Since the D43 fastest sweep time on the D43 is 0.5 microseconds per division, a pulse a couple of microseconds long should do just fine.
+Since fastest sweep time on the D43 is 0.5 microseconds per division, a pulse a couple of microseconds long should do just fine.
 
 My home lab is rather short on high speed anything, but rather long on typical hobbyist stuff - like the ubiquitous Arduino.
 
