@@ -22,7 +22,7 @@ All that's missing is a carved image on the front.  I **still** haven't decided 
 
 At any rate, here's what it took to get it to where it is.
 
-I've had a fair idea what I wanted the lamp to look like every since I bought salt block.  To make the base, I made a few measurements and then sketched things out.  The plan was always to make the base out of beech.  Most of the furniture my wife and I have in the house is made of beech, and I use a lot of what's known as beech "leimholz" here in Germany.  It's made of strips of beech about 4cm wide (maybe two inches) that are glued, clamped, and planed into sheets in various lengths and widths.
+I've had a fair idea what I wanted the lamp to look like every since I bought the salt block.  To make the base, I made a few measurements and then sketched things out.  The plan was always to make the base out of beech.  Most of the furniture my wife and I have in the house is made of beech, and I use a lot of what's known as beech "leimholz" here in Germany.  It's made of strips of beech about 4cm wide (maybe two inches) that are glued, clamped, and planed into sheets in various lengths and widths.
 
 |Beech scraps and sketches|
 |![Beech scraps and sketches](/assets/2020-04-26-saltlamp_base/base1.jpg)|
