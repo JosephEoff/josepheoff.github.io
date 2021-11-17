@@ -4,6 +4,7 @@ title: "HowTo: Solder by hand - Soldering simple SMD parts"
 categories: [blog]
 mathjax: false
 image: /assets/2020-02-27-howtosolder-11soldersmdpassive/1206-12.jpg
+description: Detailed instructions for soldering SMD passive components. All steps with detailed photos. 
 ---
 Anything you can see, you can solder.
 
