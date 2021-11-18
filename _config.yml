@@ -2,8 +2,8 @@ title: JRE's Project Blog
 description: A place to talk about my projects
 url: https://josepheoff.github.io
 author: 
-  name: Joseph R. Eoff
-  url: https://josepheoff.github.io
+  name: "Joseph R. Eoff"
+  url: "https://josepheoff.github.io/"
 logo: "/assets/favicon.png"
 theme: minima
 show_excerpts: true
