@@ -6,7 +6,7 @@ mathjax: false
 description: "Designing, cutting, and sewing leather to make a phone holster."
 image: /assets/2021-12-14-phoneholster/8a.jpg
 --- 
-A leather phone holster for my Motorola G8 Android Smartphone.
+A leather phone holster for my Motorola G8 Android smartphone.
 
 The whole point of the [Adler class 8 sewing machine](adler-toc) that I've been working on for the last few months was to make things of leather with it.
 
