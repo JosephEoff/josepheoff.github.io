@@ -4,7 +4,7 @@ title: "Black, gold, and blue"
 categories: [blog]
 mathjax: false
 description: "Designing, cutting, and sewing leather to make a phone holster."
-image: /assets/2021-12-05-pfaff-262-zigzag/1.jpg
+image: /assets/2021-12-14-phoneholster/8a.jpg
 --- 
 A leather phone holster for my Motorola G8 Android Smartphone.
 
@@ -58,7 +58,7 @@ I dyed the leather black then marked the decorative seams on the front piece.  T
 |----------|
 |![Decorating the front](/assets/2021-12-14-phoneholster/4.jpg)|
 
-The lines are hard to see in the photograph, and they are even harder to see when you are squinting through the dark gap in the presser foot.  I lost track of the lines a couple of times, resulting in funky curves.  Sewing leather isn't like sewing normal material.  If you mess up a seam while sewing cloth, you can pick it out and do it again.  A messed up seam in leather is there to stay.  The only way to fix it is to toss the messed up piece of leather and start again.
+The lines are hard to see in the photograph, and they are even harder to see when you are squinting through the dark gap in the presser foot.  I lost track of the lines a couple of times, resulting in funky curves.  Sewing leather isn't like sewing normal material.  If you mess up a seam while sewing cloth, you can pick it out and do it again.  A messed up seam in leather is there to stay.  The only way tMaking the slightly undersized holster a tad bigger so that I could use it was o fix it is to toss the messed up piece of leather and start again.
 
 I decided not to sew the straight lines in the decoration.  That would have closed up the design too much - and I think it would have been difficult to get the straight lines to match up to the lobes and still be straight.
 
