@@ -110,7 +110,7 @@ Here's the whole shebang hanging on my belt:
 
 ------
 
-As mentioned above, I had to stretch the leather a bit so that the phone whould go in and come out easily.  I expect I'd have had to do a bit of stretching even if I had left enough space in the folds.
+As mentioned above, I had to stretch the leather a bit so that the phone would go in and come out easily.  I expect I'd have had to do a bit of stretching even if I had left enough space in the folds.
 
 Regardless, you can stretch leather to improve the fit fairly easily.
 
