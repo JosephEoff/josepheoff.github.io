@@ -19,7 +19,7 @@ I got my wife to help me make the band itself out of black cloth last weekend.  
 
 You can't really see the button holes, but they are there.
 
-Once we got it all sewed together, I took it to to my workbench and installed the electometers.
+Once we got it all sewed together, I took it to to my workbench and installed the electrometers.
 
 I soldered the (really limp, silicone insulated) wires to a piece of stiff wire then used it to pull the wiring through the insides of the band.
 
