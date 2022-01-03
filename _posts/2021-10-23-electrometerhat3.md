@@ -27,7 +27,7 @@ I soldered the (really limp, silicone insulated) wires to a piece of stiff wire 
 |-------------------|
 |![Wiring the hat band](/assets/2021-10-23-electrometerhat3/2.jpg)|
 
-It took maybe a half an hour to string them all together.  Contrary to my wife's dire predicitions, I did **not** make a single burn mark on the band.  There's a lot of things I can't do, but I **can** solder.
+It took maybe a half an hour to string them all together.  Contrary to my wife's dire predictions, I did **not** make a single burn mark on the band.  There's a lot of things I can't do, but I **can** solder.
 
 |All strung up and working|
 |-------------------------|
