@@ -58,7 +58,7 @@ Part of the job involves burning the insulation off of the fine wires in the hea
 
 # Replacement parts
 
-You'll need a 4 pole CTIA plug to replace the broken one.  The truth is that often times it is just a wire broken off inside the plug.  The problem is that the insulation on the plugs are usually injection molded onto them.  That works much better and is more reliable than the screwed on covers of the replacement plugs, but you can't remove and replace the molded insulation.
+You'll need a 4 pole CTIA plug to replace the broken one.  The truth is that often times it is just a wire broken off inside the plug.  The problem is that the insulation on the plugs is usually injection molded onto them.  That works much better and is more reliable than the screwed on covers of the replacement plugs, but you can't remove and replace the molded insulation.
 
 The replacement plugs can be made in different ways:
 
