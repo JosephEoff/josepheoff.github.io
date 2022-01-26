@@ -136,9 +136,9 @@ Of all our machines, the Pfaff 31 is best suited for fine cloth and thread - I'v
 
 The AEG was completely off kilter.
 
-The bobbin case was adjusted to about 25 grams while the lowest tension setting for the upper tension is about 45 grams.  The upper tension adjustment has stops at zero and nine.  Turned all the way down to zero, the upper tension was reading 45 grams.
+The bobbin case was adjusted to about 25 grams while the lowest setting for the upper thread tension is about 45 grams.  The upper tension adjustment has stops at zero and nine.  Turned all the way down to zero, the upper thread tension was reading 45 grams.
 
-There was no way to adjust the upper tension to match the bobbin case tension.
+There was no way to adjust the upper thread tension to match the bobbin case tension.
 
 The solution here was to adjust the bobbin case tension. 
 1. Set the upper tension to mid-scale (the AEG ranges from zero to nine, so set it to five.)
