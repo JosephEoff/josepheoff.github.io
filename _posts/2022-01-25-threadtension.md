@@ -149,6 +149,8 @@ The solution here was to adjust the bobbin case tension.
 |-------------------------|
 |![Adjust the bobbin tension](/assets/2022-01-25-threadtension/8.jpg)|
 
+Tighten the screw for higher tension, loosen the screw for lower tension.
+
 You mostly shouldn't need to adjust the bobbin case tension. A thicker or thinner thread changes the tension up or down, and you can compensate for that with the upper tension adjustment.
 
 Sometimes you'll get a bobbin case on a used machine that has been incorrectly adjusted, or some clown at the factory was daydreaming instead of adjusting the bobbin case on your new machine.
