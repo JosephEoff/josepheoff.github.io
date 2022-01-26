@@ -51,7 +51,7 @@ It doesn't matter whether the scale reads in grams, ounces, or milliapples.  All
 
 Starting:
 
-1. Get out you user's guide and thread the machine according to the instructions.  Do it exactly right.
+1. Get out the user's guide for your machine and thread it according to the instructions.  Do it exactly as described.
 2. Wind a bobbin with thread and load the bobbin into your machine according to the instructions.
 3. Follow the instructions for pulling the lower thread up for use.
 
