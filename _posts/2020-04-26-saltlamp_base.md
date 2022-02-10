@@ -9,7 +9,7 @@ A crooked base for a crooked salt block.
 
 <sub>[The salt block lamp - Table of Contents](1-saltlamp-toc)</sub> 
 
-I've been working on the lamp again.  In truth, I've been working on it on and off ever since the [last post.](saltlampcutting)  I just haven't taken the time to write about it - the intermdiate steps aren't interesting by themselves.
+I've been working on the lamp again.  In truth, I've been working on it on and off ever since the [last post.](saltlampcutting)  I just haven't taken the time to write about it - the intermediate steps aren't interesting by themselves.
 
 I finished the base this afternoon, so I figured it was time to post an update.  The lamp itself is finished - the salt block mounted in its base, and the light installed and wired.
 
