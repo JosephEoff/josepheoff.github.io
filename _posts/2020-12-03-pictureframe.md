@@ -80,6 +80,7 @@ I had a piece of plexiglas cut to size, along with a piece of 3 millimeter thick
 I think you can figure out where all the parts go if I just show the pictures, so I'll just put them in and explain the things you can't see in the pictures.
 
 |Partially assembled - front|
+|---------------------------|
 |![Partially assembled - front](/assets/2020-12-03-pictureframe/front.jpg)|
 
 The only thing to explain here is that I should have put a third pine strip down the middle instead of just along the edges.  The plexiglas and the plywood bow inwards because they are so thin.  I've since added that third strip, and it really helps to keep the picture flat.  The cypress frame had three strips - for some reason I only bought two when I was gathering materials for the alder frame.
