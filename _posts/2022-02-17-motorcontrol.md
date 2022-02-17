@@ -8,7 +8,7 @@ image: /assets/2022-02-17-motorcontrol/sketch.png
 ---
 Ideas for taming my Adler.
 
-I've been doing a lot of mechanical stuff lately, mostly to do with sewing machines - such as my [Adler class 8](adler-toc) or the [Pfaff 31](pfaff31-toc) for my daughter.
+I've been doing a lot of mechanical stuff lately, mostly to do with sewing machines, such as my [Adler class 8](adler-toc) or the [Pfaff 31](pfaff31-toc) for my daughter.
 
 It might seem like I've given up on electronics entirely, but that's not true.  All the while I've been working on the sewing machines, I've been chewing over a rather unpleasant consequence of the Adler's construction and how it affects its use for sewing leather and other materials when driven by an electric motor.
 
@@ -16,7 +16,7 @@ The Adler was intended to be **fast** - the manufacturer said it would do 1200 s
 
 The consequence of that design is that it sews damned fast from a relatively slow motor speed.
 
-The motor speed controllers on the commonly available sewing machine motors don't have much finesse.  In fact, I find that the lowest speed the controller can do on my Adler is still **way** too fast for me.  The slowest speed is useable when sewing leather because the load bogs down the motor - the controllers are just big resistors that limit the current rather than controlling the speed.
+The motor speed controllers on the commonly available sewing machine motors don't have much finesse.  In fact, I find that the lowest speed the controller can do on my Adler is still **way** too fast for me.  The slowest speed is useable when sewing leather because the load bogs down the motor - the controllers are just big resistors that limit the current rather than controlling the speed.  Cloth is no load, and the Adler **flies** - unfortunately too fast for me to keep up with.
 
 I could just stick to sewing leather with the Adler and borrow the Pfaff 262 from my wife for those times when I need to sew regular cloth, but that still leaves me with another problem.
 
