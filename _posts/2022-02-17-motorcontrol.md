@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Musings on motor speed control for universal motors"
+title: "A sewing machine motor speed control - Musings on motor speed control for universal motors"
 categories: [blog]
 mathjax: false
-description: "Ideas for closed loop control a small universal motors."
+description: "Ideas for closed loop control of small universal motors."
 image: /assets/2022-02-17-motorcontrol/sketch.png
 ---
 Ideas for taming my Adler.
+
+<sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub>
 
 I've been doing a lot of mechanical stuff lately, mostly to do with sewing machines, such as my [Adler class 8](adler-toc) or the [Pfaff 31](pfaff31-toc) for my daughter.
 
@@ -70,3 +72,4 @@ Connect a foot pedal with a potentiometer to the microcontroller, then program t
 
 I'll be doing some experiments and collecting parts in the coming weeks.  It shouldn't take too long to come up with a completed circuit that is useful and safe.
 
+<sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub>
