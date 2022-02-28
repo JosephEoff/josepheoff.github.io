@@ -21,3 +21,4 @@ This series of posts is about concepts in motor speed control and designing a co
 
 0. [A sewing machine motor speed controller - Musings on motor speed control for universal motors](motorcontrol) - Ideas for taming my Adler.
 1. [A sewing machine motor speed controller - Basic ideas on how not to make a motor speed control](motorcontrol1) - Simple but not really useful.
+2. [A sewing machine motor speed control - A MOSFET source follower as a motor speed control](motorcontrol2)- Better, but far from good.
