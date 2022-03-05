@@ -54,7 +54,7 @@ void loop() {
 
 ```
 
-I'm using the [TimerOne library](https://github.com/PaulStoffregen/TimerOne) because it allows higher pulse width modulation frequencies than the standard Arduino "analogWrite" command.  It also allows finer steps.  The standard Arduino PWM has 255 steps.  TimerOne uses 1023 steps, which makes it a snap to control with the potentiometer.  The finer steps allow for finer control.  The higher frequencies let it run without an audible "squeal."  At low speed and a low PWM frequency, motors make an audible noise - you don't want to listen to "squeeeeee" all the time while sewing.
+I'm using the [TimerOne library](https://github.com/PaulStoffregen/TimerOne) because it allows higher pulse width modulation frequencies than the standard Arduino "analogWrite" command.  It also allows finer steps.  The standard Arduino PWM has 255 steps.  TimerOne uses 1023 steps, which makes it a snap to control with the potentiometer. The higher frequencies let it run without an audible "squeal."  At low speed and a low PWM frequency, motors make an audible noise - you don't want to listen to "squeeeeee" all the time while sewing.
 
 The potentiometer varies the voltage from 0V to 5V.  The Arduino has a 10 bit analog to digital converter - the values vary from 0 to 1023 over the 0V to 5V range.  Read the analog input once in a while, write the same value to the pulse width modulation output.  Easy.
 
