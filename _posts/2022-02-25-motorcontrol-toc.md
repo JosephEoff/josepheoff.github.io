@@ -23,3 +23,4 @@ This series of posts is about concepts in motor speed control and designing a co
 1. [A sewing machine motor speed controller - Basic ideas on how not to make a motor speed control](motorcontrol1) - Simple but not really useful.
 2. [A sewing machine motor speed control - A MOSFET source follower as a motor speed control](motorcontrol2)- Better, but far from good.
 3. [A sewing machine motor speed control - A simple pulse width modulation driver as a motor speed control](motorcontrol3) - One step forward and one step back.
+4. [A sewing machine motor speed control - A pulse width modulation driver with feedback as a motor speed control](motorcontrol4) - Moving forwards again. 
