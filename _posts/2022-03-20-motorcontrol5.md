@@ -28,6 +28,66 @@ That's a large step in the direction I want things to go.
 
 If you look closely at the video, you may notice that I'm using the same circuit as in the [last post.](motorcontrol2)  That's because the only difference this time around was the software.
 
+Here's the current program:
+
+```C++
+#include <TimerOne.h>
+#include <AutoPID.h>
+
+#define PWM_PIN 9
+#define period 50 //20kHz
+
+#define OUTPUT_MIN 0
+#define OUTPUT_MAX 1023
+#define KP 2
+#define KI 10
+#define KD 3
+
+
+
+double potentiometerValue;
+double PWMValue = 0;
+double BEMFValue = 0;
+int difference = 0;
+int highSide = 0;
+int lowSide = 0;
+
+AutoPID MotorPID(&BEMFValue, &potentiometerValue, &PWMValue, OUTPUT_MIN, OUTPUT_MAX, KP, KI, KD);
+
+void setup() {
+  Serial.begin(1000000);
+  while (!Serial) {
+    ; // wait for serial port to connect. Needed for native USB port only
+  }
+  pinMode(PWM_PIN, OUTPUT);
+  Timer1.initialize(period);
+  Timer1.pwm(PWM_PIN,5);
+  MotorPID.setBangBang(75);
+  MotorPID.setTimeStep(10);
+}
+
+void loop() {
+  Timer1.pwm(PWM_PIN, 0); //Stop PWM to read the BEMF
+  delayMicroseconds(50);
+  potentiometerValue = analogRead(A0); 
+
+  highSide = analogRead(A1);
+
+  lowSide = analogRead(A2);
+  
+  BEMFValue = (BEMFValue + (highSide - lowSide))/2;
+  
+
+  MotorPID.run();
+
+  Timer1.pwm(PWM_PIN, (int)PWMValue);
+  delayMicroseconds(10000);
+}
+```
+The biggest thing is that I've thrown out my naive algorithm and put a PID controller in its place.  That necessitated some changes to the timing but for the most part it simplified the code drastically.
+
+I don't think the gain values for the proportional, integral and derivative parts are really all that optimal.  They work to some extent, but somebody who knows how to do it would probably have a fit.
+
 I'm still using two ADCs to measure the back EMF from the motor.  That's not going to be manageable in the final circuit.  The final circuit will have to measure anything from 0VDC to over 300VDC.  There are isolated voltage sensors available that could do the job, but I'd need two of them -and I'd still need to periodically stop the PWM signal to measure the back EMF.
 
 What I want is to measure the back EMF using the motor current so that I only need one isolated sensor and don't have to stop the PWM to measure the back EMF.
