@@ -8,6 +8,8 @@ image: /assets/2022-03-07-motorcontrol4/1.jpg
 ---
 Getting closer.
 
+<sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub> 
+
 The last time around, I described a motor controller using feedback from the back EMF of the motor.  The control algorithm was rather naive, so it didn't react well to changes in the load.
 
 I spent a few minutes on a Sunday afternoon a couple of weeks ago putting the [AutoPID](https://www.arduino.cc/reference/en/libraries/autopid/) library in my simple Arduino program.
