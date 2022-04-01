@@ -100,6 +100,6 @@ Not tonight, though.  It's already way to late in the day to be starting somethi
 
 ------
 
-I'm going to have to find a better way to tune the PID controller.  All the descriptions I could find were "take a guess, try it out, change it, keep trying until it behaves like you want it."  I really dislike that kind of approach.  Somewhere there has to be a more methodical way to do it.  I'm going to have to find it before I built the real controller for the sewing machine motor.  "Try crap at random for a couple of hours" doesn't sound like a good idea when trying things out means wasting material (cloth, leather, and thread) to do it.
+I'm going to have to find a better way to tune the PID controller.  All the descriptions I could find were "take a guess, try it out, change it, keep trying until it behaves like you want it."  I really dislike that kind of approach.  Somewhere there has to be a more methodical way to do it.  I'm going to have to find it before I build the real controller for the sewing machine motor.  "Try crap at random for a couple of hours" doesn't sound like a good idea when trying things out means wasting material (cloth, leather, and thread) to do it.
 
 <sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub> 
