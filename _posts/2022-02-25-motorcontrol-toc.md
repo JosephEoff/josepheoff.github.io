@@ -25,3 +25,4 @@ This series of posts is about concepts in motor speed control and designing a co
 3. [A sewing machine motor speed control - A simple pulse width modulation driver as a motor speed control](motorcontrol3) - One step forward and one step back.
 4. [A sewing machine motor speed control - A pulse width modulation driver with feedback as a motor speed control](motorcontrol4) - Moving forwards again. 
 5. [A sewing machine motor speed control - A pulse width modulation driver with PID as a motor speed control](motorcontrol5) - Getting closer.
+6. [A sewing machine motor speed control - PWM + PID + current measured BEMF = Fail](motorcontrol6) - A failure and a new plan.

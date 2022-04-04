@@ -22,7 +22,7 @@ For reference, here's the circuit I've been fiddling with:
 |---------------------------|
 |![Current feedback controller](/assets/2022-04-01-motorcontrol6/1.jpg)|
 
-It looks a lot like the voltage feedback circuit I used in my last post, but instead of measuring the voltage across the motor, I'm measuring the voltage drop across a 1 ohm resistor in series with the motor.  From the voltage adn the known resistance I can figure the current.  From the current and the known motor resistance (1.5 ohms) I can calculate the voltage across the motor.  
+It looks a lot like the voltage feedback circuit I used in my last post, but instead of measuring the voltage across the motor, I'm measuring the voltage drop across a 1 ohm resistor in series with the motor.  From the voltage and the known resistance I can figure the current.  From the current and the known motor resistance (1.5 ohms) I can calculate the voltage across the motor.
 
 Since the current shouldn't change much, I thought I'd be able to measure the current without stopping the PWM.  It sort of works, but there's too much noise from the commutator in the motor.   The measurements are too noisy to use, and filtering them slows the reaction of the PID controller.  You get either noisy and jumpy (the speed goes up and down all the time at random) or you get somewhat smooth but so laggy there's no point in using the PID controller - the simple, naive controller I first used was slower but smoother and better behaved than the PID controller.
 
