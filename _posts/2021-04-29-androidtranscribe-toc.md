@@ -11,6 +11,8 @@ There was a question on the [*Electrical Engineering* StackExchange](https://ele
 
 It has taken me a couple of days to get around to it, but I found time to look at how you can use [Google "Live Transcribe"](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=en&gl=US) to put "closed captions" on a phone call.
 
+**[Skip the story and jump straight to a description of a functional transcription adapter.](https://josepheoff.github.io/posts/androidtranscribe4)**
+
 It's going to take a little explaining and organizing to make a simple and robust adapter, so I've put up a table of contents along with the first post.
 
 Note:
