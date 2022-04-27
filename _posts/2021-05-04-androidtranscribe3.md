@@ -9,6 +9,8 @@ Making sure that *Live Transcribe* can hear properly.
 
 <sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
 
+**[Skip the story and jump straight to a description of a functional transcription adapter.](https://josepheoff.github.io/posts/androidtranscribe4)**
+
 I noted while working with the transcription adapter a couple of days ago that the circuit Google recommended isn't quite optimal.  There's a noticeable drop below about 1000Hz.
 
 I decided to break out the fancy tools (right - sound card and free software) and see just how bad it really is.
