@@ -9,6 +9,8 @@ Electrically functional, but not quite ready for prime time.
 
 <sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
 
+**[Skip the story and jump straight to a description of a functional transcription adapter.](https://josepheoff.github.io/posts/androidtranscribe4)**
+
 I had a look at the task a couple of days ago, and made some notes on what needed to be done.  I hadn't intended the sketches to be used - they were concept sketches to show the principle behind the needed circuitry and to explain why a simple lash-up with Y-adapters wouldn't work.
 
 This evening, I dug out some parts and hunted down some references then drew up a circuit that **will** work.

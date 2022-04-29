@@ -9,6 +9,8 @@ It ain't rocket science, but it ain't trivial, either.
 
 <sub>[Transcribing phone calls with Google Live Transcribe - Table of Contents](androidtranscribe-toc)</sub>
 
+**[Skip the story and jump straight to a description of a functional transcription adapter.](https://josepheoff.github.io/posts/androidtranscribe4)**
+
 Someday I'm going to have to search the whole blog and see how many posts contain the phrase "somebody asked a question on the [*Electrical Engineering* StackExchange.](https://electronics.stackexchange.com/)"
 
 However many there are, this is another.
