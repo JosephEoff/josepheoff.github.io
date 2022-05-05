@@ -133,7 +133,7 @@ In real life, the transformer probably can't deliver that much current.  It'll s
 
 # Shorted load
 
-Don't short circuit the output of a voltage multiplier.  C1 is all that'S between you and a horrible mess if you short circuit the output.
+Don't short circuit the output of a voltage multiplier.  C1 is all that's between you and a horrible mess if you short circuit the output.
 
 Here I've changed the load resistor fom 1 Mohm to 1 ohm.  I've also increased C1 considerably.
 
