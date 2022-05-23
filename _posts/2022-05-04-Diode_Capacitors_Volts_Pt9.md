@@ -155,7 +155,7 @@ When you have a low impedance multiplier, a short circuit at the load can cause 
 
 Don't take chances while working with this stuff.
 
-- Work with low voltage multipliers until you have a good understanding of how multipliers work.  The low voltage lets you take easily take measurements that would be difficult to make with a high voltage multiplier operating at thousands or tens of thousands of volts.
+- Work with low voltage multipliers until you have a good understanding of how multipliers work.  The low voltage lets you easily take measurements that would be difficult to make with a high voltage multiplier operating at thousands or tens of thousands of volts.
 -  Use good quality parts rated for the voltages and currents you are using.  A failure can be anything from a nuisance to a catastrophic event depending on which part fails and how it fails.
 
 I used a small 9VAC transformer in the earlier parts of this series (when I was building the circuits live.) I've stuck with the low voltage even in the simulations.  The circuits work the same, no matter the voltage - they are just less likely to kill you at low voltage.
