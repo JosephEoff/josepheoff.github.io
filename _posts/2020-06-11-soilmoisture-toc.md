@@ -16,3 +16,4 @@ Here's a list of the soil moisture monitoring posts to date:
 2. [Soil moisture monitoring in a flower garden - A little bit of planning](soilmoisture-2) - What am I doing here, anyhow?
 3. [Soil moisture monitoring in a flower garden - Solar power for the monitoring system](soilmoisture-3) - Assembling a few modules.
 4. [Soil moisture monitoring in a flower garden - The Mud-Py monitoring software](soilmoisture-4) - Django + MQTT = Easy.
+5. [Soil moisture monitoring in a flower garden - An update after a very long pause](soilmoisture-5) - Mysteriouser and mysteriouser.
