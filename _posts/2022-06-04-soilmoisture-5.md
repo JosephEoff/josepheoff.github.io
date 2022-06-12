@@ -72,7 +72,7 @@ The control nodes are programmed to automatically "take a nap" and retry if any 
 
 Searching the internet lead me to a site (somewhere) this last week with the hint that you really need to call WiFi.disconnect() everytime your program is done with the WiFi adapter.  Given the way the timeout works, it isn't practical to call WiFi.disconnect() before doing the "take a nap" bit - you could get into an endless loop of timeouts and trying to disconnect.
 
-What I did was change the WiFi connection routine in the control node software to call WiFi.disconnect() **before** starting the WiFi connection.  This clear away any leftover bits of whatever the WiFi was doing before starting it up again.
+What I did was change the WiFi connection routine in the control node software to call WiFi.disconnect() **before** starting the WiFi connection.  This clears away any leftover bits of whatever the WiFi was doing before starting it up again.
 
 The problem only occurs sporadically, and only when the control nodes are out in the yard - there's no way to debug it on the workbench.
 
