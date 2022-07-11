@@ -10,7 +10,11 @@ Get it right the first time.
 
 [Skip the story telling and go straight to getting things done.](#how-to-adjust-the-thread-tension-with-a-scale)
 
-At the moment, we have four sewing machines in the house.  
+|Use a postage scale for sure-fire thread tension adjustment|
+|-------------|
+|![Use a postage scale for sure-fire thread tension adjustment](/assets/2022-01-25-threadtension/1.jpg)|
+
+At the moment, we have four sewing machines in the house.   
 
 - We have the [Pfaff 262](pfaff-262-zigzag) from the mid 1960s that is my wife's main machine.
 - We have the [Pfaff 31](pfaff31-toc) from about 1939 that I've been restoring for my daughter.
@@ -29,11 +33,7 @@ I spent a couple of hours this evening proving my ideas by adjusting the thread 
 
 To adjust the thread tension on your sewing machine, you need two things: a small scale and the user's guide for your sewing machine.
 
-I use a vintage postage scale that is marked in grams.
-
-|Postage scale|
-|-------------|
-|![Postage scale](/assets/2022-01-25-threadtension/1.jpg)|
+I use a vintage postage scale that is marked in grams.  That's it up there in the first picture.
 
 You can [buy such scales new](https://singer-featherweight.com/products/bobbin-tension-meter) fairly cheaply.  You can [purchase spring scales](https://allstitch.com/products/embroidery-thread-tension-gauge-4005) that do the same job (though they tend to be more expensive.)  You can also scour the fleamarkets, garage sales, and eBay to find a vintage scale to go with your vintage sewing machine.
 
