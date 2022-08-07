@@ -10,7 +10,7 @@ Mmmmmm.  Bagels.
 
 [Click here to see all the Adler class 8 posts.](adler-toc)
 
-I mentioned a [while back](adler-13) that I hadn't been able to locate a modern alternative for the bagel bobbins for the Adler 8, but that I was still looking.
+I mentioned a [while back](adler13) that I hadn't been able to locate a modern alternative for the bagel bobbins for the Adler 8, but that I was still looking.
 
 While I haven't found an exact replacement, I have found something that can be used.  It's not perfect, but it is better than sidelining a beautiful old machine for lack of bobbins.
 
