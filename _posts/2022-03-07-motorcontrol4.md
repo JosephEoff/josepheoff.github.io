@@ -10,7 +10,7 @@ Moving forwards again.
 
 <sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub> 
 
-The pulse width modulation (PWM) scheme I introduced in my last post is an improvement over the previous variable resistor type controllers, but is is still far from good enough.  The PWM setup has no feedback - it regulates power to the motor, not motor speed.
+The pulse width modulation (PWM) scheme I introduced in my last post is an improvement over the previous variable resistor type controllers, but it is still far from good enough.  The PWM setup has no feedback - it regulates power to the motor, not motor speed.
 
 Since I'm using an Arduino Nano with eight analog inputs, feedback is just a matter of a couple of wires and some more code.
 
