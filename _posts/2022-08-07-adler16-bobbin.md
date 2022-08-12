@@ -65,6 +65,7 @@ I've posted this same information on that same [German sewing machine forum](htt
 
 I have written an email to the company that makes the tatting shuttles, asking if they make the bobbins or purchase them.  Maybe I can get a lead on a company that can manufacture bagel bobbins in various sizes.  Stay tuned for further updates.
 
+***Edit:** 2022-08-12 - The company that makes the tatting shuttles wrote back.  They purchase the bobbins from another company.  That other company doesn't produce bobbins in other sizes, and doesn't want to make custom sizes.  Oh, well.  It was worth a try.*
 
 
 
