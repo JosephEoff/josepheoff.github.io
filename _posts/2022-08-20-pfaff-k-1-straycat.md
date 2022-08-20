@@ -14,7 +14,7 @@ There's a small shop here in town that sells sewing supplies and hand made child
 
 When we walked in this morning, her face lit up in a smile - she had something for me, and she'd been waiting for a chance to talk to me about it.
 
-One of her customer had done that typical German thing of removing a sewing machine from its table to use the table for something else.  Rather than scrapping the machine, though, she brought it to the sewing supplies shop and asked my wife'S friend what to do with it.  She kept it, intending to use it as bait.
+One of her customers had done that typical German thing of removing a sewing machine from its table to use the table for something else.  Rather than scrapping the machine, though, she brought it to the sewing supplies shop and asked my wife's friend what to do with it.  She kept it, intending to use it as bait.
 
 She has finally decided that she's never going to get around to fixing up her own Pfaff 30, so she took the Pfaff K from her customer with the intent to offer me the K in return for fixing up her 30.
 
@@ -42,7 +42,7 @@ I do want to show you the Pfaff K, though.
 |-----|
 |![Left](/assets/2022-08-20-pfaff-k-1-straycat/4.jpg)|
 
-It's a pretty machine, and rather dainty - it is smaller than my Adler 8.  I [looked up the serial number,](https://ismacs.net/pfaff/pfaff_manufacture_dates.html) and found that this particular Pfaff K was manufactured in about 1987.
+It's a pretty machine, and rather dainty - it is smaller than my Adler 8.  I [looked up the serial number,](https://ismacs.net/pfaff/pfaff_manufacture_dates.html) and found that this particular Pfaff K was manufactured in about 1897 - it is 125 years old.
 
 It doesn't have any accessories with it - luckily the shuttle is there, though there's no bobbin.
 
@@ -54,9 +54,9 @@ My wife's friend (the one who came to visit) was telling us about what her (adul
 
 I showed her the Pfaff K, and she thought that would be a really nice gift for her daughter for Christmas.
 
-Yay!  I get to fix up the Pfaff K, and give it a good home.  I really don't want to start a collection.  I want to use the one I've got, and help other folks get started with vintage machines.
+Yay!  I get to fix up the Pfaff K and give it a good home.  I really don't want to start a collection.  I want to use the one I've got and help other folks get started with vintage machines.
 
-I've mentioned [elsewhere that vintage sewing machines pick their owners](https://hackaday.io/project/183967-vintage-sewing-machines/log/203412-choosing-a-vintage-sewing-machine-for-hobby-use) - this one managed a sort of three bank ricochet to sink a new owner in the back pocket.  It bounced from its previous owner, to the sewing shop, to me, and from there to the mother of its future owner.
+I've mentioned [elsewhere that vintage sewing machines pick their owners](https://hackaday.io/project/183967-vintage-sewing-machines/log/203412-choosing-a-vintage-sewing-machine-for-hobby-use) - they are rather like cats in that respect.  This one managed a sort of three bank ricochet to sink a new owner in the back pocket.  It bounced from its previous owner, to the sewing shop, to me, and from there to the mother of its future owner.
 
 I have a lot of ideas for this machine. I intend to make it into a portable electric sewing machine - with a vibrating shuttle.  Anachronisms galore.
 
