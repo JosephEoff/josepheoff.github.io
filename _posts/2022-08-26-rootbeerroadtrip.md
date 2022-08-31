@@ -28,8 +28,8 @@ One table for root beer, another for random yummy soft drinks.
 
 |Date|Place|Root beer|Picture|Description|
 |----------------------------------------|
-|    |     |         |       |           |
-
+|   29.08.2022 |  airport, Houston, Texas   |   Barg's      | ![Barg's root beer, fountain](/assets/2022-08-26-rootbeerroadtrip/IMG_20220829_200444_054-01.jpeg) | Unexpected stop - our flight was supposed to be Frankfurt, Germany to Chicago, Illinois.  That flight was canceled and we were rerouted through Houston.  Barg's fountain has a strong vanillia flavor.  Barg's is a national brand. |
+| 30.08.2022   | Lamar, Missouri| A&W  |![A&W root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/IMG_20220829_200444_054-01.jpeg) |A&W is another national brand.  Not bad, not really super.  Just an unsurprising root beer you get anywhere.|
 
 |Date|Place|Soda|Picture|Description|
 |----------------------------------------|
