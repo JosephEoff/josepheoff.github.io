@@ -4,7 +4,7 @@ title: "Root beer roadtrip"
 categories: [blog]
 mathjax: false
 description: "Root beers from Missouri to Georgia."
-image: /assets/2022-08-26-rootbeerroadtrip/1.png
+image: /assets/2022-08-26-rootbeerroadtrip/IMG_20220829_200444_054-01.jpeg
 ---
 A survey of root beer brands from Missouri to Georgia. 
 
