@@ -8,7 +8,7 @@ image: /assets/2022-08-26-rootbeerroadtrip/1.png
 ---
 A survey of root beer brands from Missouri to Georgia. 
 
-My wife an I will be on vacation starting next Monday (29 August, 2022. ) We're going to visit my family in Southwest Missouri for a week or so, then drive east to Georgia to visit the woman my wife has been penpals with for over forty years.
+My wife and I will be on vacation starting next Monday (29 August, 2022. ) We're going to visit my family in Southwest Missouri for a week or so, then drive east to Georgia to visit the woman my wife has been penpals with for over forty years.
 
 Traveling means I won't have time or equipment to fiddle around with electronics or old sewing machines.
 
