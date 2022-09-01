@@ -33,7 +33,7 @@ One table for root beer, another for random yummy soft drinks.
 
 |Date|Place|Soda|Picture|Description|
 |----|-----|----|-------|-----------|
-|31.08.2022|Lamar, Missouri|A&W cream soda, plastic bottle|/assets/2022-08-26-rootbeerroadtrip/3.jpg|Like the root beer, A&W cream soda is OK but not great.|
+|31.08.2022|Lamar, Missouri|A&W cream soda, plastic bottle|/assets/2022-08-26-rootbeerroadtrip/3.jpeg|Like the root beer, A&W cream soda is OK but not great.|
 
 
 ------
