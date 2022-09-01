@@ -14,7 +14,7 @@ Traveling means I won't have time or equipment to fiddle around with electronics
 
 Rather than just let the blog slumber for three weeks, I thought I'd combine our trip with my favorite beverage and the blog.
 
-I've lived in Germany for over thirty years now, I've never developed a taste for beer - despite the innumerable breweries and all the people who tell you how delicious beer is if you just ignore the taste long enough to get used to it.
+I've lived in Germany for over thirty years now, but I've never developed a taste for beer - despite the innumerable breweries and all the people who tell you how delicious beer is if you just ignore the taste long enough to get used to it.
 
 I've maintained my native taste for root beer.  I drink a lot of Coca Cola because there's (almost) no decent root beer to be had in Germany.  I used to be able to buy A&W root beer at a (somewhat) local gas station, but it closed sometime last year and has been torn down.  I never understood why a gas station no where particularly close to any of the American armed forces posts sold root beer, but they did - until they closed.
 
@@ -33,7 +33,7 @@ One table for root beer, another for random yummy soft drinks.
 
 |Date|Place|Soda|Picture|Description|
 |----|-----|----|-------|-----------|
-|    |     |    |       |           |
+|31.08.2022|Lamar, Missouri|A&W cream soda, plastic bottle|/assets/2022-08-26-rootbeerroadtrip/3.jpg|Like the root beer, A&W cream soda is OK but not great.|
 
 
 ------
