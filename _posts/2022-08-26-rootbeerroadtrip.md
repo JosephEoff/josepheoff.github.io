@@ -28,8 +28,9 @@ One table for root beer, another for random yummy soft drinks.
 
 |Date|Place|Root beer|Picture|Description|
 |----|-----|---------|-------|-----------|
-|29.08.2022|airport, Houston, Texas|Barg's root beer, fountain|![Barg's root beer, fountain](/assets/2022-08-26-rootbeerroadtrip/IMG_20220829_200444_054-01.jpeg) |Unexpected stop - our flight was supposed to be Frankfurt, Germany to Chicago, Illinois.  That flight was canceled and we were rerouted through Houston.  Barg's fountain has a strong vanillia flavor.  Barg's is a national brand.|
+|29.08.2022|airport, Houston, Texas|Barg's root beer, fountain|![Barg's root beer, fountain](/assets/2022-08-26-rootbeerroadtrip/IMG_20220829_200444_054-01.jpeg) |Unexpected stop - our flight was supposed to be Frankfurt, Germany to Chicago, Illinois.  That flight was canceled and we were rerouted through Houston.  Barg's fountain has a strong vanilla flavor.  Barg's is a national brand.|
 |30.08.2022|Lamar, Missouri|A&W root beer, plastic bottle|![A&W root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/IMG_20220830_225634_127-01.jpeg) |A&W is another national brand.  Not bad, not really super.  Just an unsurprising root beer you can get anywhere.|
+|2.09.2022|Old Route 66, Gay Parita,Ash Grove, Missouri|Route Beer 66, glass bottle|![Route Beer 66, glass bottle](/assets/2022-08-26-rootbeerroadtrip/4.jpeg)|Specialty root beer, sold only along the old Route 66.  Tastes like root beer hard candy - sweeter, and with a stronger taste of root beer than other brands.|
 
 |Date|Place|Soda|Picture|Description|
 |----|-----|----|-------|-----------|
