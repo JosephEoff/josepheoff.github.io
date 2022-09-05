@@ -32,12 +32,12 @@ One table for root beer, another for random yummy soft drinks.
 |30.08.2022|Lamar, Missouri|A&W root beer, plastic bottle|![A&W root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/IMG_20220830_225634_127-01.jpeg) |A&W is another national brand.  Not bad, not really super.  Just an unsurprising root beer you can get anywhere.|
 |2.09.2022|Old Route 66, Gay Parita Sinclair gas station, Ash Grove, Missouri|Route Beer 66, glass bottle|![Route Beer 66, glass bottle](/assets/2022-08-26-rootbeerroadtrip/4.jpeg)|Specialty root beer, sold only along the old Route 66.  Tastes like root beer hard candy - sweeter, and with a stronger taste of root beer than other brands.|
 |3.09.2022|Hollister, Missouri|OKC root beer, can|![OKC root beer, can](/assets/2022-08-26-rootbeerroadtrip/5.jpeg)|"Craft" root beer made in Oklahoma.  Tastes good.|
-
+|4.09.2022|Branson, Missouri|MUG root beer, plastic bottle|![MUG root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/6.jpeg)|Another national brand.  Ok.|
 
 |Date|Place|Soda|Picture|Description|
 |----|-----|----|-------|-----------|
 |31.08.2022|Lamar, Missouri|A&W cream soda, plastic bottle|![A&W cream soda, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/3.jpeg)|Like the root beer, A&W cream soda is OK but not great.|
-
+|5.09.2022|Mountain View, Missouri|Fitz's black cherry, glass bottle|![Fitz's black cherry, glass bottle](/assets/2022-08-26-rootbeerroadtrip/7.jpeg)|I think it tastes more like maraschino cherries, but whatever kind of cherry flavor it is, it is **good**.  Some vanilla snuck in with the cherries - yummy.  Despite Fitz's being a Missouri brand, I'd never heard of it before. The company is from St. Louis, Missouri, but going by the deposit charges marked on the bottle it is sold all over the USA.|
 
 ------
 
