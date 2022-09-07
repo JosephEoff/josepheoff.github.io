@@ -33,6 +33,8 @@ One table for root beer, another for random yummy soft drinks.
 |2.09.2022|Old Route 66, Gay Parita Sinclair gas station, Ash Grove, Missouri|Route Beer 66, glass bottle|![Route Beer 66, glass bottle](/assets/2022-08-26-rootbeerroadtrip/4.jpeg)|Specialty root beer, sold only along the old Route 66.  Tastes like root beer hard candy - sweeter, and with a stronger taste of root beer than other brands.|
 |3.09.2022|Hollister, Missouri|OKC root beer, can|![OKC root beer, can](/assets/2022-08-26-rootbeerroadtrip/5.jpeg)|"Craft" root beer made in Oklahoma.  Tastes good.|
 |4.09.2022|Branson, Missouri|MUG root beer, plastic bottle|![MUG root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/6.jpeg)|Another national brand.  Ok.|
+|6.09.2022|Nashville, Tennessee|IBC root beer, glass bottle|![IBC root beer, glass bottle](/assets/2022-08-26-rootbeerroadtrip/8.jpeg))|We used to get IBC in Missouri when I was growing up.  Even a few years ago, I found IBC around Springfield.  This trip I couldn't find any until we got to Tennessee.|
+
 
 |Date|Place|Soda|Picture|Description|
 |----|-----|----|-------|-----------|
