@@ -11,7 +11,7 @@ Virtually releasing the magic smoke.
 
 <sub>[Voltage multiplier experiments - Table of Contents](2-voltagemultiplier-toc)</sub> 
 
-In the comments to the [voltage multiplier table comments](2-voltagemultiplier-toc), someone asked what happens when a component in a voltage multiplier fails.
+In the comments to the [voltage multiplier table of contents](2-voltagemultiplier-toc), someone asked what happens when a component in a voltage multiplier fails.
 
 I dug up the collection of voltage multipliers I built two years ago when I first wrote the series on voltage multipliers, but I couldn't find the little transformer I used with them.  Poof.  Gone. Disappeared into thin air.
 
