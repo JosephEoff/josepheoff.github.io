@@ -33,7 +33,7 @@ One table for root beer, another for random yummy soft drinks.
 |2.09.2022|Old Route 66, Gay Parita Sinclair gas station, Ash Grove, Missouri|Route Beer 66, glass bottle|![Route Beer 66, glass bottle](/assets/2022-08-26-rootbeerroadtrip/4.jpeg)|Specialty root beer, sold only along the old Route 66.  Tastes like root beer hard candy - sweeter, and with a stronger taste of root beer than other brands.|
 |3.09.2022|Hollister, Missouri|OKC root beer, can|![OKC root beer, can](/assets/2022-08-26-rootbeerroadtrip/5.jpeg)|"Craft" root beer made in Oklahoma.  Tastes good.|
 |4.09.2022|Branson, Missouri|MUG root beer, plastic bottle|![MUG root beer, plastic bottle](/assets/2022-08-26-rootbeerroadtrip/6.jpeg)|Another national brand.  Ok.|
-|6.09.2022|Nashville, Tennessee|IBC root beer, glass bottle|![IBC root beer, glass bottle](/assets/2022-08-26-rootbeerroadtrip/8.jpeg))|We used to get IBC in Missouri when I was growing up.  Even a few years ago, I found IBC around Springfield.  This trip I couldn't find any until we got to Tennessee.|
+|6.09.2022|Nashville, Tennessee|IBC root beer, glass bottle|![IBC root beer, glass bottle](/assets/2022-08-26-rootbeerroadtrip/8.jpeg)|We used to get IBC in Missouri when I was growing up.  Even a few years ago, I found IBC around Springfield.  This trip I couldn't find any until we got to Tennessee.|
 
 
 |Date|Place|Soda|Picture|Description|
@@ -45,6 +45,5 @@ One table for root beer, another for random yummy soft drinks.
 
 Our current plans are to be in the Springfield, Missouri area from 30 August until 5 September.  From 5 September to about 9 September we'll be traveling from Missouri to Georgia (with stops for sight seeing along the way.)  The rest of time until 15 September will be about an hour's drive north of Atlanta.
 
-If you've got time to visit with an (almost) stranger and talk about electronics, sewing machines, Germany, or root beer, drop me a line in the comments and I'll see if we can arrange a place and time.
-
-You can leave comments as a guest without signing up with Disqus, but that will mean you have to check the comments periodically because Disqus won't send notifications to guest users.
+*Edit 25.09.2022:*
+*We ended out trip early and went home on September 9.  We did visit my wife's pen-pal for a couple of days, but decided not to go hiking or sight-seeing.  We weren't feeling well, and really wanted to get home.  Once we got home, we discovered that we'd picked up Covid somewhere along the way.  The rest of our vacation was spent lazing around the house and recovering from the virus.  Fortunately, neither one of us had a bad time with it.  We are both vaccinated, which I think helped make the infection mild.* 
