@@ -8,6 +8,8 @@ image: /assets/2022-08-20-pfaff-k-1-straycat/3.jpg
 ---
 Coincidences are strange things.
 
+<sub>[Read all about my adventures with the Pfaff model K.](pfaff-k-toc)</sub>
+
 My wife and I ran errands this morning in anticipation of a visit from an old friend this afternoon.  One of the errands was to pick up some cloth for a sewing project my wife has in mind.
 
 There's a small shop here in town that sells sewing supplies and hand made children's clothes.  My wife is friends with the woman who runs the shop.  I've talked to her a few times, mostly about the old Pfaff 30 she has (and has been meaning to restore.)
@@ -63,3 +65,5 @@ It is odd how coincidences stack up.  We hadn't intended to visit that particula
 I have a lot of ideas for this machine. I intend to make it into a portable electric sewing machine - with a vibrating shuttle.  Anachronisms galore.
 
 Stay tuned for further updates.
+
+<sub>[Read all about my adventures with the Pfaff model K.](pfaff-k-toc)</sub>
