@@ -4,7 +4,7 @@ title: "A favor for my father-in-law"
 categories: [blog]
 mathjax: false
 description: "Sewing a reusable leaf bag back together with a hundred year old sewing machine."
-image: /assets/2022-10-26-bagrepair/1.jpg
+image: /assets/2022-10-26-bagrepair/2.jpg
 ---
 Tools find tasks.
 
