@@ -3,7 +3,7 @@ layout: post
 title: "Thread tension adjustment in vintage (and not so vintage) sewing machines"
 categories: [blog]
 mathjax: false
-description: "How to adjust sewing machine thread tension right the first.  No bird nests, no frustration."
+description: "How to adjust sewing machine thread tension right the first time.  No bird nests, no frustration."
 image: /assets/2022-01-25-threadtension/1.jpg
 ---
 Get it right the first time.
