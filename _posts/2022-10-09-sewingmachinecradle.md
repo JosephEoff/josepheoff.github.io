@@ -18,7 +18,7 @@ All the sewing machines (even the ones for which I have/had cabinets) have to sp
 
 To avoid that, I've always parked the machines in a sort of wooden cradle.  It was originally the frame my Adler class 8 was attached to; it only really fits the Adler.  The others sort of sat cock-eyed on it.  It was better than having them leave oil spots all over the place, but just barely.
 
-With two machines coming up (and probably more in the future,) I thought it was time to put together as sort of "universal sewing machine stand."  It won't do for actually sewing, but it will let me try the machines out and have easy access to the bottoms while working on them.
+With two machines coming up (and probably more in the future,) I thought it was time to put together a sort of "universal sewing machine stand."  It won't do for actually sewing, but it will let me try the machines out and have easy access to the bottoms while working on them.
 
 |Cradle comparison|
 |-----------------|
