@@ -12,7 +12,7 @@ My wife and I spent this afternoon at the [Freilicht Museum in Bad Sobernheim, G
 
 There were several groups demonstrating old trades, among them a couple of guys operating a forge and doing some blacksmithing.  They had a basket full of little doodads for sale that they'd made.
 
-My wife had a look in the basket and found some little U-shaped things - sort of like U-nails but bigger and hand made.  She thought the U-shaped things would be just what we needed for the hasps on the old wicker basket we keep in the trunk of our car.  The basket holds stuff that's good to have on hand (extra first aid kit, jumper cables, tow rope, etc.) but that you want rattling around loose.
+My wife had a look in the basket and found some little U-shaped things - sort of like U-nails but bigger and hand made.  She thought the U-shaped things would be just what we needed for the hasps on the old wicker basket we keep in the trunk of our car.  The basket holds stuff that's good to have on hand (extra first aid kit, jumper cables, tow rope, etc.) but that you don't want rattling around loose.
 
 The basket has two hasps to hold the lid shut, but there's nothing to keep the latches closed.  We've had a couple of old bolts stuck through the hasps to keep the basket from popping open, but they fall out sometimes - and they look stupid, besides.
 
@@ -26,7 +26,7 @@ What we came up with was this thing:
 |-----------|
 |![Hasp keeper](/assets/2022-11-6-haspkeeper/0.jpg)|
 
-You close the latch, then put that through loop of the hasp.  It keeps the latch closed, but it isn't a lock.  The weight of the long legs keeps it from swinging around and falling out of the hasp.
+You close the latch, then put that through the loop of the hasp.  It keeps the latch closed, but it isn't a lock.  The weight of the long legs keeps it from swinging around and falling out of the hasp.
 
 The blacksmith made one out of a piece of scrap - it was just right.
 
