@@ -4,7 +4,7 @@ title: "The Pfaff model K sewing machine - Disassembly and cleanup"
 categories: [blog]
 mathjax: false
 description: "Disassembling and cleaning a Pfaff model K sewing machine."
-image: /assets/2022-11-12-pfaff-k-3-cleanup/1.jpg
+image: /assets/2022-11-12-pfaff-k-3-cleanup/17.jpg
 ---
 Removing the ick and doing things I'd rather not.
 
