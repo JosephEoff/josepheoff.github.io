@@ -39,7 +39,7 @@ This Pfaff K seems to have not received a lot of attention, despite showing sign
 |---------|
 |![Major ick](/assets/2022-11-12-pfaff-k-3-cleanup/3.jpg)|
 
-The needle plate was "glued" in place with dry oil.  The teeth in the feed dogs were full of grunge.  I scrapped the gunk out from between the teeth, then used kerosene to clean them, the needle plate, and the hole the needle plate sits in.  It took some scraping with the point of my pocket knife to get all the grunge out of the hole for the needle plate, despite a thorough soaking with kerosene and scrubbing with the brush.
+The needle plate was "glued" in place with dry oil.  The teeth in the feed dogs were full of grunge.  I scraped the gunk out from between the teeth, then used kerosene to clean them, the needle plate, and the hole the needle plate sits in.  It took some scraping with the point of my pocket knife to get all the grunge out of the hole for the needle plate, despite a thorough soaking with kerosene and scrubbing with the brush.
 
 The main tensioner was so full of fuzz that I thought some kind of felt washer had disentegrated inside it.  On disassembly, I found that it was just packed in fuzz and oil, though.
 
