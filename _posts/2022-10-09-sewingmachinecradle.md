@@ -64,9 +64,9 @@ This thing doesn't need to be pretty, and the random pieces of wood will never l
 
 It looks like this in use:
 
-|Supporting a Paff K|
+|Supporting a Pfaff K|
 |-------------------|
-|![Supporting a Paff K 1](/assets/2022-10-09-sewingmachinecradle/6.jpg)|
-|![Supporting a Paff K 2](/assets/2022-10-09-sewingmachinecradle/7.jpg)|
+|![Supporting a Pfaff K 1](/assets/2022-10-09-sewingmachinecradle/6.jpg)|
+|![Supporting a Pfaff K 2](/assets/2022-10-09-sewingmachinecradle/7.jpg)|
 
 Now that I've got the Pfaff in a working position (and I've finally received the bobbins I ordered for it,) I'll get to see how well it works - tomorrow.  Enough for today.
