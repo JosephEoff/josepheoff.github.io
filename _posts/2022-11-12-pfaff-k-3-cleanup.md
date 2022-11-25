@@ -12,7 +12,7 @@ Removing the ick and doing things I'd rather not.
 
 The Pfaff model K turned out to be as bad (or worse) ick-wise as my [Adler class 8](adler-toc) was when I got it.  The shellac was also in bad shape.  Against my desire to **not** do so, I've ended up having to strip the old shellac off another vintage sewing machine.
 
-When parts of the decals are worn away on a vintage sewing machine, then that's because the shellac protecting the decals has also been worn off.  Worn decals = you're going to have to put shellac new shellac over the machine to protect what's left of the decals.  New shellac means you have to remove the old shellac - new shellac over old shellac can cause the old shellac to do strange things and ruin the new finish you are trying to put on it.
+When parts of the decals are worn away on a vintage sewing machine, then that's because the shellac protecting the decals has also been worn off.  Worn decals = you're going to have to put new shellac over the machine to protect what's left of the decals.  New shellac means you have to remove the old shellac - new shellac over old shellac can cause the old shellac to do strange things and ruin the new finish you are trying to put on it.
 
 Before you put fresh shellac on an old sewing machine, you'll need to remove as many of the external parts as possible so that you can clean things properly and paint the shellac on.
 
@@ -39,7 +39,7 @@ This Pfaff K seems to have not received a lot of attention, despite showing sign
 |---------|
 |![Major ick](/assets/2022-11-12-pfaff-k-3-cleanup/3.jpg)|
 
-The needle plate was "glued" in place with dry oil.  The teeth in the feed dogs were full of grunge.  I scrapped the gunk out from between the teeth, then used kerosene to clean them, the needle plate, and the hole the needle plate sits in.  It took some scraping with the point of my pocket knife to get all the grunge out of the hole for the needle plate, despite a thorough soaking with kerosene and scrubbing with the brush.
+The needle plate was "glued" in place with dry oil.  The teeth in the feed dogs were full of grunge.  I scraped the gunk out from between the teeth, then used kerosene to clean them, the needle plate, and the hole the needle plate sits in.  It took some scraping with the point of my pocket knife to get all the grunge out of the hole for the needle plate, despite a thorough soaking with kerosene and scrubbing with the brush.
 
 The main tensioner was so full of fuzz that I thought some kind of felt washer had disentegrated inside it.  On disassembly, I found that it was just packed in fuzz and oil, though.
 
