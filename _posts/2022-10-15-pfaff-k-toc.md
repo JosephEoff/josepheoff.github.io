@@ -19,4 +19,4 @@ Follow along as this Pfaff model K progresses from an orphaned piece of junk to 
 1. [The Pfaff model K sewing machine - A blast from the past](pfaff-k-1-straycat) - Coincidences are strange things.
 2. [The Pfaff model K sewing machine - Tryout](pfaff-k-2) - Stiff but functional.
 3. [The Pfaff model K sewing machine - Disassembly and cleanup](pfaff-k-3-cleanup) - Removing the ick and doing things I'd rather not.
-4. [The Pfaff model K sewing machine - Disassembly The Pfaff model K sewing machine - Reassembly](pfaff-k-4-reassembly) - Back together again - clean and smooth running.
+4. [The Pfaff model K sewing machine - Reassembly](pfaff-k-4-reassembly) - Back together again - clean and smooth running.
