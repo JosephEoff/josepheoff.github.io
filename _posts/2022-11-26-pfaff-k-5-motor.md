@@ -4,7 +4,7 @@ title: "The Pfaff model K sewing machine - Installing the motor"
 categories: [blog]
 mathjax: false
 description: "Installing an electric motor on a Pfaff K sewing machine then fixing a couple of small problems."
-image: /assets/2022-11-26-pfaff-k-5-motor/1.jpg
+image: /assets/2022-11-26-pfaff-k-5-motor/12.jpg
 ---
 Anachronism time.
 
