@@ -4,7 +4,7 @@ title: "The Pfaff model K sewing machine - Threading the machine"
 categories: [blog]
 mathjax: false
 description: "A guide to winding a bobbin and threading a Pfaff K vibrating shuttle sewing machine.  Applies to the Pfaff K and L models, as well as the Pfaff 11 and 12 models.  It is similar to the Singer 28K"
-image: /assets/2022-11-27-pfaff-k-6-threading/1.jpg
+image: /assets/2022-11-27-pfaff-k-6-threading/16.jpg
 ---
 A heckuvalotta photos.
 
