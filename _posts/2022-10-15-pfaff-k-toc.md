@@ -20,4 +20,6 @@ Follow along as this Pfaff model K progresses from an orphaned piece of junk to 
 2. [The Pfaff model K sewing machine - Tryout](pfaff-k-2) - Stiff but functional.
 3. [The Pfaff model K sewing machine - Disassembly and cleanup](pfaff-k-3-cleanup) - Removing the ick and doing things I'd rather not.
 4. [The Pfaff model K sewing machine - Reassembly](pfaff-k-4-reassembly) - Back together again - clean and smooth running.
-5. [The Pfaff model K sewing machine - ReassemblInstalling the motor](pfaff-k-4-reassembly) - Anachronism time.
+5. [The Pfaff model K sewing machine - Installing the motor](pfaff-k-5-motor) - Anachronism time.
+6. [The Pfaff model K sewing machine - Threading the machine](pfaff-k-6-threading) - A heckuvalotta photos.
+

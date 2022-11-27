@@ -14,6 +14,8 @@ I received the Pfaff K without a sewing cabinet and without a hand crank, leavin
 
 I originally bought a sewing machine motor kit with electronic control for the Pfaff K.  I've had it on my [Adler class 8 for the last few weeks,](sewingmachinemotor) but now it's time for the motor to move on to its final home.
 
+The Adler class 8 "runs backwards" compared to other machines - you turn the balance wheel clockwise.  The Pfaff K runs the way most other machines run - you turn the balance wheel counter clockwise.  Pay attention when you buy a motor for you old sewing machine.  They are sold in clockwise and counter clockwise versions - though it is [easy enough to reverse them if you must.](universalmotor)
+
 |Ready to install|
 |----------------|
 |![Ready to install](/assets/2022-11-26-pfaff-k-5-motor/1.jpg)|
