@@ -54,7 +54,7 @@ A properly adjusted winder will automatically disengage when the bobbin is full.
 |![Engage the winder 1](/assets/2022-11-27-pfaff-k-6-threading/7.jpg)|
 |![Engage the winder 2](/assets/2022-11-27-pfaff-k-6-threading/8.jpg)|
 
-How you put the bobbin in the shuttle makes a lot of difference.  Inserted properly, the thread tension will be steady and correct while sewing.  Inserted incorrectly will lead to a thread tension that is too high and the varies while sewing - that will make a mess of your stitches.
+How you put the bobbin in the shuttle makes a lot of difference.  Inserted properly, the thread tension will be steady and correct while sewing.  Inserted incorrectly will lead to a thread tension that is too high and that varies while sewing - that will make a mess of your stitches.
 
 On the Pfaff bobbins, the holes are on one end only.  You put the bobbin in the shuttle such that the holes are visible.  The Singer bobbins have holes at both ends, but the Singer shuttle is built so that you can't put the thread under the tension spring if you've put the bobbin in wrong.
 
