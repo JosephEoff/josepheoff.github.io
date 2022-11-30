@@ -86,7 +86,7 @@ Raise the presser foot to release the tensioner, then start threading the machin
 |---------------------|
 |![TRelease the tensioner](/assets/2022-11-27-pfaff-k-6-threading/16A.jpg)|
 
-The thread spool is still on the right most peg.  Run the thread across to the hook above the main tensioner.  The thread goes over the hook then down to the tensioner.  Pull the thread around the tensioner with the thread between the tensioner discs.  The thread goes up then over the hook just above the discs.  From there it goes to the left and under the takeup spring and into its hook.  Put the thread through the hole in the takeup lever then run it  down to the guide on the nose plate.  From the nose plate guide, the thread goes into a last guide above the needle.  Thread the needle from left to right.  Finally, pull the thread through the hole in the presser foot.  You need about 4 inches thread hanging out behind the foot.
+The thread spool is still on the right most peg.  Run the thread across to the hook above the main tensioner.  The thread goes over the hook then down to the tensioner.  Pull the thread around the tensioner with the thread between the tensioner discs.  The thread goes up then over the hook just above the discs.  From there it goes to the left and under the takeup spring and into its hook.  Put the thread through the hole in the takeup lever then run it  down to the guide on the nose plate.  From the nose plate guide, the thread goes into a last guide above the needle.  Thread the needle from left to right.  Finally, pull the thread through the hole in the presser foot.  You need about 4 inches of thread hanging out behind the foot.
 
 |Thread the machine|
 |------------------|
