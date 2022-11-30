@@ -72,7 +72,7 @@ Reengage the clutch so that the machine will run.
 |-------------------|
 |![Reengage the clutch](/assets/2022-11-27-pfaff-k-6-threading/1A.jpg)|
 
-Remove the front slide cover, then rotate the balance wheel until the shuttle carrier is at its furthest forwards point.  The shuttle only fits one way - point to you, spring up.  Drop it in the carrier, then stop the loose end of the thread behind the shuttle carrier.
+Remove the front slide cover, then rotate the balance wheel until the shuttle carrier is at its furthest forwards point.  The shuttle only fits one way - point to you, spring up.  Drop it in the carrier, then drop the loose end of the thread behind the shuttle carrier.
 
 |Load the shuttle in the shuttle carrier|
 |----------------------------|
