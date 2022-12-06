@@ -38,13 +38,13 @@ Putting the motor on is easy.  Adjusting the belt tension is a bit tricky.
 |-----------------|
 |![Install the motor](/assets/2022-11-26-pfaff-k-5-motor/5.jpg)|
 
-Put the screw (marked in blue) through into the hand crank boss (and run it down - but don't tighten it.  
+Put the screw (marked in blue) through into the hand crank boss and run it down - but don't tighten it.  
 
-Loosen the two nuts indicated in red, and adjust the motor so that the screws are in the middle of the long slots.  Tighten the nuts again.
+Loosen the two nuts indicated in red then adjust the motor so that the screws are in the middle of the long slots.  Tighten the nuts again.
 
 Put the belt over the motor pulley, then move the motor up or down on the boss screw until the pulley is tight.  Not "tight, tight," but just so it doesn't slip when you turn the motor pulley.  Tighten the boss screw.
 
-Now loosen the clutch knob in the middle of the balance wheel.  Crank the balance wheel by hand.  It should turn easily and the machine itself should not run (the needle should not go up and down when you crank the balance wheel.)  If it is hard to turn or the needle moves, loosen one of the nuts (marked in red) and turn the motor a bit to reduce the tension.  Tighten the nut, then try the balance wheel again.  Try it out again.  Repeat trying it out and adjusting it until the tension is right.  The tension is right when you can release the clutch and crank the balance wheel easily by hand without the needle moving but still be tight enough that the belt doesn't slip when you reengage the clutch and turn the motor pulley.
+Now loosen the clutch knob in the middle of the balance wheel.  Crank the balance wheel by hand.  It should turn easily and the machine itself should not run (the needle should not go up and down when you crank the balance wheel.)  If it is hard to turn or the needle moves, loosen one of the nuts (marked in red) and turn the motor a bit to reduce the tension.  Tighten the nut, then try the balance wheel again.  Repeat trying it out and adjusting it until the tension is right.  The tension is right when you can release the clutch and crank the balance wheel easily by hand without the needle moving but still be tight enough that the belt doesn't slip when you reengage the clutch and turn the motor pulley.
 
 Too tight is bad because it will cause a lot of wear on the bearings.  Take your time and get it right.  When in doubt, too loose is better than too tight.  Too loose just means the belt will slip when you sew something tough.  Too tight means you'll be destroying your sewing machine.
 
@@ -72,7 +72,7 @@ With the paddle incorrectly adjusted, the winder wouldn't stay engaged when I pu
 |-----------------|
 |![Adjust the winder shutoff](/assets/2022-11-26-pfaff-k-5-motor/8.jpg)|
 
-You can adjust the automatic winder shutoff using the screw indicated by the red arrow.  Tighten it for more thread on the bobbin, loosen it for less thread.  You want the wound thread to be about 0.5 mm smaller in diamter than the heads on the ends of the bobbin.
+You can adjust the automatic winder shutoff using the screw indicated by the red arrow.  Tighten it for more thread on the bobbin, loosen it for less thread.  You want the wound thread to be about 0.5 mm smaller in diameter than the heads on the ends of the bobbin.
 
 I wanted to use a rolled hem presser foot for the sewing test - and prompty learned something new.
 
@@ -84,7 +84,7 @@ Not all feet are made the same.
 
 The hole on the rolled hem presser foot is about 0.5mm further to the right of the shank than the hole in the original foot.  The needle kept missing the edge of the rolled hem - just barely.  It would hit here and there, but not reliably.
 
-I thought I was doing something wrong, and tried to make the hem several times.  I'm inexperienced, but not totally clumsy - at some point, I realized there was something wrong with the machine rather than the operator.
+I thought I was doing something wrong, and tried to make the hem several times.  I'm inexperienced but not totally clumsy - at some point, I realized there was something wrong with the machine rather than the operator.
 
 Once I figured out that the foot was off center, I looked and found that you can adjust the presser foot.
 
