@@ -186,7 +186,7 @@ There are two small screws to hold the paddle shaped thing.  One is barely visib
 |![Install the paddle 1](/assets/2022-11-25-pfaff-k-4-reassembly/winder2.jpg)|
 |![Install the paddle 2](/assets/2022-11-25-pfaff-k-4-reassembly/winder3.jpg)|
 
-The red arrow point to the end of the spring.  It must be in the little hole in the frame.  Use the two small screws to attach the paddle.  Make sure the spring stays in its little hole until the screw are tight.  Once the paddle is attached, the spring will stay in place.
+The red arrow points to the end of the spring.  It must be in the little hole in the frame.  Use the two small screws to attach the paddle.  Make sure the spring stays in its little hole until the screws are tight.  Once the paddle is attached, the spring will stay in place.
 
 The winder latch uses the longer of the two springs shown above.
 
