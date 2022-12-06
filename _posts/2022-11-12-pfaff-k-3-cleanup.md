@@ -18,7 +18,7 @@ Before you put fresh shellac on an old sewing machine, you'll need to remove as 
 
 I made a bunch of pictures (though not enough) while disassembling my model K.  They'll help me put it back together properly.  Maybe they'll help you with your old sewing machine as well.
 
-I used lamp oil (kerosene) and a small, stiff brush to clean the machine.  The kerosene supposedly plain lamp oil, but we seem to have put some lavender oil in the bottle at some point in the 10 years or more that it was in the cabinet in the utility room.  The sewing machine and the garage smelled like lavender while I was cleaning things up.
+I used lamp oil (kerosene) and a small, stiff brush to clean the machine.  The kerosene was supposedly plain lamp oil, but we seem to have put some lavender oil in the bottle at some point in the 10 years or more that it was in the cabinet in the utility room.  The sewing machine and the garage smelled like lavender while I was cleaning things up.
 
 Starting at the bottom:
 
