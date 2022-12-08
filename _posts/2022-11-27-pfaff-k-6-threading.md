@@ -47,7 +47,7 @@ I have some original Pfaff bobbins and a shuttle, as well as a Singer shuttle an
 
 Lift the winder lever up.  The winder will latch in place.  Pump the treadle, or run the motor, or crank the hand crank so that the balance wheel turns counter clockwise (just like when sewing.)
 
-A properly adjusted winder will automatically disengage when the bobbin is full.  You can stop early, the push the paddle back to disengage the winder.
+A properly adjusted winder will automatically disengage when the bobbin is full.  You can stop early, then push the paddle back to disengage the winder.
 
 |Engage the winder|
 |-----------------|
@@ -84,7 +84,7 @@ Raise the presser foot to release the tensioner, then start threading the machin
 
 |Release the tensioner|
 |---------------------|
-|![TRelease the tensioner](/assets/2022-11-27-pfaff-k-6-threading/16A.jpg)|
+|![Release the tensioner](/assets/2022-11-27-pfaff-k-6-threading/16A.jpg)|
 
 The thread spool is still on the right most peg.  Run the thread across to the hook above the main tensioner.  The thread goes over the hook then down to the tensioner.  Pull the thread around the tensioner with the thread between the tensioner discs.  The thread goes up then over the hook just above the discs.  From there it goes to the left and under the takeup spring and into its hook.  Put the thread through the hole in the takeup lever then run it  down to the guide on the nose plate.  From the nose plate guide, the thread goes into a last guide above the needle.  Thread the needle from left to right.  Finally, pull the thread through the hole in the presser foot.  You need about 4 inches of thread hanging out behind the foot.
 
