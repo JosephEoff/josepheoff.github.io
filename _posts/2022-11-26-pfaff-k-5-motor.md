@@ -22,7 +22,7 @@ The Adler class 8 "runs backwards" compared to other machines - you turn the bal
 
 I drilled out the screw hole in the hand crank boss and tapped it to accept an M8 screw.  I couldn't figure out the size and thread  of the original.  Later, while cleaning the bits out of the machine from the drilling, I found that there was enough room inside that I could have ignored the threading in the hole and just put a skinnier screw through it with a lock nut installed inside the machine.  I'll keep that in mind the next time I have a machine that needs a motor - I don't like modifying the old machines.
 
-The belt for the electric motor won't go around the balance wheel.  I had to take the balance wheel off, put the belt in the pulley, then put the balance wheel back on.
+The belt for the electric motor won't go around the balance wheel.  I had to take the balance wheel off, put the belt on the pulley, then put the balance wheel back on.
 
 |Installing the belt|
 |-------------------|
