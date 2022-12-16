@@ -4,7 +4,7 @@ title: "The Pfaff model K sewing machine - Threading the machine"
 categories: [blog]
 mathjax: false
 description: "A guide to winding a bobbin and threading a Pfaff K vibrating shuttle sewing machine.  Applies to the Pfaff K and L models, as well as the Pfaff 11 and 12 models.  It is similar to the Singer 28K"
-image: /assets/2022-11-27-pfaff-k-6-threading/1.jpg
+image: /assets/2022-11-27-pfaff-k-6-threading/16.jpg
 ---
 A heckuvalotta photos.
 
@@ -47,14 +47,14 @@ I have some original Pfaff bobbins and a shuttle, as well as a Singer shuttle an
 
 Lift the winder lever up.  The winder will latch in place.  Pump the treadle, or run the motor, or crank the hand crank so that the balance wheel turns counter clockwise (just like when sewing.)
 
-A properly adjusted winder will automatically disengage when the bobbin is full.  You can stop early, the push the paddle back to disengage the winder.
+A properly adjusted winder will automatically disengage when the bobbin is full.  You can stop early, then push the paddle back to disengage the winder.
 
 |Engage the winder|
 |-----------------|
 |![Engage the winder 1](/assets/2022-11-27-pfaff-k-6-threading/7.jpg)|
 |![Engage the winder 2](/assets/2022-11-27-pfaff-k-6-threading/8.jpg)|
 
-How you put the bobbin in the shuttle makes a lot of difference.  Inserted properly, the thread tension will be steady and correct while sewing.  Inserted incorrectly will lead to a thread tension that is too high and the varies while sewing - that will make a mess of your stitches.
+How you put the bobbin in the shuttle makes a lot of difference.  Inserted properly, the thread tension will be steady and correct while sewing.  Inserted incorrectly will lead to a thread tension that is too high and that varies while sewing - that will make a mess of your stitches.
 
 On the Pfaff bobbins, the holes are on one end only.  You put the bobbin in the shuttle such that the holes are visible.  The Singer bobbins have holes at both ends, but the Singer shuttle is built so that you can't put the thread under the tension spring if you've put the bobbin in wrong.
 
@@ -72,7 +72,7 @@ Reengage the clutch so that the machine will run.
 |-------------------|
 |![Reengage the clutch](/assets/2022-11-27-pfaff-k-6-threading/1A.jpg)|
 
-Remove the front slide cover, then rotate the balance wheel until the shuttle carrier is at its furthest forwards point.  The shuttle only fits one way - point to you, spring up.  Drop it in the carrier, then stop the loose end of the thread behind the shuttle carrier.
+Remove the front slide cover, then rotate the balance wheel until the shuttle carrier is at its furthest forwards point.  The shuttle only fits one way - point to you, spring up.  Drop it in the carrier, then drop the loose end of the thread behind the shuttle carrier.
 
 |Load the shuttle in the shuttle carrier|
 |----------------------------|
@@ -84,9 +84,9 @@ Raise the presser foot to release the tensioner, then start threading the machin
 
 |Release the tensioner|
 |---------------------|
-|![TRelease the tensioner](/assets/2022-11-27-pfaff-k-6-threading/16A.jpg)|
+|![Release the tensioner](/assets/2022-11-27-pfaff-k-6-threading/16A.jpg)|
 
-The thread spool is still on the right most peg.  Run the thread across to the hook above the main tensioner.  The thread goes over the hook then down to the tensioner.  Pull the thread around the tensioner with the thread between the tensioner discs.  The thread goes up then over the hook just above the discs.  From there it goes to the left and under the takeup spring and into its hook.  Put the thread through the hole in the takeup lever then run it  down to the guide on the nose plate.  From the nose plate guide, the thread goes into a last guide above the needle.  Thread the needle from left to right.  Finally, pull the thread through the hole in the presser foot.  You need about 4 inches thread hanging out behind the foot.
+The thread spool is still on the right most peg.  Run the thread across to the hook above the main tensioner.  The thread goes over the hook then down to the tensioner.  Pull the thread around the tensioner with the thread between the tensioner discs.  The thread goes up then over the hook just above the discs.  From there it goes to the left and under the takeup spring and into its hook.  Put the thread through the hole in the takeup lever then run it  down to the guide on the nose plate.  From the nose plate guide, the thread goes into a last guide above the needle.  Thread the needle from left to right.  Finally, pull the thread through the hole in the presser foot.  You need about 4 inches of thread hanging out behind the foot.
 
 |Thread the machine|
 |------------------|
