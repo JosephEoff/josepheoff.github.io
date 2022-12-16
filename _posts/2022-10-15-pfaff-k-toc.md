@@ -22,4 +22,5 @@ Follow along as this Pfaff model K progresses from an orphaned piece of junk to 
 4. [The Pfaff model K sewing machine - Reassembly](pfaff-k-4-reassembly) - Back together again - clean and smooth running.
 5. [The Pfaff model K sewing machine - Installing the motor](pfaff-k-5-motor) - Anachronism time.
 6. [The Pfaff model K sewing machine - Threading the machine](pfaff-k-6-threading) - A heckuvalotta photos.
+7. [The Pfaff model K sewing machine -  Beech wood, shellac, and brass](pfaff-k-7-base) - A quick look at a couple of weeks of hobby time.
 
