@@ -23,4 +23,4 @@ Follow along as this Pfaff model K progresses from an orphaned piece of junk to 
 5. [The Pfaff model K sewing machine - Installing the motor](pfaff-k-5-motor) - Anachronism time.
 6. [The Pfaff model K sewing machine - Threading the machine](pfaff-k-6-threading) - A heckuvalotta photos.
 7. [The Pfaff model K sewing machine -  Beech wood, shellac, and brass](pfaff-k-7-base) - A quick look at a couple of weeks of hobby time.
-
+8. [The Pfaff model K sewing machine - Secrets of the vibrating shuttle](pfaff-k-8-secrets) - The first rule of the vibrating shuttle oiler is that you don't talk about the vibrating shuttle oiler.
