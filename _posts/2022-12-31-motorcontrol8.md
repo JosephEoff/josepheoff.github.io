@@ -18,7 +18,7 @@ I got back to it a couple of days ago, and ordered a black aluminum box to put a
 
 I've spent a few hours over the last couple of days putting together a schematic and sketching out a PCB to fit the housing I ordered.  I haven't sent the board out to be made because I want to compare the real box with the datasheet.  The box should come in sometime in the coming week.
 
-Datasheets are great, but sometimes I make mistakes in reading them.  That bit me once and cost me the price of having new boards made.  I prefer to check my datasheet based designs against the real, physical parts before ordering a PCB made.  I print the finished layout on paper, cut it out, then lay all the ICs and other parts on it to check that I made the foot prints properly in KiCAD.  I check that the board will fit the box by dropping the paper cutout in the box.
+Datasheets are great, but sometimes I make mistakes in reading them.  That bit me once and cost me the price (and time) of having new boards made.  I prefer to check my datasheet based designs against the real, physical parts before ordering a PCB made.  I print the finished layout on paper, cut it out, then lay all the ICs and other parts on it to check that I made the foot prints properly in KiCad.  I check that the board will fit the box by dropping the paper cutout in the box.
 
 |Schematic|
 |---------|
@@ -40,7 +40,7 @@ The ADUM4120 (U3) is an isolated MOSFET gate driver.  Besides being able to deli
 
 I will be driving the universal motor with DC from bridge recitifier D1.  D2 is there to catch the "kickback" when the MOSFET switches off the motor.  It should also "brake" the motor when the power is off - it should be possible to "stop on a dime" from full speed.  Other controllers let the motor coast to a stop, which is not a good thing when you have a very smooth running machine with a really heavy balance wheel.  People complain that electrically driven vintage sewing machines don't stop precisely enough.  This one ought to - that or blow the diode.  We'll see.
 
-I picked the MOSFET (Q2) to handle a good bit more than the 330 VDC from the rectifier.  It is also somewhat over dimensioned for current.  While the motor itself shouldn't draw anything near 1A, Q2 is rated for more than 10A continuos drain current.  Q2 will also be attached to the metal box using proper isolating heat sink hardware. That makes it absolutely necessary that the box be grounded - there's a connection to "Earth ground" in the schematic to remind me to ground the box.
+I picked the MOSFET (Q2) to handle a good bit more than the 330 VDC from the rectifier.  It is also somewhat over dimensioned for current.  While the motor itself shouldn't draw anything near 1A, Q2 is rated for more than 10A continuos drain current.  Q2 will be attached to the metal box using proper isolating heat sink hardware. That makes it absolutely necessary that the box be grounded - there's a connection to "Earth ground" in the schematic to remind me to ground the box.
 
 The Earth ground will be routed through the box to the motor.  The typical cheap sewing machine motors aren't grounded, which makes me nervous.  This one will have a proper Earth ground to catch any catastrophic failure in the motor.
 
