@@ -65,7 +65,7 @@ I used a cheap knife sharpening stone (two sides, coarse and fine,) a "hard Arka
 - Work the red side on the fine side of the sharpening stone to get rid of the deep scratches from the coarse side.
 - Polish the red side with the "hard Arkansas" sharpening stone to get it really smooth.
 - Polish the red side with some jeweler's rouge on the leather strop to make it shiny smooth.
-- Polish the blue marked side of the shuttle with the jewler's rouge and the leather strop so that the thread won't drag on it.
+- Polish the blue marked side of the shuttle with the jeweler's rouge and the leather strop so that the thread won't drag on it.
 
 I used a new Singer 28K shuttle with this Pfaff model K machine.  I had to fit the shuttle to it as described.  That's not because it was a Singer shuttle in a Pfaff machine, but because all shuttles have to be "fine honed" to make them work right.  There's a German sewing machine technician's book (Wilhelm Renters *Der Nähmaschine Fachmann*, if you can read German) that mentions it and that you have to do it for all new shuttles.
 
