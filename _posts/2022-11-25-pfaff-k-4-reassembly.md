@@ -213,7 +213,7 @@ Installing the winder assembly on the machine is a bit tricky.  You have to keep
 |![Install the winder 1](/assets/2022-11-25-pfaff-k-4-reassembly/winder10.jpg)|
 |![Install the winder 1](/assets/2022-11-25-pfaff-k-4-reassembly/winder11.jpg)|
 
-Wiggle and turn the screw until it goes through all the holes (including the one in the lever,) then tighten it.  Put a drop of oil in the oil hole and in all the places where metal rubs on metal in the winder assembly.  The whole thing should move smoothly and easily.  It should latch in place when you raise the bottom lever and pop back down when you press the peddle back.
+Wiggle and turn the screw until it goes through all the holes (including the one in the lever,) then tighten it.  Put a drop of oil in the oil hole and in all the places where metal rubs on metal in the winder assembly.  The whole thing should move smoothly and easily.  It should latch in place when you raise the bottom lever and pop back down when you press the paddle back.
 
 Re-install the winder tire.  If you need a new one, you can use a plain O-ring.  I'll include the dimensions in a later post together with information about needles, bobbins, and other consumables.
 
