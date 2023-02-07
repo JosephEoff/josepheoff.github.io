@@ -16,7 +16,7 @@ The thing about electrical energy is that you don't have anything tangible to eq
 
 I've remarked [before](voltagebooster) that I find it easier to understand abstract things if I can somehow make them more concrete.  I'm going to use play-doh to make a tangible model of electrical energy.
 
-To start with, I'm going to give a definition of electrical energy.  After that I'm going to break it apart and use tangible things to explain the pieces so that the abtract "energy" has a visible referrent.  Maybe that will help someone else comprehend electrical energy - hopefully without adding extra confusion.
+To start with, I'm going to give a definition of electrical energy.  After that I'm going to break it apart and use tangible things to explain the pieces so that the abtract "energy" has a visible referent.  Maybe that will help someone else comprehend electrical energy - hopefully without adding extra confusion.
 
 Electrical energy is measured in [joules.](https://en.wikipedia.org/wiki/Joule)  Wikipedia has a lot of variations in the definition.  All are equivalent, but some are more useful than others.
 
@@ -24,7 +24,7 @@ The definition I am going to use is the following:
 
 $$Energy = volts \times amperes \times time $$  
 
-Where energy is measure in joules and time is measured in seconds.
+Where energy is measured in joules and time is measured in seconds.
 
 1 volt applied to a circuit at 1 ampere for 1 second gives 1 joule.
 
@@ -38,7 +38,7 @@ Like this:
 |--------------|
 |![Blob of energy](/assets/energy/blob.jpg)|
 
-Lets have a look at voltage, current, power, and energy.
+Let's have a look at voltage, current, power, and energy.
 
 [Voltage is the pressure that makes current flow.](https://en.wikipedia.org/wiki/Voltage)  It is typically measured with a [voltmeter](https://en.wikipedia.org/wiki/Voltmeter) or presumed known because you are working with a power supply or a battery.  Most folks seem to grasp voltage fairly well, except for those who directly equate voltage and energy and start hollering "over unity" when their voltage boost converter puts out more voltage than they put in.
 
@@ -58,7 +58,7 @@ I'm going to represent 1 ampere as a line 1 centimeter long:
 
 [Power is the product of current and voltage.](https://en.wikipedia.org/wiki/Electric_power)  If you apply 1 volt to a 1 ohm resistor, 1 ampere of current will flow and the resistor will consume 1 watt of power.
 
-So what does 1 watt look like?  A rectangle, with one dimension measured in volts, and the other measured in amperes:
+So what does 1 watt look like?  A rectangle, with one dimension measured in volts and the other measured in amperes:
 
 |1 watt|
 |--------------|
@@ -66,24 +66,23 @@ So what does 1 watt look like?  A rectangle, with one dimension measured in volt
 
 [Energy is the product of power and time.](https://en.wikipedia.org/wiki/Electrical_energy)  If you apply 1 volt to a 1 ohm resistor, 1 ampere of current will flow and the resistor will consume 1 watt of power.  If you leave that circuit in operation for 1 second, then it will consume one joule of energy.
 
-And finally, we get back to the play-doh.  1 joule of energy is a box 1 volt high, 1 ampere wide, and 1 second long:
+Finally, we get back to the play-doh.  1 joule of energy is a box 1 volt high, 1 ampere wide, and 1 second long:
 
 |1 joule|
 |--------------|
 |![1 joule](/assets/energy/1joule.jpg)|
 
-So, there you have it.  My mental model for grasping electrical energy - just a blob of play-doh.
+There you have it.  My mental model for grasping electrical energy - just a blob of play-doh.
 
 When you go to considering conservation of electrical energy, you have to keep your eye on the **volume** of that blob.  All else is subject to change, but the volume of the blob of energy that goes into your circuit will have the same volume as the blob of energy that comes out of your circuit.
 
-
-Now, calculating the volume of a box is simple.  \$ length \times width \times height\$ and "Bob's your uncle."  Calculating the total energy consumed by a circuit is... never that easy.
+Calculating the volume of a box is simple.  \$ length \times width \times height\$ and "Bob's your uncle."  Calculating the total energy consumed by a circuit is... never that easy.
 
 It is a rare circuit where you have something as simple as "1 volt applied to a circuit at 1 ampere for 1 second." 
 
 Voltage varies.  Batteries have a "nominal voltage," but that's not a fixed value in real life.  The moment you start drawing current from a battery, the voltage changes.  It is higher when the battery is fully charged (or new,) but lower when it is running out.
 
-Current varies.  If the voltage from your battery goes down, but the load stays the same, then the current will go down as well.
+Current varies.  If the voltage from your battery goes down but the load stays the same then the current will go down as well.
 
 Since current and voltage vary, the power varies as well.  Even when using a power supply, the voltage varies slightly - and current can vary drastically depending on what your circuit does.
 
@@ -111,4 +110,4 @@ With nice, rectangular slices, the area is easy to calculate.  You know the "thi
 
 There are limits to how well that works, but it is the basis of pretty much any modern measuring device that computes energy.  The faster you measure, the thinner the slabs and the more accurate the final total.
 
-And there you have it.  The basis of my understanding of electrical energy and measurement in one nearly indigestible blob.
+There you have it.  The basis of my understanding of electrical energy and measurement in one nearly indigestible blob.
