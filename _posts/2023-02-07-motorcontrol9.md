@@ -62,4 +62,8 @@ The software will be a fair amount of the fun.
 
 It's making progress at last, though it may still take a while to get done.  My wife and I are having the living room repainted and a new floor covering (fake wood parquet) installed to replace the worn out carpet.  I'll be dealing with that for the next couple of weeks and trying to sneak time to work on my projects.
 
+------
+
+I'll put the circuit design and the software up on [my GitHub page](https://github.com/JosephEoff?tab=repositories) when it is all done and working.  I don't see much point in posting a half done bunch of junk.
+
 <sub>[A sewing machine motor speed control - Table of Contents](motorcontrol-toc)</sub>
