@@ -31,7 +31,7 @@ I bashed together a quick program for the Arduino.  It is a little bit more comp
 
 The first start-up was kind of scary.  I don't like playing with 230VAC, and I'm not used to working with "high power." The motor is rated 100 watts - that's a lot when you are used to piddling with digital electronic circuits with low voltage and milliamperes of current.
 
-That first power-up showed a mistake in the circuit.  I forgot to add a pull down to the PWM out.  Until the Arduino finishes its power on sequence (including a two second wait for serial communications,) the digital IO pins are all floating.  The gate driver I'm using (an ADuM4120) has a very senstive input - the the floating Arduino IO pin was enough to pull the gate driver input high.  This caused the motor to howl at full speed until the Arduino "woke up."
+That first power-up showed a mistake in the circuit.  I forgot to add a pull down to the PWM out.  Until the Arduino finishes its power on sequence (including a two second wait for serial communications,) the digital IO pins are all floating.  The gate driver I'm using (an ADuM4120) has a very senstive input - the floating Arduino IO pin was enough to pull the gate driver input high.  This caused the motor to howl at full speed until the Arduino "woke up."
 
 The schematic has the pull-down on it now, and I added it to the layout.
 
