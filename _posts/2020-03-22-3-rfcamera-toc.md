@@ -17,6 +17,7 @@ For easy reference, here's a list of all my posts about photographing the invisi
 4. [Photographing the invisible - the interesting hardware](rfcamera4) - Not the hardware store stuff, but the electronics.
 5. [Photographing the invisible - software to drive the hardware](rfcamera5) - An Arduino program as firmware.
 6. [Photographing the invisible - software to display what the hardware saw](1-rfcamera6) - A work in progress.
+7. [Photographing the invisible - adding a photo scanner to the GUI](rfcamera7) - Progress and a mystery.
 
 As I make further experiments, I'll link the blog posts in here.
 
