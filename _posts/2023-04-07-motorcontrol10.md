@@ -45,7 +45,7 @@ I'll be making some brass mounting tabs to hold the box on the sewing machine mo
 
 Something I wanted to mention was that this wasn't a quick and simple process.  I've noticed that a lot of the projects on Hackaday.io, and a lot of my own projects, give the impression that things always work out right the first time through.
 
-In this case, I messed up.  I bought a box a though would fit, then cut and drilled all the holes before discovering that the connectors and the circuit board wouldn't all fit in at the same time.
+In this case, I messed up.  I bought a box I thought would fit, then cut and drilled all the holes before discovering that the connectors and the circuit board wouldn't all fit in at the same time.
 
 |Oops|
 |----|
