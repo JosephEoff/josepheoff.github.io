@@ -30,3 +30,4 @@ This series of posts is about concepts in motor speed control and designing a co
 8. [A sewing machine motor speed control - A long over due update](motorcontrol8) - Collecting parts and drawing schematics.
 9. [A sewing machine motor speed control - Putting things together](motorcontrol9) - No smoke, but not quite done.
 10. [A sewing machine motor speed control - Making the box](motorcontrol10) - Drilling, sawing, and filing.
+11. [A sewing machine motor speed control - Mounting brackets](motorcontrol11) - Sawing, drilling, sanding and tapping.
