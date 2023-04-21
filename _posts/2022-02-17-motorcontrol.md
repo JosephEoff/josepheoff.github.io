@@ -28,7 +28,7 @@ There are other motor controllers available, but they are mostly just dimmer cir
 
 What I need is a closed loop motor controller for a universal motor.
 
-You can buy ICs for closed loop motor contol, but they all have a couple of drawbacks:
+You can buy ICs for closed loop motor control, but they all have a couple of drawbacks:
 1. They mostly require a tachometer attachment.
 2. The ICs are mostly obsolete.
 
