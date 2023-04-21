@@ -55,7 +55,7 @@ Once you've got it open, you'll find a long sliding potentiometer for the foot p
 
 You'll have to reassemble the controller to test it out.
 
-I do **not** recommend drilling a hole in the pedal so that you could adjust it without opening the case.  The circuit in there in not isolated - everything inside is pretty much at line voltage.  It would be far too easy to reach in with a metal screwdriver to adjust it and get a (potentially deadly) shock because you forgot to unplug it.  It would also be easy for a needle or a pin to get in and cause a short circuit.  Adjust the pedal to your needs, then don't fiddle with it.
+I do **not** recommend drilling a hole in the pedal so that you could adjust it without opening the case.  The circuit in there is not isolated - everything inside is pretty much at line voltage.  It would be far too easy to reach in with a metal screwdriver to adjust it and get a (potentially deadly) shock because you forgot to unplug it.  It would also be easy for a needle or a pin to get in and cause a short circuit.  Adjust the pedal to your needs, then don't fiddle with it.
 
 As good as this controller looks, I'm going to go ahead with the controller I'm designing for my Adler 8.  I've got some things I specifically want to try out - and I've already ordered (and received) a lot of the parts.
 
