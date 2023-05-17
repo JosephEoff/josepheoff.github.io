@@ -4,6 +4,7 @@ url: https://josepheoff.github.io
 author: "Joseph R. Eoff"
 logo: "/assets/favicon.png"
 theme: minima
+#remote_theme: jekyll/minima
 show_excerpts: true
 markdown: kramdown
 mathjax: true
@@ -14,6 +15,7 @@ permalink: /posts/:slug
 google_analytics: UA-150925645-1
 site_logo: "/assets/favicon.png"
 plugins:
+  #- jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap

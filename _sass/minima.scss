@@ -20,6 +20,11 @@ $text-color:       #111 !default;
 //$background-color: #fdfdfd !default;
 $background-color: #f7f2de !default;
 $brand-color:      #2a7ae2 !default;
+$link-base-color:  #2a7ae2 !default;
+$link-visited-color: #828282 !default;
+$link-hover-color:  #2a7ae2 !default;
+
+$border-color-01:  #828282 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
