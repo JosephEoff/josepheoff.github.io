@@ -12,7 +12,8 @@ timezone: Europe/Berlin
 permalink: /posts/:slug
 
 # Google Analytics
-google_analytics: UA-150925645-1
+#google_analytics: UA-150925645-1
+google_analytics: G-0LJXHL944K
 site_logo: "/assets/favicon.png"
 plugins:
   #- jekyll-remote-theme
