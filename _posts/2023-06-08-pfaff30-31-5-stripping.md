@@ -37,7 +37,7 @@ As you can see, the paint on this Pfaff 30-31 contains lead.
 
 My swabs didn't arrive until after I had already started stripping the paint.  Before that I simply worked on the assumption that the paint had lead in it.
 
-The paint stripper itself is easy to use.  The stuff I got is a sort of paste - is stick to the surface rather than running off.
+The paint stripper itself is easy to use.  The stuff I got is a sort of paste - it sticks to the surface rather than running off.
 
 You should wear rubber gloves while working with the paint stripper.  I got a small tear in one of my gloves and some of the stripper got on my palm unnoticed.  I had sort of chemical burn that took a couple of weeks to heal.
 
