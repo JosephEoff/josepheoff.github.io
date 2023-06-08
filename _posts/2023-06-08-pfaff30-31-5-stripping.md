@@ -82,7 +82,7 @@ I wet sanded the machine so that I wouldn't breath in any dust with lead, and ke
 
 Keep the following points in mind when stripping paint off of an old sewing machine:
 
-1. The paint may contain lead - test to be sure or else work on the assumption that there's lead present.  Follow all needed safety precautions and dispose of waster according to your local (or national) regulations.
+1. The paint may contain lead - test to be sure or else work on the assumption that there's lead present.  Follow all needed safety precautions and dispose of waste according to your local (or national) regulations.
 2. Modern paint stripper may not do well on old paint - it may take several applications with long soaking times to make any progress.
 3. Modern paint stripper may not do well on old paint, but it **will** do a number on your skin.  Wear rubber gloves.
 4. You don't want to remove everything on the bed down to bare metal.  If you do, then you'll have to apply filler (bondo) to smooth out the surface.
