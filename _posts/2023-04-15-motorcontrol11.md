@@ -25,9 +25,9 @@ I'm going to start this off with a trick that drives my father in law crazy - fr
 |![Cutting brass strips 3](/assets/2023-04-15-motorcontrol11/3.jpg)|
 |![Cutting brass strips 4](/assets/2023-04-15-motorcontrol11/4.jpg)|
 
-The vise is mounted so that the jaws are parallel to the floor - most vises are.  That makes the vertical edges really vertical.  I put the piece I'm cutting in the vise so that the edges line up and so that the line I'm cutting goes straight down.  The wood scraps holding the brass are also lined up to be parallel to the cut.  Having all the edges lined up makes it easier to see that I'm cutting straight, and having the cut vertical makes it easier to follow the line - the saw "wants" to go straight down.  Get all the stuf lined up, then get yourself positioned so that your arm goes in a straight line while working the saw.  Easy.
+The vise is mounted so that the jaws are parallel to the floor - most vises are.  That makes the vertical edges really vertical.  I put the piece I'm cutting in the vise so that the edges line up and so that the line I'm cutting goes straight down.  The wood scraps holding the brass are also lined up to be parallel to the cut.  Having all the edges lined up makes it easier to see that I'm cutting straight, and having the cut vertical makes it easier to follow the line - the saw "wants" to go straight down.  Get all the stuff lined up, then get yourself positioned so that your arm goes in a straight line while working the saw.  Easy.
 
-The cuts didn't have to be perfect here.  The pieces only needed to be sort of the right size to that the templateds fit.
+The cuts didn't have to be perfect here.  The pieces only needed to be sort of the right size so that the templates fit.
 
 I had intended to make mounting brackets that attached to the bottom of the control box, so I drilled and tapped those holes last week.  I changed my mind because I couldn't convince myself that I could make the needed bent brackets - I've bent brass before, but the parts got all scratched.  I want this to look somewhat nice, so I changed to simple straight brackets.
 
