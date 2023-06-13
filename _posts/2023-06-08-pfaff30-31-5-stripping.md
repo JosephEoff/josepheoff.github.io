@@ -22,7 +22,7 @@ I will say just this much:
 
 You are safe to use a sewing machine with lead paint as long as the paint is solid.  It can't leach out and get you, and you can't absorb it through your skin.
 
-If the paint is flaking off or crumbling then you should stop using the machine.  There's a (remote) possibility of swallowing a flake or crumb or of inhaling the dust.  I've never found safe lower limit for lead (no national health organisation wants to say "this amount of lead won't hurt you") so any lead is unsafe - though the fact that millions of people around the world grew up with lead paint all around them argues that your body can deal with at least some lead.
+If the paint is flaking off or crumbling then you should stop using the machine.  There's a (remote) possibility of swallowing a flake or crumb or of inhaling the dust.  I've never found a safe lower limit for lead (no national health organisation wants to say "this amount of lead won't hurt you") so any lead is unsafe - though the fact that millions of people around the world grew up with lead paint all around them argues that your body can deal with at least some lead.
 
 In any case, there are simple lead test swabs available that can tell you if the paint on your sewing machine contains lead.  You can buy them on Amazon and potentially in other places.  Our local paint store and the hardware stores didn't have any, though.
 
@@ -31,7 +31,7 @@ In any case, there are simple lead test swabs available that can tell you if the
 |![Test for lead 1](/assets/2023-06-08-pfaff30-31-5-stripping/1.jpg)|
 |![Test for lead 2](/assets/2023-06-08-pfaff30-31-5-stripping/2.jpg)|
 
-You dunk a swab in water, then rub it on the suspected lead containing paint.  If the yellow swab turn red, then you've lead in the paint.
+You dunk a swab in water, then rub it on the suspected lead containing paint.  If the yellow swab turns red, then you've got lead in the paint.
 
 As you can see, the paint on this Pfaff 30-31 contains lead.
 
@@ -39,7 +39,7 @@ My swabs didn't arrive until after I had already started stripping the paint.  B
 
 The paint stripper itself is easy to use.  The stuff I got is a sort of paste - it sticks to the surface rather than running off.
 
-You should wear rubber gloves while working with the paint stripper.  I got a small tear in one of my gloves and some of the stripper got on my palm unnoticed.  I had sort of chemical burn that took a couple of weeks to heal.
+You should wear rubber gloves while working with the paint stripper.  I got a small tear in one of my gloves and some of the stripper got on my palm unnoticed.  I had a sort of chemical burn that took a couple of weeks to heal.
 
 |Paint stripper|
 |--------------|
@@ -61,7 +61,7 @@ A few hours didn't make any impression on the paint, either.  I left it over nig
 |-------------|
 |![First success](/assets/2023-06-08-pfaff30-31-5-stripping/5.jpg)|
 
-I started scraping with a wooden paddle because I was afraid to scratch up the iron of the machine.  That didn't work well, so I switched to a regular steel bladed putty knife.
+I started scraping with a wooden paddle because I was afraid of scratching the iron of the machine.  That didn't work well, so I switched to a regular steel bladed putty knife.
 
 |Progress|
 |--------|
