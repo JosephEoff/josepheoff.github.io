@@ -164,7 +164,7 @@ Class 8 machines tend to have a pretensioner (A,) a large screw (B) for the left
 
 Two other things you'll notice are the square necked presser feet, and in the machines with the spool holder a sort of cutout in the table top to pass the spool holder when you tip the machine back.
 
-On the day we visited the [Rhine Falls](https://en.wikipedia.org/wiki/Rhine_Falls) (just across the border from Germany in the Swiss canton of Schaffhausen,) we also visited the town of [Stein am Rhein](https://en.wikipedia.org/wiki/Stein_am_Rhein) and went window shopping (again.)  Besides a sadly misplaced western store (where you can buy cowboy hats and pointy-toed cowboy boots made in Mexico and imported to Europe by a German company,) we also wandered into a handcrafts store with this Martin Decker vibrating shuttle sewing machin as decoration.
+On the day we visited the [Rhine Falls](https://en.wikipedia.org/wiki/Rhine_Falls) (just across the border from Germany in the Swiss canton of Schaffhausen,) we also visited the town of [Stein am Rhein](https://en.wikipedia.org/wiki/Stein_am_Rhein) and went window shopping (again.)  Besides a sadly misplaced western store (where you can buy cowboy hats and pointy-toed cowboy boots made in Mexico and imported to Europe by a German company,) we also wandered into a handcrafts store with this Martin Decker vibrating shuttle sewing machine as decoration.
 
 |Martin Decker vibrating shuttle|
 |-------------------------------|
