@@ -107,7 +107,7 @@ Next up is a Gritzner transverse shuttle with a fiddle base:
 
 This machine is the only one that could be said to "be at home."  Gritzner was based in Durlach, Germany in the state of Baden.  Baden is now part of the state of Baden-Württemberg.  The Black Forest is located in the western half of Baden-Württemberg - the part formerly known as Baden.  Durlach is around 200 kilometers (120 miles) north of the Schluchsee area where I saw this machine.  In the more than 120 years since it was manufactured, it never managed to leave the region it was manufactured in.
 
-According to this German [Nähmaschinenverzeichnis](https://www.naehmaschinenverzeichnis.de/verzeichnis-der-naehmaschinen/gritzner/) (sewing machine index) page, Gritzner manufactured fiddle base transverse shuttle machines from 1872 until about 1900 - though they did produce some rectangular base transverse shuttle machines earlier.  After 1900, the transverse shuttle machines were all rectangular base.
+According to this German [Nähmaschinenverzeichnis](https://www.naehmaschinenverzeichnis.de/verzeichnis-der-naehmaschinen/gritzner/) (sewing machine index) page, Gritzner manufactured fiddle base transverse shuttle machines from 1872 until about 1900 - though they did produce some rectangular base transverse shuttle machines later.  After 1900, the transverse shuttle machines were all rectangular base.
 
 This Kochs-Adler machine is (according to the sign) a saddler's sewing machine (Sattler.)
 
@@ -144,7 +144,7 @@ This final item from the mill museum is a mislabeled machine whose manufacturer 
 
 |Unknown patcher|
 |---------------|
-|![Unknown patcher](/assets/2023-07-25-blackforest-sewingmachines/11A.jpg)|
+|![Unknown patcher](/assets/2023-07-25-blackforest-sewingmachines/12.jpg)|
 
 The tag on this one says it is a sack sewing machine, but its construction is typical of a shoe maker's patcher.  The long, skinny free-arm is something you'll often see on patchers.  Another argument in favor of "patcher" is the gizmo on the left hand edge of the table.  That appears to be for punching holes or crimping eyelets - neither of which you'd need  for sewing flour sacks, but either of which could be useful when making leather items. I think the tags simpy got swapped between this machine and the Adler 5-39.
 
@@ -164,7 +164,7 @@ Class 8 machines tend to have a pretensioner (A,) a large screw (B) for the left
 
 Two other things you'll notice are the square necked presser feet, and in the machines with the spool holder a sort of cutout in the table top to pass the spool holder when you tip the machine back.
 
-On the day we visited the [Rhine Falls](https://en.wikipedia.org/wiki/Rhine_Falls) (just across the border from Germany in the Swiss canton of Schaffhausen,) we also visited the town of [Stein am Rhein](https://en.wikipedia.org/wiki/Stein_am_Rhein) and went window shopping (again.)  Besides a sadly misplaced western store (where you can buy cowboy hats and pointy-toed cowboy boots made in Mexico and imported to Europe by a German company,) we also wandered into a handcrafts store with this Martin Decker vibrating shuttle sewing machin as decoration.
+On the day we visited the [Rhine Falls](https://en.wikipedia.org/wiki/Rhine_Falls) (just across the border from Germany in the Swiss canton of Schaffhausen,) we also visited the town of [Stein am Rhein](https://en.wikipedia.org/wiki/Stein_am_Rhein) and went window shopping (again.)  Besides a sadly misplaced western store (where you can buy cowboy hats and pointy-toed cowboy boots made in Mexico and imported to Europe by a German company,) we also wandered into a handcrafts store with this Martin Decker vibrating shuttle sewing machine as decoration.
 
 |Martin Decker vibrating shuttle|
 |-------------------------------|
