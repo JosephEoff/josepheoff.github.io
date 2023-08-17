@@ -20,7 +20,7 @@ At the end of the post about repainting the Pfaff 30-31, I promised to post pict
 
 The tabs on the star-shaped washer are bent a little - the washer isn't flat.  The tabs go in the machine, not out to the balance wheel.
 
-Once you've got the balance wheel reinstalled and oiled, turn the clutch knob to the left to loosen it (the balance wheel should turn without the machine running) then spin it a few times to distribute the oil and make sure the balance wheel spins freely.  If the machine runs (the needle foes up and down) when clutch knob is loose then you need to take the balance wheel off again and clean the inside of the wheel and the axle on the machine.
+Once you've got the balance wheel reinstalled and oiled, turn the clutch knob to the left to loosen it (the balance wheel should turn without the machine running) then spin it a few times to distribute the oil and make sure the balance wheel spins freely.  If the machine runs (the needle goes up and down) when clutch knob is loose then you need to take the balance wheel off again and clean the inside of the wheel and the axle on the machine.
 
 |Needle bar|
 |-------------|
