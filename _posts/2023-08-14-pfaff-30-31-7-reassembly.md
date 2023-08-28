@@ -63,7 +63,7 @@ Put the pieces together as shown and install the assembly in the machine. Put a 
 1. Turn the balance wheel so that the point of the shuttle just crosses the needle. 
 2. Loosen the needle bar set screw (marked 1 in the picture.) 
 3. Move the needle bar up or down until the point of the needle is about 2 millimeters above the top edge of the hole in the needle (2 in the picture.)
-4. Tighten the set screw (3 in the picture.)
+4. Tighten the setscrew (3 in the picture.)
 
 That should be fairly close.  When you get the machine all back together, try it out.  If it skips stitches or other wise does strange things then you may need to adjust the needle height again.
 
@@ -86,7 +86,7 @@ Again, there's nothing complicated here.
 
 There's a sort of depression in the wall of the machine where the spring sits.  Set the spring in the depression and lift the lever so that its nub fits in the small end of the spring.
 
-When you installe the chromed lift lever, raise the other lever inside the machine so that it will ride the upper surface of the chromed lever.  Make sure the spring stays in place and that the spring stays on the nub.
+When you install the chromed lift lever, raise the other lever inside the machine so that it will ride surface of the chromed lever.  Make sure the spring stays in place and that the spring stays on the nub.
 
 Oil the pivots on both levers.
 
@@ -203,7 +203,7 @@ This machine had a snazzy little [escutcheon](https://en.wikipedia.org/wiki/Escu
 |![Escutcheon 2](/assets/2023-08-14-pfaff-30-31-7-reassembly/66.jpg)|
 |![Escutcheon 3](/assets/2023-08-14-pfaff-30-31-7-reassembly/67.jpg)|
 
-Straighten the legs, then drop the escutcheon in its hole.  Uses a long screwdriver to bend the legs over from the maintenance opening in the back of the machine.
+Straighten the legs, then drop the escutcheon in its hole.  Use a long screwdriver to bend the legs over from the maintenance opening in the back of the machine.
 
 The maintenance opening cover is simple to install.  Just use a block of wood to protect the machine from the hammer blows.
 
