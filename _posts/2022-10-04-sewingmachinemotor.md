@@ -26,6 +26,8 @@ This is very handy if you need to do a lot of intricate, low speed sewing.  I tu
 
 I am not really familiar with TRIAC circuits, but the circuit in this controller is very much like the one given [here](https://www.electroschematics.com/motor-speed-regulator-with-triac/) which claims to use feedback to maintain the set motor speed.  If the circuit in this controller works the same way, then that would make it a true motor speed control rather than just a power control.
 
+**EDIT - 2023-10-21** *This controller does **not** use any form of feedback to control the speed.  It is a power regulator only.  I checked it out more carefully when I connected the same controller to a [Pfaff 801 Hobbytronic](pfaff-801-motorcontrol) to replace its broken controller.*
+
 |Controller circuit|
 |------------------|
 |![Controller circuit](/assets/2022-10-04-sewingmachinemotor/3.png)|
