@@ -8,7 +8,7 @@ image: /assets/2023-10-21-pfaff-801-motorcontrol/3.jpg
 ---
 Old isn't always better, especially when it comes to electronics.
 
-My wife got rid of her AEG 376 ([mentioned briefly in this post on thread tension](threadtension)) and replaced it with an older Pfaff 801 Hobbymatic from the early 1980s.  The Pfaff 801 is a zig-zag with a freearm.  It doesn't do all the nifty things her Pfaff 262 can do (and it isn't as quiet,) but she can take it downstairs or out on the patio rather than being stuck in her sewing room.
+My wife got rid of her AEG 376 ([mentioned briefly in this post on thread tension](threadtension)) and replaced it with a Pfaff 801 Hobbymatic from the early 1980s.  The Pfaff 801 is a zig-zag with a freearm.  It doesn't do all the nifty things her Pfaff 262 can do (and it isn't quite as quiet,) but she can take it downstairs or out on the patio rather than being stuck in her sewing room.
 
 |Pfaff 801 Hobbymatic|
 |--------------------|
@@ -115,4 +115,4 @@ It works just fine:
 
 <iframe src="https://player.vimeo.com/video/876473400?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479" width="768" height="576" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Pfaff 801 - new motor speed control"></iframe>
 
-The electronic control is **not** a speed control as I speculated [in an earlier post.](sewingmachinemotor) It merely regulated the power.  If you put a load on the machine at low speed, it will stop.  If you want true motor speed control, [have a look at the series I've been writing on a DIY motor speed control for my Adler class 8 sewing machine.](motorcontrol-toc)  It is nearly there - only some software left to write.
+The electronic control is **not** a speed control as I speculated [in an earlier post.](sewingmachinemotor) It merely regulates the power.  If you put a load on the machine at low speed, it will stop.  If you want true motor speed control, [have a look at the series I've been writing on a DIY motor speed control for my Adler class 8 sewing machine.](motorcontrol-toc)  It is nearly there - only some software left to write.
