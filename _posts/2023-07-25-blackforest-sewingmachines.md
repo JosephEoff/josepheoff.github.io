@@ -31,7 +31,7 @@ As with most of the machines I made pictures of on this vacation, I didn't get t
 
 With the information on the NeedleBar page about the L.O. Dietrich Vesta logos, you can date this machine to approximately mid 1920s to about 1932.
 
-I got to ask the owner of the hotel about this particular machine.  The hotel owner is from the Netherlands.  Her grandmother bought the machine in the Netherlands sometime in the 1930s.  The hotel owner inherited it from her grandmother and bought it with her when she and her husband took over the Haus Sonneck hotel sixteen years go.  The machine was manufactured in Altenburg, Germany.  It was sold in the Netherlands, stayed there for at least 75 years, then returned to Germany to spend the last sixteen years decorating a hotel in the Black Forest.
+I got to ask the owner of the hotel about this particular machine.  The hotel owner is from the Netherlands.  Her grandmother bought the machine in the Netherlands sometime in the 1930s.  The hotel owner inherited it from her grandmother and brought it with her when she and her husband took over the Haus Sonneck hotel sixteen years go.  The machine was manufactured in Altenburg, Germany.  It was sold in the Netherlands, stayed there for at least 75 years, then returned to Germany to spend the last sixteen years decorating a hotel in the Black Forest.
 
 If you look closely at the user's guide there, you will see that it is in Dutch, not German.
 
@@ -50,7 +50,7 @@ There was also this monster of an Adler industrial sewing machine being used as 
 
 It appears to be some variant of the Adler 220.
 
-I joked with my wife that the Adler was made to sew one elephant to another.  It isn't (quite) really big enough for that, but is is intended for rather large tasks.  The pages I've found selling old Adler 220 machines mention upholstery and tarps (the kind you use to cover the bed on a big rig truck.)  I even found one guy using them to sew patches onto the backs of leather jackets for bikers - the big bed and the long neck let him lay the jackets flat while sewing rather than having to roll and unroll the jackets to make them fit the harp space on a smaller machine.
+I joked with my wife that the Adler was made to sew elephants together.  It isn't (quite) really big enough for that, but is is intended for rather large tasks.  The pages I've found selling old Adler 220 machines mention upholstery and tarps (the kind you use to cover the bed on a big rig truck.)  I even found one guy using them to sew patches onto the backs of leather jackets for bikers - the big bed and the long neck let him lay the jackets flat while sewing rather than having to roll and unroll the jackets to make them fit the harp space on a smaller machine.
 
 I have no idea when this particular machine was made.  Adler seems to have made them for a long time - I saw purely mechanical Adler 220 machines like this stodgy gray one and others that had electronic displays mounted on them and a more modern paint job.
 
