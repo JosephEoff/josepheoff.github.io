@@ -48,7 +48,7 @@ I made a practice case out of fake leather first, then made the red and black on
 
 I've put the plans and the software for Bigfoot in a [GitHub repository by the name of Bigfoot.](https://github.com/JosephEoff/Bigfoot)  It is currently a disorganized mess of all the things I collected and made and designed and wrote to get Bigfoot working.  I need to organize it, get everything up to date, and corrected.  That will take a while yet.
 
-Have a look.  If you're interested but can't make sense of the mess that is currently the Bigfoot repository, drop me a message in the comments below or open an issue on GitHub.  You may also visit the [Hackaday.io Bigfoor project page.](https://hackaday.io/project/193592-bigfoot-sewing-machine-motor-speed-control)
+Have a look.  If you're interested but can't make sense of the mess that is currently the Bigfoot repository, drop me a message in the comments below or open an issue on GitHub.  You may also visit the [Hackaday.io Bigfoot project page.](https://hackaday.io/project/193592-bigfoot-sewing-machine-motor-speed-control)
 
 ------
 
