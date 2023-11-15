@@ -33,4 +33,4 @@ This series of posts is about concepts in motor speed control and designing a co
 11. [A sewing machine motor speed control - Mounting brackets](motorcontrol11) - Sawing, drilling, sanding and tapping.
 12. [A sewing machine motor speed control - Nearly there](motorcontrol12) - Got the hardware. Where's the software?
 13. [A sewing machine motor speed control - Functional](motorcontrol13) - A look at a functional DIY sewing machine motor speed control.
-
+14. [A sewing machine motor speed control - A look at the insides of the finished control](motorcontrol14) - A lurid crawl through Bigfoot's entrails.
