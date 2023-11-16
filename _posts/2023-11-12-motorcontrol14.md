@@ -23,7 +23,7 @@ To start with, a look around the controller's outsides:
 |![Bigfoot from the outside 3](/assets/2023-11-15-motorcontrol14/3.jpg)|
 |![Bigfoot from the outside 4](/assets/2023-11-15-motorcontrol14/4.jpg)|
 
-Those mostly just show how the control box and the tachometer are mounted on the motor.  You can also see hwo the tachometer picks up the handwheel rotations.
+Those mostly just show how the control box and the tachometer are mounted on the motor.  You can also see how the tachometer picks up the handwheel rotations.
 
 If you look closely, you'll see that there are far more holes in the box than are strictly needed.  My plans for mounting the box changed a couple of times, as did the plans for mounting the tachometer.  By the time it was all done with, things went together with fewer screws than I had thought would be needed.  I didn't want to start over with a new box, so I'll just have to live with the extra "ventilation."
 
@@ -69,9 +69,9 @@ I made a couple of mistakes while designing the PCB and had to bodge a couple of
 |-----------------|
 |![Bodges](/assets/2023-11-15-motorcontrol14/8.jpg)|
 
-Bodge 1 is the pull down for the PWM output.  Without that, the motor screams at full power while the Nano is booting.  That's not fun.
+Bodge 1 is the bleeder resistor for the DC power supply.  That's a 470kohm resistor to discharge the 47µF capacitor for the 300VDC supply.  It is calculated to take about 30 seconds to discharge the 300VDC to a safe (below 50V) level.  I really don't want that thing to be charged when I go to work on Bigfoot's innards.
 
-Bodge 2 is the bleeder resistor for the DC power supply.  That's a 470kohm resistor to discharge the 47µF capacitor for the 300VDC supply.  It is calculated to take about 30 seconds to discharge the 300VDC to a safe (below 50V) level.  I really don't want that thing to be charged when I go to work on Bigfoot's innards.
+Bodge 2 is the pull down for the PWM output.  Without that, the motor screams at full power while the Nano is booting.  That's not fun.
 
 There's a third bodge  that you can't see in that picture.  It's a pull down on the foot pedal connection so that if you turn Bigfoot on without the pedal connected it will stay stopped.
 
