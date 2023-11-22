@@ -130,7 +130,7 @@ Horgen, Switzerland is only 90 kilometers (55 miles) from Schluchsee, Germany.  
 |![Strausak sack sewing machine 2](/assets/2023-07-25-blackforest-sewingmachines/11.jpg)|
 |![Strausak sack sewing machine 3](/assets/2023-07-25-blackforest-sewingmachines/11A.jpg)|
 
-The label on this machine is almost right.  It says "sack sewing machine."  What it is, is a [chain stitch](https://en.wikipedia.org/wiki/Chain_stitch#Machine_stitch_gallery) machine for sewing the full flour sacks shut.  It has a wheel with some truly viscious looking spikes to help pull the full sack through the machine rather than the usual wimpy feed dogs you see on normal sewing machines.  You need that spiked wheel because the full sacks would weigh 25 kg (55 pounds) or 50 kg (110 pounds.)
+The label on this machine is almost right.  It says "sack sewing machine."  What it is, is a [chain stitch](https://en.wikipedia.org/wiki/Chain_stitch#Machine_stitch_gallery) machine for sewing the full flour sacks shut.  It has a wheel with some truly vicious looking spikes to help pull the full sack through the machine rather than the usual wimpy feed dogs you see on normal sewing machines.  You need that spiked wheel because the full sacks would weigh 25 kg (55 pounds) or 50 kg (110 pounds.)
 
 The fact that it is chain stitch probably requires a little bit of explanation.
 
