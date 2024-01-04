@@ -52,12 +52,13 @@ What I need is the following:
 5. Lower the PWM frequency from 20kHz to 5kHz.  The faster frequency is harder on the MOSFET.
 6. Limit the PWM duty cycle to 70 percent so as not to exceed the power rating of the motor.  It is designed for 230VAC.  That's the equivalent of 230VDC.  At 100 percent duty cycle, however, it is getting 300VDC.  Limiting the duty cycle to 70 percent will limit the equivalent DC to around 230VDC.
 7. NTC resistor to limit current to the smoothing capacitor in the 300VDC power supply.
+8. New PCB layout to hold the new parts.  I'll tack things together first to see if the other changes help, then make an improved layout.  Besides the extra parts I also need to increase the separation between various high and low voltage nodes.
 
 The bit about the fast flyback diode is probably the reason why it took so long for Bigfoot to blow.  I designed it with the intention of using a 1N4007 as the flyback diode.  When I assembled it, I had a UF4007 at hand so I used it instead.  The difference between a 1N4007 and a UF40007 is that the UF4007 switches in around 75 nanoseconds while the 1N4007 switches in about 1500 nanoseconds.  That's fast enough that the UF4007 managed to catch the spikes for several hours before missing one (or some) and being damaged.  I'll be switching to a UF5408 - it can handle 3A of current while still having a reverse recovery time of 75 nanoseconds.
 
 I'll use the information from the [STMicroelectronics application note AN280](https://www.st.com/resource/en/application_note/an280-controlling-voltage-transients-in-fullbridge-driver-applications-stmicroelectronics.pdf) to calculate the resistor and capacitor values for the snubber.  The calculations there are based on only the motor voltage, the maximum current, and the reverse recovery time of the affected diodes (and the MOSFET.)
 
-If I were an experience engineer, I'd have thought of those things before Bigfoot went bang.  We'll see if I've learned enough to keep Bigfoot from exploding after I fix it this next time.
+If I were an experienced engineer, I'd have thought of those things before Bigfoot went bang.  We'll see if I've learned enough to keep Bigfoot from exploding after I fix it this next time.
 
 -----
 
