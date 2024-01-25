@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A sewing machine motor speed control - A snubber for Bigfoot."
+title: "A sewing machine motor speed control - A snubber for Bigfoot"
 categories: [blog]
 mathjax: true
 description: "Calculations for a snubber in a 300VDC motor control."
