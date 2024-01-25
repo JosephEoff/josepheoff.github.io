@@ -46,7 +46,7 @@ How do you figure out the needed values?
 
 According to AN280, you need to figure out the allowable voltage rise first.
 
-In my case, all of the components have been selected to allow a maximum of 1000VDC.  I'm going to allow only 
+In my case, all of the components have been selected to allow a maximum of 1000VDC.  I'm going to allow only 500VDC across the motor (and the diode.)
 
 The resistor value is then: \$R = \frac{V_{allowed-peak}}{I_{motor-peak}} = \frac{500V}{3.6A} = 139\Omega\$
 
