@@ -34,17 +34,18 @@ Now that things are running again, I finally got to compare the electromagnetic 
 
 Lacking a radio frequency spectrum analyser and a lab to use it in (as well as the training to use it,) I simply tuned an AM radio between stations to hear what kind of RF "crap" Bigfoot is spewing.
 
-# Bigfoot EMI
+|Bigfoot EMI|
+|-----------|
+|[Bigfoot EMI](/assets/2024-02-10-motorcontrol18/bigfoot.mp3)|
 
-{% miniaudio '/assets/2024-02-10-motorcontrol18/bigfoot.mp3' %}
 
 That sounds lousy.  It is loud and certainly nothing that you really want to hear on your radio.
 
 For comparison, I used a standard electronic motor control on a Kayser vibrating shuttle sewing machine that I'm working on.
 
-# Standard electronic control EMI
-
-{% miniaudio '/assets/2024-02-10-motorcontrol18/standard.mp3' %}
+|Standard electronic control EMI|
+|-------------------------------|
+|[Standard electronic control EMI](/assets/2024-02-10-motorcontrol18/standard.mp3)|
 
 That's not any better.  If anything, it is worse than Bigfoot.
 
