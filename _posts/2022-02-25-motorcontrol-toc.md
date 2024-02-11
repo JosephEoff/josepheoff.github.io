@@ -36,3 +36,4 @@ This series of posts is about concepts in motor speed control and designing a co
 14. [A sewing machine motor speed control - A look at the insides of the finished control](motorcontrol14) - A lurid crawl through Bigfoot's entrails.
 15. [A sewing machine motor speed control - When you really need an engineer's help](motorcontrol16) - Kerplunk.  Kablooey.
 16. [A sewing machine motor speed control - A snubber for Bigfoot](motorcontrol17)- Protecting the flyback diode that protects the MOSFET.
+17. [A sewing machine motor speed control - The sound of a functional snubber](motorcontrol18)- The answer to a non-Zen non-koan.
