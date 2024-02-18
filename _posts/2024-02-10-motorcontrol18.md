@@ -14,7 +14,7 @@ In [Zen Buddhism,](https://en.wikipedia.org/wiki/Zen) there is a tradition of us
 
 I'm not philosophical enough to attempt to answer that question.
 
-I am practical enough, however, to answer a non-Zen, non-koan along similar lines.
+I am practical enough, however, to answer a non-Zen, non-koan question along similar lines.
 
 - Question: What is the sound of a functioning snubber?
 - Answer: The sound of a running motor.
