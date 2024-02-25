@@ -8,7 +8,7 @@ image: /assets/2024-02-25-moresharpeningstones/1.jpg
 ---
 Showing how I did something the second time around.
 
-Last week, I [mentioned the set of sharpening stones](sharpeningstones) I bought for the local [Repair Café.](https://www.repaircafe.org/en/)  While trying them out, I found that I liked using them so much that I bought (larger) set for myself.  The repair cafe only needs to get kitchen knives sharp enough to cut vegetables.  I use mine to sharpen our kitchen knives, but also the chisels I use for wood working.
+Last week, I [mentioned the set of sharpening stones](sharpeningstones) I bought for the local [Repair Café.](https://www.repaircafe.org/en/)  While trying them out, I found that I liked using them so much that I bought a (larger) set for myself.  The repair cafe only needs to get kitchen knives sharp enough to cut vegetables.  I use mine to sharpen our kitchen knives, but also the chisels I use for woodworking.  The set I bought has six stones (120, 240, 600, 1000, 2000, 3000 grit) and a leather strop with some polishing compound. 
 
 |New stones|
 |----------|
@@ -30,9 +30,9 @@ I use oil with all of those stones - that makes a mess, so I only sharpen things
 
 I won't be disposing of them, but I'm pretty sure the industrial stone won't see much use in the future.
 
-I didn't take pictures when I made the stone holder for the repair café, but I did make some this time around.
+I didn't take pictures when I made the stone holder for the repair café, but I made some this time around.
 
-This project starts with cutting a scrap of scrap beech wood to the right length.
+This project starts with cutting a scrap of beech wood to the right length - it is already the right width.
 
 |Wood for the stones|
 |-------------------|
