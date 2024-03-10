@@ -69,7 +69,7 @@ I drilled out the whole area for the cutout, then got out a wood chisel to remov
 |![Clearing the cutout 2](/assets/2024-02-25-moresharpeningstones/10.jpg)|
 |![Clearing the cutout 3](/assets/2024-02-25-moresharpeningstones/11.jpg)|
 
-I cut around the entire cutout with the chisel before removing the stuff in the middle.  That keeps me from cutting outside the lines.  Stand the chisel up along the marked line and hammer it down a couple of millimeters into the wood.  Move over and do it again.  Keep going until you've got groove all the way around the cutout.
+I cut around the entire cutout with the chisel before removing the stuff in the middle.  That keeps me from cutting outside the lines.  Stand the chisel up along the marked line and hammer it down a couple of millimeters into the wood.  Move over and do it again.  Keep going until you've got a groove all the way around the cutout.
 
 I removed material until the dimples from the point of the drill were gone.  That makes it easy to get the bottom of the cutout level.
 
@@ -79,7 +79,7 @@ I removed material until the dimples from the point of the drill were gone.  Tha
 |![Finished cutout 2](/assets/2024-02-25-moresharpeningstones/12B.jpg)|
 |![Finished cutout 3](/assets/2024-02-25-moresharpeningstones/12C.jpg)|
 
-The last bit of "wood working" is to drill the holes for the clamps.  Again, I just eyeballed them into place.  First with a small bit, then with an 8.5mm diamter bit to fit the clamps.
+The last bit of "woodworking" is to drill the holes for the clamps.  Again, I just eyeballed them into place.  First with a small bit, then with an 8.5mm diamter bit to fit the clamps.
 
 |Clamp holes|
 |-----------|

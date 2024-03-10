@@ -169,7 +169,7 @@ It goes back together like this:
 |![Main tensioner 10](/assets/2023-08-14-pfaff-30-31-7-reassembly/58.jpg)|
 |![Main tensioner 11](/assets/2023-08-14-pfaff-30-31-7-reassembly/59.jpg)|
 
-Adjust the tension using [this guide.](http://127.0.0.1:4000/posts/threadtension)
+Adjust the tension using [this guide.](threadtension)
 
 The nose plate is pretty simple to put back on.
 
