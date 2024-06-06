@@ -15,4 +15,5 @@ My wife and I both have repairable [Fairphone 3](https://shop.fairphone.com/shop
 This series of posts will start with the concept and proceed through all the steps necessary to make two completed phone cases.  That will include designing the templates (and will include the templates if you'd like to use them) as well as the construction - cutting, gluing, sewing, etc.
 
 1. [A case for a Fairphone 3 - Concept](phonecase1) - Begin at the beginning.
-2. [A case for a Fairphone 3 - Plan](phonecase2) - Making measurements and drawing plans..
+2. [A case for a Fairphone 3 - Plan](phonecase2) - Making measurements and drawing plans.
+2. [A case for a Fairphone 3 - Prototype](phonecase3) - Reconciling plans and reality.
