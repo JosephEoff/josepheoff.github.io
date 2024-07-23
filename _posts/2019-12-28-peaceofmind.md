@@ -72,3 +72,6 @@ I didn't put varnish on it.  It's too cold in the garage right now for the varni
 Altogether that's about 70 dollars worth of alarms, some scrap wood, and a couple of hours fiddling around in the garage.
 
 I think that's a fair price to pay if it ever beeps once with cause - and if it never beeps at all I'll be just as happy.
+
+**Edit: 23.7.2024**
+*I visited my son this last weekend, and discovered that he took the "party alarm" with him when he moved to a new apartment.  There's a gas fired heater in his bedroom, and he felt safer in the winter time with a gas and carbon monoxide alarm there keeping watch over the 50 year old burner.*
