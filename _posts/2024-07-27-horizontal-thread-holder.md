@@ -25,7 +25,7 @@ To prevent that from happening again, I made a clip to hold the glasses to my sh
 |![Eyeglass clip 3](/assets/2024-07-27-horizontal-thread-holder/3.jpg)|
 |![Eyeglass clip 4](/assets/2024-07-27-horizontal-thread-holder/4.jpg)|
 
-The clip has a frame of stainless steel wire under the leather.  The frame is bent so as to hold the cloth of the shirt pocket tightly.  The earpieces of the glasses go through a sort of tube in the front.  When it is all done properly, the clip holds the glasses to the pocket so that they don't flop around on the hinges.
+The clip has a frame of stainless steel wire under the leather.  The frame is bent so as to hold the cloth of the shirt pocket tightly. One earpiece of the glasses goes through a sort of tube in the front.  When it is all done properly, the clip holds the glasses to the pocket so that they don't flop around on the hinges.
 
 Now, as a certain comedian used to say, I told you that story so that I can tell you this one.
 
