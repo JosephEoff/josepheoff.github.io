@@ -4,7 +4,7 @@ title: "Duplicating the pocket eyeglass clip"
 categories: [blog]
 mathjax: false
 description: "Making a clip from leather and steel wire to hold eyeglasses in a shirt pocket."
-image: /assets/2024-08-27-eyeglassclip/7.jpg
+image: /assets/2024-08-27-eyeglassclip/23.jpg
 ---
 How many tools does it take?
 
