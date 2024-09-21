@@ -29,6 +29,7 @@ As I promised in my last [post,](howtosolder-intro) here's the table of contents
 16. [Meet my new soldering iron](howtosolder-16-new-soldering-iron) - The hardware store cheapy left me hanging.
 17. [Repair an Android headset](howtosolder-17-headset) - Everything it takes to replace a broken Android headset plug (4 pole CTIA.)
 18. [A better solder sucker](howtosolder-18-bettersoldersucker) - A modern replacement for the old fashioned solder sucker ball.
+19. [Flux and lead-free solder](howtosolder-flux) - When supposedly simple tasks turn complicated.
 
 As I complete each post, I'll link them into this table of contents.  I may add other pages, or combine some items and shorten the list.  We'll see how it goes.
 

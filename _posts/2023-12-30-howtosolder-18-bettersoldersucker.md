@@ -3,7 +3,7 @@ layout: post
 title: "HowTo: Solder by hand - A better solder sucker"
 categories: [blog]
 mathjax: false
-description: "A short description of a mechainical desoldering pump that won't destroy your PCB."
+description: "A short description of a mechanical desoldering pump that won't destroy your PCB."
 image: /assets/2023-12-30-howtosolder-18-soldersucker/1.jpg
 ---
 A modern replacement for the old fashioned solder sucker ball.

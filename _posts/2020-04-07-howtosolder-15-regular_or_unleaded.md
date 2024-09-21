@@ -13,6 +13,9 @@ For those in a hurry:
 
 **Good lead free solder is just as easy to use as tin/lead 60/40.** 
 
+***Edit 2024-09-21:***
+*There is another factor that comes into play with lead-free solder.  [Have a look at this post describing some adventures with lead-free solder.](howtosolder-flux)  Conclusion: You need activated rosin flux in your solder or in addition to the no-clean flux.  Additional point:  You can't solder copper clad aluminum (CCA) wire with lead free solder.  Use 60/40 tin/lead or similar alloy on CCA.*
+
 There's a [summary of the required soldering iron tip temperatures](#table-of-temperatures) later in this post.
 
 ------------------
