@@ -8,7 +8,7 @@ image: /assets/2024-08-27-eyeglassclip/23.jpg
 ---
 How many tools does it take?
 
-I mentioned in my [last blog post](horizontal-thread-holder) that I had made a clip to hold my eyeglasses in my shirt pocket.  My brother saw it a couple of weeks ago and asked if I might make one for him as well.  His eyes are better than mine - he only needs a pair of glasses when working at the computer.  When he's not at the computer, though, the eyeglasses tend to get in the way or get lost.
+I mentioned in my [last blog post](horizontal-thread-holder) that I had made a clip to hold my eyeglasses in my shirt pocket.  My brother-in-law saw it a couple of weeks ago and asked if I might make one for him as well.  His eyes are better than mine - he only needs a pair of glasses when working at the computer.  When he's not at the computer, though, the eyeglasses tend to get in the way or get lost.
 
 My first clip was sort of bashed together in a couple of hours one evening.  I had been thinking about how to make on for a long time, so I had ideas in mind but hadn't decided which way to go.  As often happens, when you need to do something **now,** all the ifs and buts and whatabouts tend to disappear and you go with the simplest, most practical plan to reach your goals.  I scribbled down a plan then got to work so as to not break another 200€ pair of glasses.
 
