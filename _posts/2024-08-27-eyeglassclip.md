@@ -68,7 +68,7 @@ The flux makes a mess, and the ends of the joint are sharp, so the frame has to 
 |![Clean the frame 4](/assets/2024-08-27-eyeglassclip/12.jpg)|
 |![Clean the frame 5](/assets/2024-08-27-eyeglassclip/13.jpg)|
 
-The flux leaves a tough, sticky coating on the metal.  I use my pocket knife to scrape off the worst of it, then polish the rest off using a cloth wheel with polishing compound in a bench grinder.  The other side of the bench grinder has a diamond grinding wheel that a machinist my father knew used to make tungsten carbide cutting tools.  It was worn out for what he did with it, but it does a dandy job grinding sharp corners off of stainless steel.
+The flux leaves a tough, sticky coating on the metal.  I use my pocket knife to scrape off the worst of it, then polish the rest off using a cloth wheel with polishing compound in a bench grinder.  The other side of the bench grinder has a diamond grinding wheel that a machinist my father knew used to make tungsten carbide cutting tools.  It was worn out for what he did with it but it does a dandy job grinding sharp corners off of stainless steel.
 
 Once all the flux was polished off the frame, I had to clean the polishing compound off of it.  I use turpentine (or rather, the modern non-turpentine turpentine) to dissolve it, then wash it in soapy water.
 
@@ -94,7 +94,7 @@ I used a zipper foot to sew the seam right up to the steel frame, then used a re
 
 If you look closely at that last photo, you'll see that the actual holder for the glasses (the square shape from the pattern) has one edge folded inside and the other folded outside.  That isn't a mistake.  That is on purpose.  Those two edges need stiffening, so they are folded double.  The lower one folds out (rough side out) so that the earpiece of the eyeglass frame doesn't hang on it going in.
 
-The holder is sewn in such that its lower edge is right agains the lower edge of the frame.  That clamps the earpiece in so that glasses can't slide out of the clip.
+The holder is sewn in such that its lower edge is right against the lower edge of the frame.  That clamps the earpiece in so that glasses can't slide out of the clip.
 
 The clip itself now has to be folded so that it will clip onto a shirt pocket.
 
