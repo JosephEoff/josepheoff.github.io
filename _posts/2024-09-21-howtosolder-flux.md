@@ -93,7 +93,7 @@ The difference is in the flux.
 Here's the label from all three rolls of solder:
 
 |60/40 tin/lead|My lead-free 99.3/0.7 tin/copper|Son lead-free 99.3/0.7 tin/copper (you'll need extra activated rosin flux to use this stuff)|
-|--------------|--------------------------------|---------------------------------|
+|---------------------------------|---------------------------------|---------------------------------|
 |![60/40 tin/lead](/assets/2024-09-21-howtosolder-flux/5.jpg)|![My lead-free 99.3/0.7 tin/copper](/assets/2024-09-21-howtosolder-flux/6.jpg)|![Son lead-free 99.3/0.7 tin/copper](/assets/2024-09-21-howtosolder-flux/7.jpg)|
 
 What I've been calling 60/40 tin/lead is actually 60/39/1 tin/lead/copper.
