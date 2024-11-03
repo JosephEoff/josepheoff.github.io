@@ -62,7 +62,7 @@ Put the pieces together as shown and install the assembly in the machine. Put a 
 
 1. Turn the balance wheel so that the point of the shuttle just crosses the needle. 
 2. Loosen the needle bar set screw (marked 1 in the picture.) 
-3. Move the needle bar up or down until the point of the needle is about 2 millimeters above the top edge of the hole in the needle (2 in the picture.)
+3. Move the needle bar up or down until the point of the hook is about 2 millimeters above the top edge of the hole in the needle (2 in the picture.)
 4. Tighten the setscrew (3 in the picture.)
 
 That should be fairly close.  When you get the machine all back together, try it out.  If it skips stitches or other wise does strange things then you may need to adjust the needle height again.

@@ -8,7 +8,7 @@ image: /assets/2024-08-27-eyeglassclip/23.jpg
 ---
 How many tools does it take?
 
-I mentioned in my [last blog post](horizontal-thread-holder) that I had made a clip to hold my eyeglasses in my shirt pocket.  My brother saw it a couple of weeks ago and asked if I might make one for him as well.  His eyes are better than mine - he only needs a pair of glasses when working at the computer.  When he's not at the computer, though, the eyeglasses tend to get in the way or get lost.
+I mentioned in my [last blog post](horizontal-thread-holder) that I had made a clip to hold my eyeglasses in my shirt pocket.  My brother-in-law saw it a couple of weeks ago and asked if I might make one for him as well.  His eyes are better than mine - he only needs a pair of glasses when working at the computer.  When he's not at the computer, though, the eyeglasses tend to get in the way or get lost.
 
 My first clip was sort of bashed together in a couple of hours one evening.  I had been thinking about how to make on for a long time, so I had ideas in mind but hadn't decided which way to go.  As often happens, when you need to do something **now,** all the ifs and buts and whatabouts tend to disappear and you go with the simplest, most practical plan to reach your goals.  I scribbled down a plan then got to work so as to not break another 200€ pair of glasses.
 
@@ -68,7 +68,7 @@ The flux makes a mess, and the ends of the joint are sharp, so the frame has to 
 |![Clean the frame 4](/assets/2024-08-27-eyeglassclip/12.jpg)|
 |![Clean the frame 5](/assets/2024-08-27-eyeglassclip/13.jpg)|
 
-The flux leaves a tough, sticky coating on the metal.  I use my pocket knife to scrape off the worst of it, then polish the rest off using a cloth wheel with polishing compound in a bench grinder.  The other side of the bench grinder has a diamond grinding wheel that a machinist my father knew used to make tungsten carbide cutting tools.  It was worn out for what he did with it, but it does a dandy job grinding sharp corners off of stainless steel.
+The flux leaves a tough, sticky coating on the metal.  I use my pocket knife to scrape off the worst of it, then polish the rest off using a cloth wheel with polishing compound in a bench grinder.  The other side of the bench grinder has a diamond grinding wheel that a machinist my father knew used to make tungsten carbide cutting tools.  It was worn out for what he did with it but it does a dandy job grinding sharp corners off of stainless steel.
 
 Once all the flux was polished off the frame, I had to clean the polishing compound off of it.  I use turpentine (or rather, the modern non-turpentine turpentine) to dissolve it, then wash it in soapy water.
 
@@ -94,7 +94,7 @@ I used a zipper foot to sew the seam right up to the steel frame, then used a re
 
 If you look closely at that last photo, you'll see that the actual holder for the glasses (the square shape from the pattern) has one edge folded inside and the other folded outside.  That isn't a mistake.  That is on purpose.  Those two edges need stiffening, so they are folded double.  The lower one folds out (rough side out) so that the earpiece of the eyeglass frame doesn't hang on it going in.
 
-The holder is sewn in such that its lower edge is right agains the lower edge of the frame.  That clamps the earpiece in so that glasses can't slide out of the clip.
+The holder is sewn in such that its lower edge is right against the lower edge of the frame.  That clamps the earpiece in so that glasses can't slide out of the clip.
 
 The clip itself now has to be folded so that it will clip onto a shirt pocket.
 
