@@ -12,4 +12,4 @@ I had planned to do a quick write-up of how to sew jersey knit fabric on a vinta
 
 1. [Sewing knit jersey material on a vintage straight stitch sewing machine - Some background info](vibratingshuttle-jersey) - It can't be that hard, can it?
 2. [Sewing knit jersey material on a vintage straight stitch sewing machine - Setting up a vibrating shuttle machine for sewing knit fabrics](vibratingshuttle-jersey-1) - Lighten up, it isn't difficult.
-3. [Sewing knit jersey material on a vintage straight stitch sewing machine - A simple sewing project using knit fabric sewn on a vibrating shuttle sewing machine](vibratingshuttle-jersey-2) - 
+3. [Sewing knit jersey material on a vintage straight stitch sewing machine - A simple sewing project using knit fabric sewn on a vibrating shuttle sewing machine](vibratingshuttle-jersey-2) - A simple project - if you can sew jersey fabric.
