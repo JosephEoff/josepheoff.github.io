@@ -10,7 +10,7 @@ A simple project - if you can sew jersey fabric.
 
 [Sewing knit jersey material on a vintage straight stitch sewing machine - Table of Contents](vibratingshuttle-jersey-toc) 
 
-I've mentioned before that I'm an old geezer.  Besides [bad eyes that cause me to need to pairs of glasses,](eyeglassclip) I also need a [CPAP machine](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure) to keep me breathing properly at night.
+I've mentioned before that I'm an old geezer.  Besides [bad eyes that cause me to need two pairs of glasses,](eyeglassclip) I also need a [CPAP machine](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure) to keep me breathing properly at night.
 
 The mask for the CPAP is what got me to thinking about sewing some jersey fabric.
 
@@ -20,7 +20,7 @@ The straps holding the mask on my face have velcro strips on them.  The plastic 
 |----------------------|
 |![Scratchy velcro strips](/assets/2024-11-19-vibratingshuttle-jersey/9.jpg)|
 
-The black stitching that you see there doesn't make things better, either.  The straps stretch when used.  After a while, they get so long that I can't adjust them to be tight enough for the mask to seal properly - it makes squeaky fart noises everytime I move at night.  The fix for that is to sew the straps together, then sew the loop shorter as the strap stretched.  That leaves the thread exposed to also rub my neck - more scratches and raw spots.
+The black stitching that you see there doesn't make things better, either.  The straps stretch when used.  After a while, they get so long that I can't adjust them to be tight enough for the mask to seal properly - it makes squeaky fart noises everytime I move at night.  The fix for that is to sew the straps together, then sew the loop (where the mask attaches to the mask) shorter as the straps stretch.  That leaves the thread exposed to also rub my neck - more scratches and raw spots.
 
 Rather than make a complete set of straps, I decided I'd make some covers for the existing straps.
 
@@ -97,7 +97,7 @@ There's a small trick that makes it easier to start a seam when sewing knit fabr
 
 |Simple trick|
 |------------|
-|![Simple trick](/assets/2024-11-19-vibratingshuttle-jersey/11.jpg)|
+|![Simple trick](/assets/2024-11-19-vibratingshuttle-jersey/13.jpg)|
 
 Start with the end of the fabric already behind the presser foot and the edge of the cutout (1.)  Sew in reverse until you get to the end of the fabric (2.) Finally switch to forwards stitching and sew the seam as usual.
 

@@ -99,4 +99,8 @@ Summary:
 
 The killer is number 1.  Only vibrating shuttle and transverse shuttle machines can work reliably at the low thread tension required to successfully sew knit fabrics.
 
+By the way:
+
+You don't need a special "stretch thread" for this.  I used plain polyester thread that has practically no give.
+
 [Sewing knit jersey material on a vintage straight stitch sewing machine - Table of Contents](vibratingshuttle-jersey-toc)
