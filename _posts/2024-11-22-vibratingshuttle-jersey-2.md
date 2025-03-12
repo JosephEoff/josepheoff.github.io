@@ -3,7 +3,7 @@ layout: post
 title: "Sewing knit jersey material on a vintage straight stitch sewing machine - A simple sewing project using knit fabric sewn on a vibrating shuttle sewing machine"
 categories: [blog]
 mathjax: false
-description: "Soft cushions to cover the velcro strips on the straps of a ResMed QuattorAir CPAP mask."
+description: "Soft cushions to cover the velcro strips on the straps of a ResMed Quattro Air CPAP mask."
 image: /assets/2024-11-19-vibratingshuttle-jersey/11.jpg
 ---
 A simple project - if you can sew jersey fabric.
