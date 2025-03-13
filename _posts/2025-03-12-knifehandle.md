@@ -12,7 +12,7 @@ The last few months have been extraordinarily busy.  So busy that I haven't felt
 
 To fill out the evening in a non-hazardous way, I decided to post a few pictures of something I did over the last couple of weekends.
 
-One of our kitchen knives broke sometime back.  "Broken" as in "the handle fell off" rather than "broken" as in "broke the blade."  I though it over several times, and decided to see if I could make a new handle for it.
+One of our kitchen knives broke sometime back.  "Broken" as in "the handle fell off" rather than "broken" as in "broke the blade."  I thought it over several times, and decided to see if I could make a new handle for it.
 
 |Broken knife|
 |------------|
@@ -26,7 +26,7 @@ I didn't make as many photos as I usually do - I make photos when I'm reasonably
 
 I cut a piece of oak about as long as I felt the handle needed to be - an inch or two longer than the original.  The scrap was already about the right width and height to fit comfortably in hand.
 
-The original idea was to pin the blad in the handle using the existing hole.  It was larger than the brass rod scrap I had at hand to make the pins from, so I ended up drilling two smaller (4mm) holes in the tang to match the brass pins.
+The original idea was to pin the blade in the handle using the existing hole.  It was larger than the brass rod scrap I had at hand to make the pins from, so I ended up drilling two smaller (4mm) holes in the tang to match the brass pins.
 
 |Fitting a pin|
 |-------------|
@@ -55,15 +55,15 @@ If I think about it, I'll check back in a few years and let you know how well my
 
 One of the many things I've done in the last months was to try to make a small leather drawstring bag for the dice my son uses to play Dungeons and Dragons.
 
-The bag didn't turn out well - it was a bit small, and I couldn' get the drawstring threaded through the neck.
+The bag didn't turn out well - it was a bit small, and I couldn't get the drawstring threaded through the neck.
 
 It was laying there on my workbench, mocking me, when I came through the room with another knife in hand.
 
 I had been cleaning out the trunk of the car, and came upon our "emergency knife." It was packed in with the tools and stuff I keep in a [large wicker basket](haspkeeper) in the trunk.  That basket is full of things you only need once in a blue moon - things like a tow rope, jumper cables, etc.
 
-That "etcetera" includes a knife for just in case.  That knife had worked its way free of where ever we had had it stashed so as not to cut fingers - it nearly cut mine while I was sorting things to go back in the basket.
+That "etcetera" includes a knife for just in case.  That knife had worked its way free of whereever we had had it stashed so as not to cut fingers - it nearly cut mine while I was sorting things to go back in the basket.
 
-As coincidence would have it, the dice bag is just long enough to cover the blade and go on up onto the handle.  A couple of minutes put a snap on the mouth of the bag and converted it into a clip on sheath for a knife.
+As coincidence would have it, the dice bag is just long enough to cover the blade and go on up onto the handle.  A couple of minutes put a snap on the mouth of the bag and converted it into a clip-on sheath for a knife.
 
 My wife always complains that I never throw things away.  Well, dang it, I end up using a lot of that "junk."  Just like this failed bag turned knife sheath.
 
