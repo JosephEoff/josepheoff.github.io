@@ -11,7 +11,7 @@ When you can't get parts for an old machine.
 
 I keep mentioning the local repair café - mostly having to do with things I've put together to donate as tools.  Today's post is another such object.
 
-Back when we started organizing the repair café, one of the fellows mentioned that he had a couple of old sewing machines in his barn and asked if I'd like to have one.  I already have all the sewing machines I need (one for me and two for my wife,) so I didn't need another.  Instead, I volunteered to clean one up for use in the repair café.  
+Back when we started organizing the repair café, one of the fellows mentioned that he had a couple of old sewing machines in his barn and asked if I'd like to have one.  I already have all the sewing machines I need (one for me and two for my wife,) so I didn't need another.  Instead, I volunteered to clean one up for use in the repair café.
 
 Since one of the two machines was a Pfaff model 11 (the renamed version of the [Pfaff model K](pfaff-k-toc) that I cleaned up a couple of years ago,) I decided to take Mae West's advice ("*Between two evils, I always pick the one I never tried before*") and took the Kayser model L to fix up.
 
@@ -28,7 +28,7 @@ First off, a look at the refinished machine:
 
 When I got it, the Kayser needed two things:  A serious cleanup and a base to sit on.  
 
-The machine was originally in a treadle table, but had been removed so that treadle could be used as a table.  I built a base for it and put an electrica motor on it. As with the Pfaff K, this one ended up being made of walnut stained beech wood.  The original plan was to make the base of pine, but that fell through.  I actually had the pine base nearly finished, then decided to start over with beech because the pine was too soft.  Every time I went to work on the pine box, I found another dent in it where I'd bumped it while moving it.  That was obviously not going to work, so I made a new box of beech.
+The machine was originally in a treadle table, but had been removed so that the treadle could be used as a table.  I built a base for it and put an electric motor on it. As with the Pfaff K, this one ended up being made of walnut stained beech wood.  The original plan was to make the base of pine, but that fell through.  I actually had the pine base nearly finished, then decided to start over with beech because the pine was too soft.  Every time I went to work on the pine box, I found another dent in it where I'd bumped it while moving it.  That was obviously not going to work, so I made a new box of beech.
 
 The clean up turned out to be a fairly major task all by itself.  It was full of fuzzy-wuzzies and old oil, and the shellac finish was ruined. Yes, I ended up stripping the shellac off of another vintage machine - and this time, I didn't really get away with it.  I stripped the shellac off of my [Adler model 8](http://127.0.0.1:4000/posts/adler-toc) and got away with it because the Adler had decorations made of gold leaf rather than decals.  The Kayser had multi-colored decals - mostly gold, but also some red, blue, and green.  Stripping the shellac off took the colors off of the decals.  Only the silver colored base of the decals stayed put.  Everybody that tells you not to strip the shellac with alcohol is right.  Don't do it if you can avoid it.
 
@@ -36,7 +36,7 @@ It isn't perfect, but it looks much better than when I got it.  Most importantly
 
 Getting it to sew well was the unplanned third part of this project.
 
-There was a shuttle included with the machine, so I wasn't expecting any problems.  
+There was a shuttle included with the machine, so I wasn't expecting any problems.
 
 It turned out that the shuttle was from a different machine, possibly the Pfaff 11 that was in the barn with the Kayser.
 
