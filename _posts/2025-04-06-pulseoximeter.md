@@ -121,7 +121,7 @@ That clearly show some large drops in blood oxygen.  At about 06:19, the blood o
 
 That confirms that the CPAP works for me.  The blood oxygen concentration stays near optimal levels on CPAP, then goes all to pieces without CPAP.
 
-You may notice that the battery values are not schown in OSCAR.  That's because I didn't import them.  OSCAR looks at the battery values during import and warns you if the battery dropped to zero, but that's all.  The battery value is irrelevant for the health aspects.  It only matters in so far as the time stamps are worthless if the battery runs down.
+You may notice that the battery values are not shown in OSCAR.  That's because I didn't import them.  OSCAR looks at the battery values during import and warns you if the battery dropped to zero, but that's all.  The battery value is irrelevant for the health aspects.  It only matters in so far as the time stamps are worthless if the battery runs down.
 
 The ViHealth software cannot tell if a value was skipped.  It assumes that the data records come in at 1 per second all the time.  When the battery runs down, it will skip records and may "sleep" for several minutes before the batteries recover a bit and it starts sending data again.
 
