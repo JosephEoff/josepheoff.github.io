@@ -12,7 +12,7 @@ A little vintage safety for working with vintage equipment.
 
 At the party, my brother-in-law mentioned that he and his wife had bought an old tube radio and asked if I knew anyone who could help in fixing it up for use.  In actual fact, there's a young fellow who helps out at the local repair cafe who collects and restores old tube radios as a hobby.  He's been out of town for the last few weeks, though, so I offered to take a look at it.  That radio is now parked on my workbench, waiting to be cleaned, tested, adjusted and Bluetooth adapted.
 
-When I was working on the Granada, I was very nervous what with the high voltage inside and the chances of getting zapped.  The Granada attually has an isolated transformer built in.  Many do not.  They are known as "hot chassis" radios because the metal frame inside the cabinet is at line voltage, and connected directly to the AC power line.  That kind of thing makes me nervous.
+When I was working on the Granada, I was very nervous what with the high voltage inside and the chances of getting zapped.  The Granada actually has an isolated transformer built in.  Many do not.  They are known as "hot chassis" radios because the metal frame inside the cabinet is at line voltage, and connected directly to the AC power line.  That kind of thing makes me nervous.
 
 The correct solution for working on a hot chassis radio is to use [an isolated 1-to-1 transformer](https://en.wikipedia.org/wiki/Isolation_transformer) to power it.  The transformer makes it so that there's no path for current from the output side to ground.  You can't be zapped just by touching something inside the radio, and you can connect an oscilloscope or other test equipment without causing a short circuit or getting AC line voltage applied to the housing of your test equipment.
 
@@ -29,7 +29,7 @@ Perseverance paid off, though, when this old gadget popped up in my search:
 |![Variac 1](/assets/2025-07-27-isolatedvariac/1.jpg)|
 |![Variac 2](/assets/2025-07-27-isolatedvariac/2.jpg)|
 
-At first glance, that looks like a simple variac with a couple of Euro-plug outlets on top (with an adapter in one.)  That it has outlets is already better than the other offerings.  
+At first glance, that looks like a simple variac with a couple of Euro-plug outlets on top (with an adapter in one.)  That it has outlets is already better than the other offerings.
 
 What made me really sit up and take notice of it, however, was this:
 
@@ -37,7 +37,7 @@ What made me really sit up and take notice of it, however, was this:
 |---------------|
 |![Isolated variac](/assets/2025-07-27-isolatedvariac/3.jpg)|
 
-That's a diagram of the innards of very peculiar variac.  It actually isn't a variac at all.  A variac is an autotransformer with variable output voltage.  The e-Bay advertisement had a picture of this diagram, and it is a very good thing they did.  I wouldn't have given it a second glance without it.
+That's a diagram of the innards of a very peculiar variac.  It actually isn't a variac at all.  A variac is an autotransformer with variable output voltage.  The e-Bay advertisement had a picture of this diagram, and it is a very good thing they did.  I wouldn't have given it a second glance without it.
 
 This thing is an isolation transformer with a variable tap on the secondary side.  It is a variable output isolation transformer.
 
@@ -49,7 +49,7 @@ If the screened primary was the cherry on top, the whipped cream was that it cos
 
 Since this thing is used and intended as a safety device, I decided not to take its proper function at face value.  I don't want to find out that the isolation failed by getting myself zapped dead.
 
-To check isolation, you need an isolation tester.  These use high voltage to measure very high resistance values, such is the insulation between two insulated conductors in a cable.
+To check isolation, you need an isolation tester.  These use high voltage to measure very high resistance values, such as the insulation between two insulated conductors in a cable.
 
 The repair cafe I help out in has one, which I borrowed for the weekend.
 
@@ -99,5 +99,8 @@ That wraps up this look at a piece of vintage test equipment.  I'll start workin
 ------
 
 The one thing I do not know about this transformer is who made it and where it was made.  There's no manufacturer's name anywhere.  Not even a sticker that says "made in the people's republic of who knows where."  Just, nothing.  Not even the model number does me any good.  No one anywhere on Earth has ever posted anything on the internet about a B870900/C3 transformer.  Just a big old mystery, all around.
+
+**ETA: 2025.08.03**
+*I found out who made my isolated non-variac.  [This (German language) forum thread about a different variac had a post in it about a Philips variable output isolated transformer.](https://www.casa.co.nz/transformers/Miniwatt%20Digest%20V2%20No.7.pdf) A link in the thread lead to [this catalog,](/assets/2025-07-27-isolatedvariac/Miniwatt Digest V2 No.7.pdf) which shows that this B870900 variable output isolation transformer was indeed manufactured by Philips.*
 
 
