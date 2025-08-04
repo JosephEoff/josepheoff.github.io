@@ -26,6 +26,7 @@ The list, of course, starts with the POD2W and the OxySmart.
 |------------|-----|-----|----|-----|
 |Wellue/Viatom|POD2W|![POD2W front](/assets/2025-04-19-morepulseoximeters/1.jpg)|![POD2W back](/assets/2025-04-19-morepulseoximeters/2.jpg)|Folder: /28/host/|
 |Wellue/Viatom|OxySmart (KS-60FWB)|![OxySmart front](/assets/2025-04-19-morepulseoximeters/3.jpg)|![OxySmart back](/assets/2025-04-19-morepulseoximeters/4.jpg)|Folder: /27/host/|
+|Wellue/Viatom|OxySmart (PO6B)|![OxySmart PO6B front](/assets/2025-04-19-morepulseoximeters/6.jpg)|![OxySmart PO6B back](/assets/2025-04-19-morepulseoximeters/5.jpg)|Folder: /48/host/|
 
 I've asked for example files from folks on Reddit.  I'll post updates for any replies I receive.
 
