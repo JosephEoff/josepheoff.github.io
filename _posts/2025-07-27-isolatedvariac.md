@@ -101,6 +101,7 @@ That wraps up this look at a piece of vintage test equipment.  I'll start workin
 The one thing I do not know about this transformer is who made it and where it was made.  There's no manufacturer's name anywhere.  Not even a sticker that says "made in the people's republic of who knows where."  Just, nothing.  Not even the model number does me any good.  No one anywhere on Earth has ever posted anything on the internet about a B870900/C3 transformer.  Just a big old mystery, all around.
 
 **ETA: 2025.08.03**
-*I found out who made my isolated non-variac.  [This (German language) forum thread about a different variac had a post in it about a Philips variable output isolated transformer.](https://www.casa.co.nz/transformers/Miniwatt%20Digest%20V2%20No.7.pdf) A link in the thread lead to [this catalog,](/assets/2025-07-27-isolatedvariac/Miniwatt Digest V2 No.7.pdf) which shows that this B870900 variable output isolation transformer was indeed manufactured by Philips.*
+*I found out who made my isolated non-variac.  [This (German language) forum thread about a different variac had a post in it about a Philips variable output isolated transformer.](https://www.mikrocontroller.net/topic/299166) Following that hint lead to [this catalog,](/assets/2025-07-27-isolatedvariac/Miniwatt Digest V2 No.7.pdf) which shows that this B870900 variable output isolation transformer was indeed manufactured by Philips.*
+
 
 
