@@ -8,6 +8,8 @@ image: /assets/2025-03-31-cpapmaskstraps/39.jpg
 ---
 No stretch but soft.
 
+[CPAP posts](cpap-toc)
+
 I have mentioned before that the straps on CPAP masks are rather uncomfortable, to the point that I [made some covers for my ResMed straps a while back.](vibratingshuttle-jersey-2)
 
 The straps have recently gotten so that they cut into the back of my neck, so I drew some sketches and made a set of straps from some material my wife had tucked away.
@@ -218,3 +220,5 @@ To put the mask back on, loop one lower strap through the slot in the mask, then
 Be careful with the clips.  They will sometimes turn sideways and slip out of the mask slots while putting the mask on.  Once the mask is on, they can't come out.
 
 There you go.  The world's most comfortable CPAP mask straps.
+
+[CPAP posts](cpap-toc)

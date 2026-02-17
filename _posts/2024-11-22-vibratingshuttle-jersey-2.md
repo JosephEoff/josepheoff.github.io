@@ -10,6 +10,8 @@ A simple project - if you can sew jersey fabric.
 
 [Sewing knit jersey material on a vintage straight stitch sewing machine - Table of Contents](vibratingshuttle-jersey-toc) 
 
+[CPAP posts](cpap-toc)
+
 I've mentioned before that I'm an old geezer.  Besides [bad eyes that cause me to need two pairs of glasses,](eyeglassclip) I also need a [CPAP machine](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure) to keep me breathing properly at night.
 
 The mask for the CPAP is what got me to thinking about sewing some jersey fabric.
@@ -108,3 +110,5 @@ Those of you with Singer machines are probably out of luck.  Singer resisted put
 
 
 [Sewing knit jersey material on a vintage straight stitch sewing machine - Table of Contents](vibratingshuttle-jersey-toc) 
+
+[CPAP posts](cpap-toc)

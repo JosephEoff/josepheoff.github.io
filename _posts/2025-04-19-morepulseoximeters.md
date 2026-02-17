@@ -8,6 +8,8 @@ image: /assets/2025-04-19-morepulseoximeters/3.jpg
 ---
 How many can we find?
 
+[CPAP posts](cpap-toc)
+
 I recently mentioned that I implemented support for the Wellue/Viatom POD2W pulseoximeter for the OSCAR CPAP software.  The idea was to put support for an inexpensive pulseoximeter into the OSCAR software so that folks could check for low oxygen levels in their blood without having to spend a bundle on the more expensive oximeters out there.
 
 It turned out that while the POD2W is available on Amazon here in Europe, it isn't available in the US or other countries.  At a guess, Wellue/Viatom makes different models to meet the regulations in different markets.
@@ -42,3 +44,4 @@ Android/data/com.viatom.vihealth/files/27/host/1745080270764.dat
 
 The numerical file names are Unix timestamps that give the start date and time of the file. 
 
+[CPAP posts](cpap-toc)

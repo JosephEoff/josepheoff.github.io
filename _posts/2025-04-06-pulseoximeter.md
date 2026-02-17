@@ -8,6 +8,8 @@ image: /assets/2025-04-06-pulseoximeter/1.jpg
 ---
 Not a necessity, but certainly useful.
 
+[CPAP posts](cpap-toc)
+
 I bought a [pulse-oximeter](https://en.wikipedia.org/wiki/Pulse_oximetry) a while back to scratch my curiousity itch about the effectiveness of CPAP therapy.
 
 Sleep apnea causes you to stop breathing at night.  In some people, it is a physical problem - the airway gets blocked, leading to snoring and poor breathing.  In other people, it is a neurological problem in that the reflex that should cause you to breath takes a break - you "forget to breathe."
@@ -156,3 +158,4 @@ Mostly, I keep using the POD2 to make sure that I've gotten the import correct. 
 
 The Viatom/Wellue POD2 import has been submitted to the OSCAR developers to be included in a future version.  Until then, you can check out the [source code from the official OSCAR repository at GitLab](https://gitlab.com/CrimsonNape/OSCAR-code) and try it out (assuming you know how to use QT-Creator to compile the project.)
 
+[CPAP posts](cpap-toc)
