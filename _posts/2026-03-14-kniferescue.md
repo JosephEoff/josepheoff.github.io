@@ -8,9 +8,9 @@ image: /assets/2026-03-14-kniferescue/23.jpg
 ---
 When the blade is willing but the wood is weak.
 
-Everytime I've sharpened out kitchen knives for the last year or so, there was always this one knife where I kept thinking "this thing is broken."  The handle was cracked, the pins were loose, the blade flopped when cutting, etc.
+Everytime I've sharpened our kitchen knives for the last year or so, there was always this one knife where I kept thinking "this thing is broken."  The handle was cracked, the pins were loose, the blade flopped when cutting, etc.
 
-A couple of weeks ago, I decided enough was enough and took that knife out in the garage to fix it up.
+A few of weeks ago, I decided enough was enough and took that knife out in the garage to fix it up.
 
 |Before|
 |------|
@@ -47,7 +47,7 @@ I traced the old handle and used it as a basis for the new handle. The new one i
 |![Cutting and shaping the handle 3](/assets/2026-03-14-kniferescue/8.jpg)|
 |![Cutting and shaping the handle 4](/assets/2026-03-14-kniferescue/9.jpg)|
 
-I stuck the two halves together with contact cement, then glued one copy of the template to the stack.  I cut the shape with a bandsaw.  The made the cutouts for the blade using a couple of wood chisels with copies of the templates glued to the handle halves.  Getting a perfect fit was a bit of cut and try.  I intentionally started far inside the lines, then slowly trimmed the shape until the tang fit perfectly.  The same for getting the depth - start too shallow, then slowly deepen with lots of stops to check the fit.
+I stuck the two halves together with contact cement, then glued one copy of the template to the stack.  I cut the shape with a bandsaw.  I made the cutouts for the blade using a couple of wood chisels with copies of the templates glued to the handle halves.  Getting a perfect fit was a bit of cut and try.  I intentionally started far inside the lines, then slowly trimmed the shape until the tang fit perfectly.  The same for getting the depth - start too shallow, then slowly deepen with lots of stops to check the fit.
 
 I made the holes by clamping the blade into one half of the handle and drilling through the holes in the blade into the wood.  After that, clamp the blade into both halves and drill all the way through starting with the already drilled holes in the first half.
 
